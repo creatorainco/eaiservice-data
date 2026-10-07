@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this data, please credit Evaluate AI Service (eaiservice.com), published by Midwest AI Solution Inc."
+type: dataset
+title: "Evaluate AI Service: AI software review and price data"
+authors:
+  - name: "Evaluate AI Service"
+publisher:
+  name: "Midwest AI Solution Inc."
+license: CC-BY-4.0
+url: "https://eaiservice.com/data/"
+repository-code: "https://github.com/creatorainco/eaiservice-data"
+date-released: 2026-10-07
+keywords: [AI software, pricing, restaurant marketing, influencer marketing, cold email, AI voice agents]
+abstract: "Review records and plan prices for AI software used by restaurants and small businesses. Published by Midwest AI Solution Inc., which also makes CreatoRain; CreatoRain is listed but never scored."

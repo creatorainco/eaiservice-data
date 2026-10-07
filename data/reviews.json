@@ -1,0 +1,4313 @@
+{
+  "publisher": "Evaluate AI Service",
+  "owner": "Midwest AI Solution Inc.",
+  "corrections": "corrections@eaiservice.com",
+  "disclosure": "Disclosure: Evaluate AI Service is owned by Midwest AI Solution Inc., which also makes CreatoRain (https://www.creatorain.com/). CreatoRain is listed but never scored.",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "licenseName": "CC BY 4.0",
+  "attribution": "Evaluate AI Service (eaiservice.com), published by Midwest AI Solution Inc.",
+  "dataPage": "https://eaiservice.com/data/",
+  "pricesCsv": "https://eaiservice.com/data/prices.csv",
+  "scoring": {
+    "scale": "1-5",
+    "method": "https://eaiservice.com/methodology/",
+    "note": "Evidence scores from published sources, not hands-on tests. CreatoRain is not scored."
+  },
+  "dateModified": "2026-10-07",
+  "count": 18,
+  "reviews": [
+    {
+      "slug": "chowbus",
+      "name": "Chowbus",
+      "maker": "Chowbus, Inc.",
+      "vendorUrl": "https://www.chowbus.com/",
+      "category": "restaurant-marketing",
+      "crossList": [],
+      "relationship": "partner",
+      "relationshipText": "Chowbus is a business partner of CreatoRain, which we make.",
+      "criteria": [
+        {
+          "key": "core",
+          "label": "Core job",
+          "weight": 0.25,
+          "score": 3,
+          "evidence": "Loyalty, automated SMS, promotions, gift cards, a website with online ordering, review management, multi-location tools and an AI marketing suite are all named on vendor pages.",
+          "sources": [
+            "https://www.chowbus.com/",
+            "https://www.chowbus.com/products/restaurant-loyalty-programs",
+            "https://www.chowbus.com/products/sms-marketing-for-restaurants",
+            "https://www.chowbus.com/products/website-for-restaurants",
+            "https://www.chowbus.com/products/restaurant-review-management",
+            "https://www.chowbus.com/products/multi-location-management",
+            "https://www.chowbus.com/ai-suite/ai-ads-optimization",
+            "https://www.chowbus.com/ai-suite/ai-social-media"
+          ]
+        },
+        {
+          "key": "fit",
+          "label": "Fit for the category's buyer",
+          "weight": 0.2,
+          "score": 3,
+          "evidence": "Plans are named for single- and multi-location restaurants, but all are bought through a sales call and branded app and MMS sit in the top tier.",
+          "sources": [
+            "https://www.chowbus.com/pos-plans/pricing",
+            "https://www.chowbus.com/",
+            "https://www.chowbus.com/free-pos-demo",
+            "https://www.chowbus.com/products/website-for-restaurants"
+          ]
+        },
+        {
+          "key": "pricing",
+          "label": "Pricing transparency",
+          "weight": 0.2,
+          "score": 2,
+          "evidence": "Above the lowest score because the online ordering fee ($1 or 5% per order) is published, though its plans are listed without prices and SMS, processing and AI Suite rates are not.",
+          "sources": [
+            "https://www.chowbus.com/pos-plans/pricing",
+            "https://www.chowbus.com/products/website-for-restaurants",
+            "https://www.chowbus.com/products/online-ordering-for-restaurants",
+            "https://www.chowbus.com/products/sms-marketing-for-restaurants"
+          ]
+        },
+        {
+          "key": "setup",
+          "label": "Setup and time to first result",
+          "weight": 0.15,
+          "score": 2,
+          "evidence": "Sales-led onboarding; Chowbus says it uploads the menu, installs and trains on site, and most websites go live within a week.",
+          "sources": [
+            "https://www.chowbus.com/free-pos-demo",
+            "https://www.chowbus.com/pos-plans/why-chowbus",
+            "https://www.chowbus.com/pos-plans/pricing",
+            "https://www.chowbus.com/products/website-for-restaurants"
+          ]
+        },
+        {
+          "key": "integrations",
+          "label": "Integrations and data portability",
+          "weight": 0.1,
+          "score": 3,
+          "evidence": "Connects to nearly 50 U.S. delivery platforms and exports report data; no public API or integration directory found.",
+          "sources": [
+            "https://www.chowbus.com/products/third-party-delivery-integration",
+            "https://www.chowbus.com/products/point-of-sale",
+            "https://www.chowbus.com/pos-plans/pricing",
+            "https://www.chowbus.com/privacy-policy"
+          ]
+        },
+        {
+          "key": "trust",
+          "label": "Trust, security and support",
+          "weight": 0.1,
+          "score": 2,
+          "evidence": "24/7 phone, text and chat support in four languages is published, but no security certification or status page was found, so it falls below the one-verifiable-signal anchor.",
+          "sources": [
+            "https://www.chowbus.com/pos-plans/why-chowbus",
+            "https://www.chowbus.com/products/point-of-sale",
+            "https://www.chowbus.com/pos-plans/pricing",
+            "https://www.chowbus.com/pos-plans/compare",
+            "https://www.chowbus.com/privacy-policy"
+          ]
+        }
+      ],
+      "overallScore": 2.6,
+      "overallScoreText": "2.6",
+      "criteriaWithEvidence": 6,
+      "prices": {
+        "sourceUrl": "https://www.chowbus.com/pos-plans/pricing",
+        "read": "2026-10-05",
+        "tiers": [
+          {
+            "name": "Starter",
+            "price": "Quote on request",
+            "chargedPer": "Per restaurant",
+            "limit": "For a new or single-location restaurant: the POS, kitchen tickets, menu management, kiosks, table tablets, QR and online ordering (a fee of $1 or 5% per order), and loyalty",
+            "amount": null,
+            "currency": "USD"
+          },
+          {
+            "name": "Efficiency",
+            "price": "Quote on request",
+            "chargedPer": "Per restaurant",
+            "limit": "For a busy quick-service, boba or single full-service restaurant: everything in Starter, plus delivery integration, promotions, waitlist and reservations",
+            "amount": null,
+            "currency": "USD"
+          },
+          {
+            "name": "Growth",
+            "price": "Quote on request",
+            "chargedPer": "Per restaurant",
+            "limit": "For multi-location groups: everything in Efficiency, plus a kitchen display, a branded app, a pickup screen, picture messages (MMS), custom reports and robot integrations",
+            "amount": null,
+            "currency": "USD"
+          }
+        ],
+        "notes": [
+          "All Chowbus plans: Chowbus quotes each restaurant a price that depends on its hardware and size.",
+          "All Chowbus plans: Chowbus says $0 upfront hardware is available for qualified restaurants, and hardware, software add-ons and payment processing may cost extra."
+        ]
+      },
+      "freePlanOrTrial": "No",
+      "freePlan": "no",
+      "selfServeTrial": "no",
+      "reddit": {
+        "query": "chowbus pos; \"chowbus\"",
+        "searched": [
+          "all of Reddit"
+        ],
+        "from": "2024-10-05",
+        "to": "2026-10-05",
+        "fromToMeans": "dates the threads were started",
+        "repliesRead": "2026-10-05",
+        "threads": 0,
+        "negative": 0,
+        "mixed": 0,
+        "positive": 0,
+        "excerpts": []
+      },
+      "sources": [
+        {
+          "url": "https://www.chowbus.com/pos-plans/pricing",
+          "title": "Chowbus POS plans and pricing",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.chowbus.com/",
+          "title": "Chowbus home page",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.chowbus.com/pos-plans/why-chowbus",
+          "title": "Why Chowbus",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.chowbus.com/pos-plans/compare",
+          "title": "Chowbus POS comparison page",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.chowbus.com/free-pos-demo",
+          "title": "Chowbus demo request page",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.chowbus.com/products/point-of-sale",
+          "title": "Chowbus point of sale",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.chowbus.com/products/online-ordering-for-restaurants",
+          "title": "Chowbus online ordering",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.chowbus.com/products/website-for-restaurants",
+          "title": "Chowbus restaurant website",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.chowbus.com/products/restaurant-loyalty-programs",
+          "title": "Chowbus loyalty programs",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.chowbus.com/products/sms-marketing-for-restaurants",
+          "title": "Chowbus SMS marketing",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.chowbus.com/products/gift-cards-for-restaurants",
+          "title": "Chowbus gift cards",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.chowbus.com/products/restaurant-review-management",
+          "title": "Chowbus review management",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.chowbus.com/products/multi-location-management",
+          "title": "Chowbus multi-location management",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.chowbus.com/products/third-party-delivery-integration",
+          "title": "Chowbus third-party delivery integration",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.chowbus.com/ai-suite/ai-ads-optimization",
+          "title": "Chowbus AI Ads Optimization",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.chowbus.com/ai-suite/ai-social-media",
+          "title": "Chowbus AI Social Media",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.chowbus.com/ai-suite/ai-creatives-assets",
+          "title": "Chowbus AI Creatives Assets",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.chowbus.com/ai-suite/ai-review-insights",
+          "title": "Chowbus AI Review Insights",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.chowbus.com/news/chowbus-raises-81m-series-e",
+          "title": "Chowbus news: Chowbus Raises $81M Series E",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.chowbus.com/privacy-policy",
+          "title": "Chowbus privacy policy",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://techcrunch.com/2024/01/24/fantuan-acquires-chowbus-food-delivery/",
+          "title": "TechCrunch: Fantuan acquires Chowbus’ food delivery business (2024-01-24); Chowbus kept its restaurant software and POS business",
+          "read": "2026-10-05"
+        }
+      ],
+      "editor": "Peter Chen",
+      "datePublished": "2026-10-05",
+      "dateModified": "2026-10-05",
+      "lastChecked": "2026-10-05",
+      "pageUrl": "https://eaiservice.com/reviews/chowbus/",
+      "markdownUrl": "https://eaiservice.com/reviews/chowbus/index.md"
+    },
+    {
+      "slug": "creator-co",
+      "name": "Creator.co",
+      "maker": "Shop and Shout Ltd. (doing business as Creator.co)",
+      "vendorUrl": "https://www.creator.co/",
+      "category": "influencer-marketing",
+      "crossList": [],
+      "relationship": null,
+      "relationshipText": null,
+      "criteria": [
+        {
+          "key": "core",
+          "label": "Core job",
+          "weight": 0.25,
+          "score": 3,
+          "evidence": "AI creator matching across 400M+ creators, AI-written briefs and outreach, collaborations and performance tracking are documented; not confirmed first-hand.",
+          "sources": [
+            "https://www.creator.co/pricing",
+            "https://www.creator.co/"
+          ]
+        },
+        {
+          "key": "fit",
+          "label": "Fit for the category's buyer",
+          "weight": 0.2,
+          "score": 2,
+          "evidence": "Self Serve can be bought, and a food and beverage page names targeting by location, but no restaurant use is named and in-store promotions are Enterprise only.",
+          "sources": [
+            "https://www.creator.co/use-cases/food-beverage-brands",
+            "https://www.creator.co/pricing"
+          ]
+        },
+        {
+          "key": "pricing",
+          "label": "Pricing transparency",
+          "weight": 0.2,
+          "score": 4,
+          "evidence": "Self Serve and Managed are priced monthly and annually with minimums, extra credits and onboarding are priced, and a trial is offered; Enterprise is custom.",
+          "sources": [
+            "https://www.creator.co/pricing"
+          ]
+        },
+        {
+          "key": "setup",
+          "label": "Setup and time to first result",
+          "weight": 0.15,
+          "score": 3,
+          "evidence": "Self-serve 14-day trial with no card; a paid onboarding add-on sets up the first campaign for those who want help.",
+          "sources": [
+            "https://www.creator.co/pricing"
+          ]
+        },
+        {
+          "key": "integrations",
+          "label": "Integrations and data portability",
+          "weight": 0.1,
+          "score": 1,
+          "evidence": "No integration list or API docs found; a use-case page names Google Analytics and Shopify tracking.",
+          "sources": [
+            "https://www.creator.co/use-cases/food-beverage-brands",
+            "https://www.creator.co/"
+          ]
+        },
+        {
+          "key": "trust",
+          "label": "Trust, security and support",
+          "weight": 0.1,
+          "score": 2,
+          "evidence": "A status report hosted by StatusCake and a help center with no articles found; no certification or support terms found.",
+          "sources": [
+            "https://status.creator.co/",
+            "https://help.creator.co/",
+            "https://www.creator.co/brand-terms"
+          ]
+        }
+      ],
+      "overallScore": 2.7,
+      "overallScoreText": "2.7",
+      "criteriaWithEvidence": 6,
+      "prices": {
+        "sourceUrl": "https://www.creator.co/pricing",
+        "read": "2026-10-06",
+        "tiers": [
+          {
+            "name": "Self Serve (annual)",
+            "price": "$199 a month, billed yearly",
+            "chargedPer": "—",
+            "limit": "100 contact credits; 50 insight reports; unlimited creator collaborations",
+            "amount": 199,
+            "currency": "USD"
+          },
+          {
+            "name": "Self Serve (monthly)",
+            "price": "$299 a month, billed monthly",
+            "chargedPer": "—",
+            "limit": "100 contact credits; 50 insight reports; unlimited creator collaborations",
+            "amount": 299,
+            "currency": "USD"
+          },
+          {
+            "name": "Managed (annual)",
+            "price": "$1,499 a month, billed yearly",
+            "chargedPer": "—",
+            "limit": "250 contact credits; 150 insight reports; dedicated account manager; up to 5 creator collaborations a month",
+            "amount": 1499,
+            "currency": "USD"
+          },
+          {
+            "name": "Managed (monthly)",
+            "price": "$2,199 a month, billed monthly",
+            "chargedPer": "—",
+            "limit": "250 contact credits; 150 insight reports; dedicated account manager; up to 5 creator collaborations a month",
+            "amount": 2199,
+            "currency": "USD"
+          },
+          {
+            "name": "Enterprise",
+            "price": "Quote on request",
+            "chargedPer": "—",
+            "limit": "Custom credits and reports; in-store promotions and event support",
+            "amount": null,
+            "currency": "USD"
+          }
+        ],
+        "notes": [
+          "Creator.co credits: additional contact credits cost $99 for 100 on Self Serve and Managed.",
+          "Creator.co Jumpstart Onboarding: a $395 add-on covers campaign setup, a list of 50 influencers and platform training.",
+          "Creator.co monthly billing: Self Serve needs a 3-month minimum and Managed a 6-month minimum."
+        ]
+      },
+      "freePlanOrTrial": "Trial 14 days",
+      "freePlan": "unknown",
+      "selfServeTrial": "yes",
+      "reddit": {
+        "query": "Creator.co",
+        "searched": [
+          "all of Reddit",
+          "r/influencermarketing",
+          "r/marketing",
+          "r/restaurantowners",
+          "r/smallbusiness"
+        ],
+        "from": "2025-04-06",
+        "to": "2026-10-06",
+        "fromToMeans": "dates the threads were started",
+        "repliesRead": "2026-10-06",
+        "threads": 3,
+        "negative": 0,
+        "mixed": 0,
+        "positive": 3,
+        "excerpts": [
+          {
+            "text": "Have you looked into Creator.co? We switched from Grin last year and the bulk management features are way better. The UI actually makes sense unlike some of these other platforms that feel like they were designed in 2015",
+            "user": "OtherwisePin1044",
+            "subreddit": "ecommerce",
+            "posted": "2026-01-13",
+            "permalink": "https://www.reddit.com/r/ecommerce/comments/1qbpm9z/comment/nzcagh2/"
+          },
+          {
+            "text": "GetCreatorsList / Creator.co – marketplace-style, easier entry point for small budgets.",
+            "user": "AEGISTech2",
+            "subreddit": "ecommerce101",
+            "posted": "2026-08-01",
+            "permalink": "https://www.reddit.com/r/ecommerce101/comments/1vd1hig/top_creator_marketing_platforms_for_small/"
+          },
+          {
+            "text": "You create a profile and apply to brand opportunities inside the platform. Good mix of smaller and mid-sized companies.",
+            "user": "ceo-grow11",
+            "subreddit": "UGCcreators",
+            "posted": "2026-03-04",
+            "permalink": "https://www.reddit.com/r/UGCcreators/comments/1rkcg7m/some_platforms_i_used_to_get_3kmonth/"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.creator.co/pricing",
+          "title": "Creator.co pricing",
+          "read": "2026-10-06"
+        },
+        {
+          "url": "https://www.creator.co/",
+          "title": "Creator.co home page",
+          "read": "2026-10-06"
+        },
+        {
+          "url": "https://www.creator.co/use-cases/food-beverage-brands",
+          "title": "Creator.co for food and beverage brands",
+          "read": "2026-10-06"
+        },
+        {
+          "url": "https://www.creator.co/about",
+          "title": "About Creator.co",
+          "read": "2026-10-06"
+        },
+        {
+          "url": "https://www.creator.co/brand-terms",
+          "title": "Creator.co brand terms",
+          "read": "2026-10-06"
+        },
+        {
+          "url": "https://status.creator.co/",
+          "title": "Creator.co status report (StatusCake)",
+          "read": "2026-10-06"
+        },
+        {
+          "url": "https://help.creator.co/",
+          "title": "Creator.co help center",
+          "read": "2026-10-06"
+        }
+      ],
+      "editor": "Peter Chen",
+      "datePublished": "2026-10-06",
+      "dateModified": "2026-10-06",
+      "lastChecked": "2026-10-06",
+      "pageUrl": "https://eaiservice.com/reviews/creator-co/",
+      "markdownUrl": "https://eaiservice.com/reviews/creator-co/index.md"
+    },
+    {
+      "slug": "creatorain",
+      "name": "CreatoRain",
+      "maker": "Midwest AI Solution Inc.",
+      "vendorUrl": "https://www.creatorain.com/",
+      "category": "influencer-marketing",
+      "crossList": [
+        "restaurant-marketing"
+      ],
+      "relationship": "owner",
+      "relationshipText": "We make CreatoRain. Midwest AI Solution Inc. owns both CreatoRain and this site, and our editor, Peter Chen, is its CEO.",
+      "criteria": [
+        {
+          "key": "core",
+          "label": "Core job",
+          "weight": 0.25,
+          "evidence": "Finds food creators where your locations are, sends invitations and follow-ups, and lets creators book a visit. A person reviews each drafted reply unless auto-send is on.",
+          "sources": [
+            "https://www.creatorain.com/platform"
+          ]
+        },
+        {
+          "key": "fit",
+          "label": "Fit for the category's buyer",
+          "weight": 0.2,
+          "evidence": "Built for restaurants: restaurant brands, multi-location chains and the agencies that serve them, with separate pages for QSR and fast casual brands and for Asian restaurant brands.",
+          "sources": [
+            "https://www.creatorain.com/about",
+            "https://www.creatorain.com/solutions/restaurant-chains"
+          ]
+        },
+        {
+          "key": "pricing",
+          "label": "Pricing transparency",
+          "weight": 0.2,
+          "evidence": "Free plan and platform fees are published; done-with-you per-video prices include creator pay. On self-serve, creator pay and meals are extra; monthly billing has a 4-month minimum.",
+          "sources": [
+            "https://www.creatorain.com/pricing"
+          ]
+        },
+        {
+          "key": "setup",
+          "label": "Setup and time to first result",
+          "weight": 0.15,
+          "evidence": "Reads your website and drafts the campaign name and description; you review, correct it and add your locations.",
+          "sources": [
+            "https://www.creatorain.com/platform"
+          ]
+        },
+        {
+          "key": "integrations",
+          "label": "Integrations and data portability",
+          "weight": 0.1,
+          "evidence": "Imports a creator list by CSV. The pricing page links a Partner API page, which was not read; the platform page names no other integration.",
+          "sources": [
+            "https://www.creatorain.com/pricing",
+            "https://www.creatorain.com/platform"
+          ]
+        },
+        {
+          "key": "trust",
+          "label": "Trust, security and support",
+          "weight": 0.1,
+          "evidence": "Run from Atlanta, with a support email, legal documents and a security policy. The policy cites only its host's security audits, none of CreatoRain's own, and the site links no status page.",
+          "sources": [
+            "https://www.creatorain.com/about",
+            "https://www.creatorain.com/security"
+          ]
+        }
+      ],
+      "scoreNote": "Not scored: we make CreatoRain.",
+      "prices": {
+        "sourceUrl": "https://www.creatorain.com/pricing",
+        "read": "2026-10-07",
+        "tiers": [
+          {
+            "name": "Free",
+            "price": "Free",
+            "chargedPer": "—",
+            "limit": "1 restaurant location and 1 team login. You bring your own creators (CSV import or added by hand). Outreach, AI discovery and the creator database are on the paid plans.",
+            "amount": 0,
+            "currency": "USD"
+          },
+          {
+            "name": "Starter",
+            "price": "$200 a month, billed monthly",
+            "chargedPer": "—",
+            "limit": "Up to 3 restaurant locations, 1 team login and 2,000 customized emails a month. Self-serve: platform fee only, up to 16 finished videos a month; creator commission and food comp are paid on top. Done-with-you: $300 per finished video, 3 to 16 a month, so at least $1,100 a month, creator commission included. Paying annually adds 2 bonus videos for the year.",
+            "amount": 200,
+            "currency": "USD"
+          },
+          {
+            "name": "Growth",
+            "price": "$500 a month, billed monthly",
+            "chargedPer": "—",
+            "limit": "Up to 10 restaurant locations, 3 team logins, 5,000 customized emails a month and priority support. Self-serve: platform fee only, up to 48 finished videos a month. Done-with-you: $275 per finished video, 6 to 48 a month, so at least $2,150 a month, creator commission included. Paying annually adds 4 bonus videos for the year.",
+            "amount": 500,
+            "currency": "USD"
+          },
+          {
+            "name": "Scale",
+            "price": "$1,000 a month, billed monthly",
+            "chargedPer": "—",
+            "limit": "Up to 100 restaurant locations, 10 team logins, 15,000 customized emails a month, priority support and a dedicated account manager. Self-serve: platform fee only, up to 120 finished videos a month. Done-with-you: $250 per finished video, 10 to 120 a month, so at least $3,500 a month, creator commission included. Paying annually adds 6 bonus videos for the year.",
+            "amount": 1000,
+            "currency": "USD"
+          }
+        ],
+        "notes": [
+          "CreatoRain Free: the plan is free with no time limit, and no card is needed to sign up.",
+          "CreatoRain Starter, Growth and Scale: each is one flat platform fee for up to 3, 10 or 100 restaurant locations, billed monthly with a 4-month minimum or annually at the same rate.",
+          "CreatoRain done-with-you: a CreatoRain specialist runs the campaign for $300, $275 or $250 per finished video on Starter, Growth or Scale, the creator’s commission included, with a monthly minimum of 3, 6 or 10 videos."
+        ]
+      },
+      "freePlanOrTrial": "Free plan",
+      "freePlan": "yes",
+      "selfServeTrial": "yes",
+      "reddit": {
+        "query": "creatorain",
+        "searched": [
+          "all of Reddit"
+        ],
+        "from": "2024-10-05",
+        "to": "2026-10-05",
+        "fromToMeans": "dates the threads were started",
+        "repliesRead": "2026-10-07",
+        "threads": 0,
+        "negative": 0,
+        "mixed": 0,
+        "positive": 0,
+        "excerpts": []
+      },
+      "sources": [
+        {
+          "url": "https://www.creatorain.com/platform",
+          "title": "CreatoRain platform and how it works",
+          "read": "2026-10-07"
+        },
+        {
+          "url": "https://www.creatorain.com/pricing",
+          "title": "CreatoRain pricing",
+          "read": "2026-10-07"
+        },
+        {
+          "url": "https://www.creatorain.com/about",
+          "title": "About CreatoRain",
+          "read": "2026-10-07"
+        },
+        {
+          "url": "https://www.creatorain.com/solutions/restaurant-chains",
+          "title": "CreatoRain for restaurant chains",
+          "read": "2026-10-07"
+        },
+        {
+          "url": "https://www.creatorain.com/security",
+          "title": "CreatoRain security policy",
+          "read": "2026-10-07"
+        },
+        {
+          "url": "https://www.reddit.com/search/?q=%22creatorain%22&type=posts&t=all",
+          "title": "Reddit search for “creatorain”",
+          "read": "2026-10-05"
+        }
+      ],
+      "editor": "Peter Chen",
+      "datePublished": "2026-10-05",
+      "dateModified": "2026-10-07",
+      "lastChecked": "2026-10-07",
+      "pageUrl": "https://eaiservice.com/reviews/creatorain/",
+      "markdownUrl": "https://eaiservice.com/reviews/creatorain/index.md"
+    },
+    {
+      "slug": "goodcall",
+      "name": "Goodcall",
+      "maker": "Goodcall AI Inc.",
+      "vendorUrl": "https://www.goodcall.com/",
+      "category": "ai-voice-agents",
+      "crossList": [],
+      "relationship": null,
+      "relationshipText": null,
+      "criteria": [
+        {
+          "key": "core",
+          "label": "Core job",
+          "weight": 0.25,
+          "score": 3,
+          "evidence": "Vendor docs describe call answering, transfer to staff and appointment handling; direct booking is documented for Boulevard only.",
+          "sources": [
+            "https://www.goodcall.com/",
+            "https://help.goodcall.com/en/articles/8007540-teach-your-agent-to-be-an-operator",
+            "https://help.goodcall.com/en/articles/8007538-schedule-appointments-with-your-ai-agent",
+            "https://help.goodcall.com/en/articles/11372295-integrating-boulevard-for-ai-powered-appointments"
+          ]
+        },
+        {
+          "key": "fit",
+          "label": "Fit for the category's buyer",
+          "weight": 0.2,
+          "score": 4,
+          "evidence": "Small and local businesses are named; the self-serve plans include answering and transfer, with direct booking tied to integrations.",
+          "sources": [
+            "https://www.goodcall.com/",
+            "https://www.goodcall.com/pricing",
+            "https://help.goodcall.com/en/articles/11372295-integrating-boulevard-for-ai-powered-appointments",
+            "https://help.goodcall.com/en/articles/8007552-what-countries-is-it-available-for"
+          ]
+        },
+        {
+          "key": "pricing",
+          "label": "Pricing transparency",
+          "weight": 0.2,
+          "score": 4,
+          "evidence": "Three self-serve tiers priced per agent with a stated overage; Enterprise unpriced; 14-day free trial advertised.",
+          "sources": [
+            "https://www.goodcall.com/pricing"
+          ]
+        },
+        {
+          "key": "setup",
+          "label": "Setup and time to first result",
+          "weight": 0.15,
+          "score": 3,
+          "evidence": "Self-serve signup with guided setup; claimed launch in minutes, unconfirmed; booking integrations need API keys; capped at 3: not tested hands-on.",
+          "sources": [
+            "https://www.goodcall.com/",
+            "https://www.goodcall.com/how-it-works",
+            "https://help.goodcall.com/en/articles/11372295-integrating-boulevard-for-ai-powered-appointments"
+          ]
+        },
+        {
+          "key": "integrations",
+          "label": "Integrations and data portability",
+          "weight": 0.1,
+          "score": 2,
+          "evidence": "Zapier app and a few named integrations; no integrations directory, public API docs or export documentation found.",
+          "sources": [
+            "https://help.goodcall.com/en/articles/9215884-step-by-step-guide-to-linking-goodcall-with-zapier",
+            "https://zapier.com/apps/goodcall/integrations",
+            "https://help.goodcall.com/en/articles/11372295-integrating-boulevard-for-ai-powered-appointments",
+            "https://www.goodcall.com/enterprise",
+            "https://www.goodcall.com/pricing"
+          ]
+        },
+        {
+          "key": "trust",
+          "label": "Trust, security and support",
+          "weight": 0.1,
+          "score": 3,
+          "evidence": "SOC 2 Type II, ISO 27001 and HIPAA claimed with a Vanta trust centre; help centre support; SLA on Enterprise only; no status page found.",
+          "sources": [
+            "https://www.goodcall.com/",
+            "https://trust.goodcall.com/",
+            "https://help.goodcall.com/en",
+            "https://www.goodcall.com/pricing"
+          ]
+        }
+      ],
+      "overallScore": 3.3,
+      "overallScoreText": "3.3",
+      "criteriaWithEvidence": 6,
+      "prices": {
+        "sourceUrl": "https://www.goodcall.com/pricing",
+        "read": "2026-10-05",
+        "tiers": [
+          {
+            "name": "Starter",
+            "price": "$79 a month, billed monthly",
+            "chargedPer": "Per agent",
+            "limit": "100 unique customers a month, then $0.50 per extra customer; unlimited minutes and tokens; 1 logic flow; 3 team members; 3 directory contacts; 7 days of call & customer details",
+            "amount": 79,
+            "currency": "USD"
+          },
+          {
+            "name": "Growth",
+            "price": "$129 a month, billed monthly",
+            "chargedPer": "Per agent",
+            "limit": "250 unique customers a month, then $0.50 per extra customer; unlimited minutes and tokens; 3 logic flows; 9 team members; 25 directory contacts; 30 days of call & customer details",
+            "amount": 129,
+            "currency": "USD"
+          },
+          {
+            "name": "Scale",
+            "price": "$249 a month, billed monthly",
+            "chargedPer": "Per agent",
+            "limit": "500 unique customers a month, then $0.50 per extra customer; unlimited minutes and tokens; 25 logic flows; 50 team members; 500 directory contacts; unlimited call & customer details",
+            "amount": 249,
+            "currency": "USD"
+          },
+          {
+            "name": "Starter (annual)",
+            "price": "$66 a month, billed yearly",
+            "chargedPer": "Per agent",
+            "limit": "100 unique customers a month, then $0.50 per extra customer",
+            "amount": 66,
+            "currency": "USD"
+          },
+          {
+            "name": "Growth (annual)",
+            "price": "$108 a month, billed yearly",
+            "chargedPer": "Per agent",
+            "limit": "250 unique customers a month, then $0.50 per extra customer",
+            "amount": 108,
+            "currency": "USD"
+          },
+          {
+            "name": "Scale (annual)",
+            "price": "$208 a month, billed yearly",
+            "chargedPer": "Per agent",
+            "limit": "500 unique customers a month, then $0.50 per extra customer",
+            "amount": 208,
+            "currency": "USD"
+          },
+          {
+            "name": "Enterprise",
+            "price": "Quote on request",
+            "chargedPer": "—",
+            "limit": "Custom minutes and tokens; Custom API integrations; SLA & priority support",
+            "amount": null,
+            "currency": "USD"
+          }
+        ],
+        "notes": [
+          "Goodcall Starter, Growth and Scale: paying yearly lowers the monthly price, for example Starter from $79 to $66 per agent."
+        ]
+      },
+      "freePlanOrTrial": "Trial 14 days",
+      "freePlan": "unknown",
+      "selfServeTrial": "yes",
+      "reddit": {
+        "query": "Goodcall",
+        "searched": [
+          "r/smallbusiness",
+          "r/AIReceptionists"
+        ],
+        "from": "2024-10-05",
+        "to": "2026-10-05",
+        "fromToMeans": "dates the threads were started",
+        "repliesRead": "2026-10-05",
+        "threads": 0,
+        "negative": 0,
+        "mixed": 0,
+        "positive": 0,
+        "excerpts": []
+      },
+      "sources": [
+        {
+          "url": "https://www.goodcall.com/pricing",
+          "title": "Goodcall pricing",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.goodcall.com/",
+          "title": "Goodcall home page",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.goodcall.com/how-it-works",
+          "title": "Goodcall: How it works",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.goodcall.com/enterprise",
+          "title": "Goodcall Enterprise",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://trust.goodcall.com/",
+          "title": "Goodcall Trust Center",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://help.goodcall.com/en",
+          "title": "Goodcall Help Center",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://help.goodcall.com/en/articles/8007540-teach-your-agent-to-be-an-operator",
+          "title": "Goodcall help: Teach Your Agent To Be An Operator",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://help.goodcall.com/en/articles/8007538-schedule-appointments-with-your-ai-agent",
+          "title": "Goodcall help: Schedule Appointments With Your Ai Agent",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://help.goodcall.com/en/articles/11372295-integrating-boulevard-for-ai-powered-appointments",
+          "title": "Goodcall help: Integrating Boulevard for AI-powered appointments",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://help.goodcall.com/en/articles/9215884-step-by-step-guide-to-linking-goodcall-with-zapier",
+          "title": "Goodcall help: Step-by-Step Guide to Linking Goodcall with Zapier",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://help.goodcall.com/en/articles/8007552-what-countries-is-it-available-for",
+          "title": "Goodcall help: What countries is it available for?",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://help.goodcall.com/en/articles/13168924-goodcall-plan-and-pricing-update",
+          "title": "Goodcall help: Goodcall Plan and Pricing Update",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://help.goodcall.com/en/articles/8007566-terms-of-service",
+          "title": "Goodcall Terms of Service",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://zapier.com/apps/goodcall/integrations",
+          "title": "Goodcall integrations on Zapier (third-party listing)",
+          "read": "2026-10-05"
+        }
+      ],
+      "editor": "Peter Chen",
+      "datePublished": "2026-10-05",
+      "dateModified": "2026-10-05",
+      "lastChecked": "2026-10-05",
+      "pageUrl": "https://eaiservice.com/reviews/goodcall/",
+      "markdownUrl": "https://eaiservice.com/reviews/goodcall/index.md"
+    },
+    {
+      "slug": "grin",
+      "name": "GRIN",
+      "maker": "Grin Technologies Inc.",
+      "vendorUrl": "https://grin.co/",
+      "category": "influencer-marketing",
+      "crossList": [],
+      "relationship": null,
+      "relationshipText": null,
+      "criteria": [
+        {
+          "key": "core",
+          "label": "Core job",
+          "weight": 0.25,
+          "score": 3,
+          "evidence": "Creator CRM, a creator marketplace, outreach run by the Gia agent with human approval, affiliate links, codes and sales tracking are documented; not confirmed first-hand.",
+          "sources": [
+            "https://grin.co/pricing/",
+            "https://grin.co/platform/",
+            "https://grin.co/"
+          ]
+        },
+        {
+          "key": "fit",
+          "label": "Fit for the category's buyer",
+          "weight": 0.2,
+          "score": 2,
+          "evidence": "Self-serve plans exist, but the pages name ecommerce and food and beverage brands only; no restaurant, local creator search or hosted visit is described.",
+          "sources": [
+            "https://grin.co/industries/",
+            "https://grin.co/platform/",
+            "https://grin.co/pricing/"
+          ]
+        },
+        {
+          "key": "pricing",
+          "label": "Pricing transparency",
+          "weight": 0.2,
+          "score": 4,
+          "evidence": "All four plans are priced with their monthly credits, plus a free plan and a 30-day Starter trial; extra credits can be bought but are not priced.",
+          "sources": [
+            "https://grin.co/pricing/"
+          ]
+        },
+        {
+          "key": "setup",
+          "label": "Setup and time to first result",
+          "weight": 0.15,
+          "score": 3,
+          "evidence": "Self-serve signup with no sales call; Shopify connects in one click, while other stores need the tracking SDK and signed order webhooks.",
+          "sources": [
+            "https://grin.co/pricing/",
+            "https://grin.co/platform/",
+            "https://help.grin.co/"
+          ]
+        },
+        {
+          "key": "integrations",
+          "label": "Integrations and data portability",
+          "weight": 0.1,
+          "score": 4,
+          "evidence": "Integrations page lists Shopify, Gmail, Klaviyo, Slack, DocuSign and PayPal, with a bi-directional API and MCP; no data export was documented in what was read.",
+          "sources": [
+            "https://grin.co/integrations/",
+            "https://grin.co/platform/"
+          ]
+        },
+        {
+          "key": "trust",
+          "label": "Trust, security and support",
+          "weight": 0.1,
+          "score": 4,
+          "evidence": "SOC 2 Type II under NDA, a public status page, support terms with 99.8% availability and 24/7 chat; Reddit users reported an August 2025 outage and weak technical support.",
+          "sources": [
+            "https://grin.co/security/",
+            "https://status.grin.co/",
+            "https://grin.co/legal/support-terms/"
+          ]
+        }
+      ],
+      "overallScore": 3.2,
+      "overallScoreText": "3.2",
+      "criteriaWithEvidence": 6,
+      "prices": {
+        "sourceUrl": "https://grin.co/pricing/",
+        "read": "2026-10-06",
+        "tiers": [
+          {
+            "name": "Free",
+            "price": "Free",
+            "chargedPer": "Per account",
+            "limit": "50 usage credits; extra credits cannot be bought",
+            "amount": 0,
+            "currency": "USD"
+          },
+          {
+            "name": "Starter",
+            "price": "$200 a month, billed monthly",
+            "chargedPer": "Per account",
+            "limit": "2,000 monthly credits; Gia's Desk and customizable dashboards",
+            "amount": 200,
+            "currency": "USD"
+          },
+          {
+            "name": "Growth",
+            "price": "$500 a month, billed monthly",
+            "chargedPer": "Per account",
+            "limit": "7,500 monthly credits; multiple brands, multiple currencies and paid boosting",
+            "amount": 500,
+            "currency": "USD"
+          },
+          {
+            "name": "Scale",
+            "price": "$1,000 a month, billed monthly",
+            "chargedPer": "Per account",
+            "limit": "20,000 monthly credits",
+            "amount": 1000,
+            "currency": "USD"
+          }
+        ],
+        "notes": [
+          "GRIN Starter: every new account gets a free 30-day trial of the Starter plan.",
+          "GRIN paid plans: more credits can be bought, but the pricing page gives no price for them.",
+          "All GRIN plans: billing is month-to-month, with no annual contract and no charge per seat."
+        ]
+      },
+      "freePlanOrTrial": "Free plan (50 usage credits)",
+      "freePlan": "yes",
+      "selfServeTrial": "yes",
+      "reddit": {
+        "query": "GRIN influencer platform",
+        "searched": [
+          "all of Reddit",
+          "r/influencermarketing",
+          "r/marketing",
+          "r/restaurantowners",
+          "r/smallbusiness"
+        ],
+        "from": "2025-04-06",
+        "to": "2026-10-06",
+        "fromToMeans": "dates the threads were started",
+        "repliesRead": "2026-10-06",
+        "threads": 10,
+        "negative": 5,
+        "mixed": 5,
+        "positive": 0,
+        "excerpts": [
+          {
+            "text": "They fired all but 5 employees, so if you have an issue or a tech glitch - GRIN has no technical support. We've been trying to figure out CS solutions for months now.",
+            "user": "Intelligent-Permit94",
+            "subreddit": "influencermarketing",
+            "posted": "2025-12-10",
+            "permalink": "https://www.reddit.com/r/influencermarketing/comments/1pf2nzf/comment/ntaluxi/"
+          },
+          {
+            "text": "I use GRIN in my 9-5 but it’s SO expensive and not a good option for small businesses.",
+            "user": "Justhereforalitte",
+            "subreddit": "influencermarketing",
+            "posted": "2025-09-22",
+            "permalink": "https://www.reddit.com/r/influencermarketing/comments/1nn7sqj/creator_crm_for_small_business/"
+          },
+          {
+            "text": "Grin has been down for a couple of days. I need to find influencers.",
+            "user": "FalconBeneficial4464",
+            "subreddit": "influencermarketing",
+            "posted": "2025-08-07",
+            "permalink": "https://www.reddit.com/r/influencermarketing/comments/1mk74f4/grin_is_down/"
+          },
+          {
+            "text": "Grin has clean interface and solid discovery. But campaign management felt clunky for us though and we kept hitting workflow limitations. Support is not the fastest but helpful",
+            "user": "Signal_Way_2559",
+            "subreddit": "MarketingHelp",
+            "posted": "2025-12-24",
+            "permalink": "https://www.reddit.com/r/MarketingHelp/comments/1puiomi/tested_3_influencer_platforms_over_6_months_heres/"
+          },
+          {
+            "text": "I’ve used them all, even grin for 3 years.. do not recommend.",
+            "user": "Mountainsarecolling",
+            "subreddit": "influencermarketing",
+            "posted": "2026-07-10",
+            "permalink": "https://www.reddit.com/r/influencermarketing/comments/1uq78zq/comment/owrxhm0/"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://grin.co/pricing/",
+          "title": "GRIN pricing",
+          "read": "2026-10-06"
+        },
+        {
+          "url": "https://grin.co/",
+          "title": "GRIN home page",
+          "read": "2026-10-06"
+        },
+        {
+          "url": "https://grin.co/platform/",
+          "title": "GRIN platform",
+          "read": "2026-10-06"
+        },
+        {
+          "url": "https://grin.co/industries/",
+          "title": "GRIN industries",
+          "read": "2026-10-06"
+        },
+        {
+          "url": "https://grin.co/integrations/",
+          "title": "GRIN integrations",
+          "read": "2026-10-06"
+        },
+        {
+          "url": "https://grin.co/security/",
+          "title": "GRIN security",
+          "read": "2026-10-06"
+        },
+        {
+          "url": "https://status.grin.co/",
+          "title": "GRIN status page",
+          "read": "2026-10-06"
+        },
+        {
+          "url": "https://grin.co/legal/support-terms/",
+          "title": "GRIN support terms",
+          "read": "2026-10-06"
+        },
+        {
+          "url": "https://help.grin.co/",
+          "title": "GRIN help center",
+          "read": "2026-10-06"
+        }
+      ],
+      "editor": "Peter Chen",
+      "datePublished": "2026-10-06",
+      "dateModified": "2026-10-06",
+      "lastChecked": "2026-10-06",
+      "pageUrl": "https://eaiservice.com/reviews/grin/",
+      "markdownUrl": "https://eaiservice.com/reviews/grin/index.md"
+    },
+    {
+      "slug": "instantly",
+      "name": "Instantly",
+      "maker": "Foo Monk, LLC (trading as Instantly)",
+      "vendorUrl": "https://instantly.ai/",
+      "category": "cold-email",
+      "crossList": [],
+      "relationship": null,
+      "relationshipText": null,
+      "criteria": [
+        {
+          "key": "core",
+          "label": "Core job",
+          "weight": 0.25,
+          "score": 3,
+          "evidence": "Unlimited sending accounts, built-in warmup and sequences are documented; unconfirmed by a first-hand check.",
+          "sources": [
+            "https://instantly.ai/pricing",
+            "https://instantly.ai/pricing.md",
+            "https://instantly.ai/email-warmup",
+            "https://instantly.ai/outreach"
+          ]
+        },
+        {
+          "key": "fit",
+          "label": "Fit for the category's buyer",
+          "weight": 0.2,
+          "score": 4,
+          "evidence": "Growth covers inboxes, warmup and sequences; in-app replies, full A/Z testing (many versions of one email) and webhooks need Hypergrowth.",
+          "sources": [
+            "https://instantly.ai/pricing",
+            "https://instantly.ai/pricing.md"
+          ]
+        },
+        {
+          "key": "pricing",
+          "label": "Pricing transparency",
+          "weight": 0.2,
+          "score": 4,
+          "evidence": "All tiers priced with limits and a 14-day no-card trial; add-on and credit costs are listed only in Instantly's plain-text pricing file.",
+          "sources": [
+            "https://instantly.ai/pricing",
+            "https://instantly.ai/pricing.md"
+          ]
+        },
+        {
+          "key": "setup",
+          "label": "Setup and time to first result",
+          "weight": 0.15,
+          "score": 3,
+          "evidence": "Self-serve, but own domains need DNS setup and warmup; done-for-you accounts are sold to skip that.",
+          "sources": [
+            "https://instantly.ai/pricing",
+            "https://instantly.ai/pricing.md",
+            "https://help.instantly.ai/en/collections/9548650-dns-forwarding-setup",
+            "https://help.instantly.ai/en/collections/9548609-account-connection"
+          ]
+        },
+        {
+          "key": "integrations",
+          "label": "Integrations and data portability",
+          "weight": 0.1,
+          "score": 4,
+          "evidence": "50+ integrations claimed, public API v2 and webhooks; plain data export not documented in the pages read.",
+          "sources": [
+            "https://instantly.ai/integrations",
+            "https://developer.instantly.ai/",
+            "https://help.instantly.ai/en/collections/9548903-integrations",
+            "https://instantly.ai/pricing.md"
+          ]
+        },
+        {
+          "key": "trust",
+          "label": "Trust, security and support",
+          "weight": 0.1,
+          "score": 4,
+          "evidence": "Trust center names SOC 2 Type I and Type II (reports on request); support by chat and email tickets; no uptime guarantee; Reddit users report slow support.",
+          "sources": [
+            "https://trust.instantly.ai/",
+            "https://instantly.ai/terms",
+            "https://instantly.ai/pricing"
+          ]
+        }
+      ],
+      "overallScore": 3.6,
+      "overallScoreText": "3.6",
+      "criteriaWithEvidence": 6,
+      "prices": {
+        "sourceUrl": "https://instantly.ai/pricing",
+        "read": "2026-10-05",
+        "tiers": [
+          {
+            "name": "Outreach Growth",
+            "price": "$47 a month, billed monthly",
+            "chargedPer": "Per subscription",
+            "limit": "5,000 emails monthly, 1,000 uploaded contacts, unlimited email accounts and warmup",
+            "amount": 47,
+            "currency": "USD"
+          },
+          {
+            "name": "Outreach Hypergrowth",
+            "price": "$97 a month, billed monthly",
+            "chargedPer": "Per subscription",
+            "limit": "125,000 emails monthly, 25,000 uploaded contacts",
+            "amount": 97,
+            "currency": "USD"
+          },
+          {
+            "name": "Outreach Light Speed",
+            "price": "$358 a month, billed monthly",
+            "chargedPer": "Per subscription",
+            "limit": "500,000 emails monthly, 100,000 uploaded contacts, SISR system (dedicated private servers and IP rotation)",
+            "amount": 358,
+            "currency": "USD"
+          },
+          {
+            "name": "Outreach Growth (yearly)",
+            "price": "$37.60 a month, billed yearly",
+            "chargedPer": "Per subscription",
+            "limit": "5,000 emails monthly, 1,000 uploaded contacts",
+            "amount": 37.6,
+            "currency": "USD"
+          },
+          {
+            "name": "Outreach Hypergrowth (yearly)",
+            "price": "$77.60 a month, billed yearly",
+            "chargedPer": "Per subscription",
+            "limit": "100,000 emails monthly and 25,000 uploaded contacts on yearly billing (the monthly price lists 125,000 emails)",
+            "amount": 77.6,
+            "currency": "USD"
+          },
+          {
+            "name": "Outreach Light Speed (yearly)",
+            "price": "$286.30 a month, billed yearly",
+            "chargedPer": "Per subscription",
+            "limit": "500,000+ emails monthly, 100,000+ uploaded contacts",
+            "amount": 286.3,
+            "currency": "USD"
+          },
+          {
+            "name": "Outreach Enterprise",
+            "price": "Quote on request",
+            "chargedPer": "Per subscription",
+            "limit": "500,000+ emails monthly, 100,000+ uploaded contacts, private deliverability network",
+            "amount": null,
+            "currency": "USD"
+          },
+          {
+            "name": "Credits Nano",
+            "price": "$9 a month",
+            "chargedPer": "Per subscription",
+            "limit": "150 Instantly credits monthly (listed only in Instantly's plain-text pricing file)",
+            "amount": 9,
+            "currency": "USD"
+          },
+          {
+            "name": "Credits Growth",
+            "price": "$47 a month, billed monthly",
+            "chargedPer": "Per subscription",
+            "limit": "1500-2000 Instantly credits monthly",
+            "amount": 47,
+            "currency": "USD"
+          },
+          {
+            "name": "Credits Supersonic",
+            "price": "$97 a month, billed monthly",
+            "chargedPer": "Per subscription",
+            "limit": "5000-7500 Instantly credits monthly",
+            "amount": 97,
+            "currency": "USD"
+          },
+          {
+            "name": "Hyper Credits",
+            "price": "From $197 a month, billed monthly",
+            "chargedPer": "Per subscription",
+            "limit": "10K-200K Instantly credits monthly",
+            "amount": 197,
+            "currency": "USD"
+          },
+          {
+            "name": "Starter bundle",
+            "price": "$94 a month, billed monthly",
+            "chargedPer": "Per subscription",
+            "limit": "5000 emails monthly, 1000 uploaded contacts, 1500 Instantly credits monthly",
+            "amount": 94,
+            "currency": "USD"
+          },
+          {
+            "name": "Scale bundle",
+            "price": "$194 a month, billed monthly",
+            "chargedPer": "Per subscription",
+            "limit": "100,000 emails monthly, 25,000 uploaded contacts, 5000 Instantly credits monthly",
+            "amount": 194,
+            "currency": "USD"
+          },
+          {
+            "name": "Agency bundle",
+            "price": "$555 a month, billed monthly",
+            "chargedPer": "Per subscription",
+            "limit": "500,000 emails monthly, 100,000 uploaded contacts, 10,000 Instantly credits monthly",
+            "amount": 555,
+            "currency": "USD"
+          },
+          {
+            "name": "Outreach add-on",
+            "price": "$87 a month",
+            "chargedPer": "Per add-on",
+            "limit": "Extra 25,000 uploaded contacts and 125,000 emails monthly; Hypergrowth, Light Speed, Scale and Agency only",
+            "amount": 87,
+            "currency": "USD"
+          },
+          {
+            "name": "Instantly Credits add-on",
+            "price": "$425 a month",
+            "chargedPer": "Per add-on",
+            "limit": "+50,000 credits; Hyper Credits, Scale and Agency only",
+            "amount": 425,
+            "currency": "USD"
+          }
+        ],
+        "notes": [
+          "All Instantly plans: the pricing page does not say whether one subscription covers more than one user."
+        ]
+      },
+      "freePlanOrTrial": "Trial 14 days",
+      "freePlan": "unknown",
+      "selfServeTrial": "yes",
+      "reddit": {
+        "query": "Instantly.ai",
+        "searched": [
+          "all of Reddit",
+          "r/coldemail",
+          "r/sales"
+        ],
+        "from": "2025-11-19",
+        "to": "2026-09-04",
+        "fromToMeans": "dates the threads were started",
+        "repliesRead": "2026-10-05",
+        "threads": 7,
+        "negative": 6,
+        "mixed": 1,
+        "positive": 0,
+        "excerpts": [
+          {
+            "text": "yeah instantly support went downhill hard this year. same thing happened to me warming up a bunch of accounts got stuck in orange pool forever despite upgrading.",
+            "user": "gs6174666",
+            "subreddit": "Coldemailing",
+            "posted": "2026-03-19",
+            "permalink": "https://www.reddit.com/r/Coldemailing/comments/1rwy3ln/comment/ob9u97a/"
+          },
+          {
+            "text": "Product aside, instantly has horrible business practices. They try to lock you into using their platform and don't let you export or access any of your own data.",
+            "user": "rzammit001",
+            "subreddit": "gohighlevel",
+            "posted": "2026-07-06",
+            "permalink": "https://www.reddit.com/r/gohighlevel/comments/1p0tfy5/comment/ovvdp9a/"
+          },
+          {
+            "text": "Honestly I cancelled their subscription long back, the cooling off mechanism was absent…highly inflated open rates. I didn’t see any difference with others just other tools had cooling off done properly.",
+            "user": "Accomplished-Pay4495",
+            "subreddit": "Coldemailing",
+            "posted": "2026-03-23",
+            "permalink": "https://www.reddit.com/r/Coldemailing/comments/1rwy3ln/comment/obyy7qa/"
+          },
+          {
+            "text": "they got a terrible engineering team and everything with their app doesn’t work properly",
+            "user": "Both-Power-1247",
+            "subreddit": "Coldemailing",
+            "posted": "2026-09-04",
+            "permalink": "https://www.reddit.com/r/Coldemailing/comments/1w77xnf/comment/p7t0zl5/"
+          },
+          {
+            "text": "If you're on a budget I liked Smart lead as they have the free trial to warm up in. But of the two you mentioned I have favoured Instantly",
+            "user": "mrligugu",
+            "subreddit": "gohighlevel",
+            "posted": "2025-11-19",
+            "permalink": "https://www.reddit.com/r/gohighlevel/comments/1p0tfy5/comment/npne0ol/"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://instantly.ai/pricing",
+          "title": "Instantly pricing",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://instantly.ai/pricing.md",
+          "title": "Instantly pricing (plain-text version)",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://instantly.ai/",
+          "title": "Instantly home page",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://instantly.ai/outreach",
+          "title": "Instantly Outreach",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://instantly.ai/email-warmup",
+          "title": "Instantly email warmup",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://instantly.ai/integrations",
+          "title": "Instantly integrations",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://developer.instantly.ai/",
+          "title": "Instantly API v2 developer docs",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://help.instantly.ai/en/collections/9548650-dns-forwarding-setup",
+          "title": "Instantly help center: DNS and Forwarding Setup",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://help.instantly.ai/en/collections/9548609-account-connection",
+          "title": "Instantly help center: Account Connection",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://help.instantly.ai/en/collections/9548903-integrations",
+          "title": "Instantly help center: Integrations",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://trust.instantly.ai/",
+          "title": "Instantly Trust Center",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://instantly.ai/terms",
+          "title": "Instantly terms of service",
+          "read": "2026-10-05"
+        }
+      ],
+      "editor": "Peter Chen",
+      "datePublished": "2026-10-05",
+      "dateModified": "2026-10-05",
+      "lastChecked": "2026-10-05",
+      "pageUrl": "https://eaiservice.com/reviews/instantly/",
+      "markdownUrl": "https://eaiservice.com/reviews/instantly/index.md"
+    },
+    {
+      "slug": "later-influence",
+      "name": "Later Influence",
+      "maker": "Later",
+      "vendorUrl": "https://later.com/influencer-marketing-platform/",
+      "category": "influencer-marketing",
+      "crossList": [],
+      "relationship": null,
+      "relationshipText": null,
+      "criteria": [
+        {
+          "key": "core",
+          "label": "Core job",
+          "weight": 0.25,
+          "score": 2,
+          "evidence": "Creator discovery, rate and contract negotiation, and EdgeAI forecasting and reporting are described; no feature documentation or plan list was found.",
+          "sources": [
+            "https://later.com/influencer-marketing-platform/",
+            "https://later.com/food-beverage-influencers/"
+          ]
+        },
+        {
+          "key": "fit",
+          "label": "Fit for the category's buyer",
+          "weight": 0.2,
+          "score": 2,
+          "evidence": "Pages name food and beverage brands and quote El Pollo Loco, a restaurant chain, but no plan a single restaurant can buy is described.",
+          "sources": [
+            "https://later.com/food-beverage-influencers/",
+            "https://later.com/influencer-marketing-platform/"
+          ]
+        },
+        {
+          "key": "pricing",
+          "label": "Pricing transparency",
+          "weight": 0.2,
+          "score": 1,
+          "evidence": "No influencer price is published; the pricing page covers Later Social only.",
+          "sources": [
+            "https://later.com/pricing/",
+            "https://later.com/influencer-marketing-platform/"
+          ]
+        },
+        {
+          "key": "setup",
+          "label": "Setup and time to first result",
+          "weight": 0.15,
+          "score": 1,
+          "evidence": "Every call to action is a strategy call or a form, and managed campaigns are run by a dedicated account manager.",
+          "sources": [
+            "https://later.com/influencer-marketing-platform/",
+            "https://later.com/food-beverage-influencers/"
+          ]
+        },
+        {
+          "key": "integrations",
+          "label": "Integrations and data portability",
+          "weight": 0.1,
+          "score": 1,
+          "evidence": "No integration list or API docs found for Later Influence; the partners page marks some social platform connections as partial for it.",
+          "sources": [
+            "https://later.com/partners/"
+          ]
+        },
+        {
+          "key": "trust",
+          "label": "Trust, security and support",
+          "weight": 0.1,
+          "score": 2,
+          "evidence": "A public status page for Later; the Trust Center blocked automated reading, and no certification or support terms were found elsewhere.",
+          "sources": [
+            "https://status.later.com/",
+            "https://later.com/about/"
+          ]
+        }
+      ],
+      "overallScore": 1.6,
+      "overallScoreText": "1.6",
+      "criteriaWithEvidence": 6,
+      "prices": {
+        "sourceUrl": null,
+        "read": "2026-10-06",
+        "tiers": [],
+        "notes": [
+          "Later pricing page: the published plans and the 14-day trial are for Later Social, not Later Influence."
+        ]
+      },
+      "freePlanOrTrial": "No free plan or trial found for Later Influence",
+      "freePlan": "yes",
+      "selfServeTrial": "no",
+      "reddit": {
+        "query": "Later Influence",
+        "searched": [
+          "all of Reddit",
+          "r/influencermarketing",
+          "r/marketing",
+          "r/restaurantowners",
+          "r/smallbusiness"
+        ],
+        "from": "2025-04-06",
+        "to": "2026-10-06",
+        "fromToMeans": "dates the threads were started",
+        "repliesRead": "2026-10-06",
+        "threads": 4,
+        "negative": 1,
+        "mixed": 2,
+        "positive": 1,
+        "excerpts": [
+          {
+            "text": "Has anyone ever worked with Later or Tagger? I'm in the process of picking a vendor for my 2026 influencer marketing and I'm curious to know what kind of service fees they charge for the three tiers on their pricing pages.",
+            "user": "tyman67898",
+            "subreddit": "influencermarketing",
+            "posted": "2025-08-05",
+            "permalink": "https://www.reddit.com/r/influencermarketing/comments/1mid4ma/later_and_tagger_influencer_platforms/"
+          },
+          {
+            "text": "Modash, Later, etc are all terrible. Captiv8 has the best search capabilities for influencer.",
+            "user": "Traditional-Ask-8000",
+            "subreddit": "influencermarketing",
+            "posted": "2025-11-06",
+            "permalink": "https://www.reddit.com/r/influencermarketing/comments/1opumrl/comment/nnfife7/"
+          },
+          {
+            "text": "Sprout has a pretty good tool, so does Later.",
+            "user": "lkmumens",
+            "subreddit": "AskMarketing",
+            "posted": "2026-01-07",
+            "permalink": "https://www.reddit.com/r/AskMarketing/comments/1q6u5h7/comment/nyavdfv/"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://later.com/influencer-marketing-platform/",
+          "title": "Later influencer marketing platform",
+          "read": "2026-10-06"
+        },
+        {
+          "url": "https://later.com/food-beverage-influencers/",
+          "title": "Later Influence for food and beverage brands",
+          "read": "2026-10-06"
+        },
+        {
+          "url": "https://later.com/about/",
+          "title": "About Later",
+          "read": "2026-10-06"
+        },
+        {
+          "url": "https://later.com/pricing/",
+          "title": "Later pricing (Later Social)",
+          "read": "2026-10-06"
+        },
+        {
+          "url": "https://later.com/partners/",
+          "title": "Later partners and integrations",
+          "read": "2026-10-06"
+        },
+        {
+          "url": "https://status.later.com/",
+          "title": "Later status page",
+          "read": "2026-10-06"
+        }
+      ],
+      "editor": "Peter Chen",
+      "datePublished": "2026-10-06",
+      "dateModified": "2026-10-06",
+      "lastChecked": "2026-10-06",
+      "pageUrl": "https://eaiservice.com/reviews/later-influence/",
+      "markdownUrl": "https://eaiservice.com/reviews/later-influence/index.md"
+    },
+    {
+      "slug": "lemlist",
+      "name": "lemlist",
+      "maker": "lempire SAS",
+      "vendorUrl": "https://www.lemlist.com/",
+      "category": "cold-email",
+      "crossList": [],
+      "relationship": null,
+      "relationshipText": null,
+      "criteria": [
+        {
+          "key": "core",
+          "label": "Core job",
+          "weight": 0.25,
+          "score": 3,
+          "evidence": "Inbox connection, lemwarm warm-up, inbox rotation and multichannel sequences are documented; Reddit reports on warm-up conflict and there is no first-hand check yet.",
+          "sources": [
+            "https://www.lemlist.com/pricing",
+            "https://www.lemlist.com/product/deliverability-setup",
+            "https://www.lemlist.com/product/multichannel-prospecting",
+            "https://help.lemlist.com/en/"
+          ]
+        },
+        {
+          "key": "fit",
+          "label": "Fit for the category's buyer",
+          "weight": 0.2,
+          "score": 5,
+          "evidence": "The self-serve Email plan includes unlimited senders, warm-up and sequences; pages name sales reps, sales leaders and founders as the buyer.",
+          "sources": [
+            "https://www.lemlist.com/pricing",
+            "https://www.lemlist.com/"
+          ]
+        },
+        {
+          "key": "pricing",
+          "label": "Pricing transparency",
+          "weight": 0.2,
+          "score": 4,
+          "evidence": "Two self-serve plans and most add-ons are priced with units, plus a 14-day trial; Enterprise and in-app domain and mailbox purchases are unpriced.",
+          "sources": [
+            "https://www.lemlist.com/pricing"
+          ]
+        },
+        {
+          "key": "setup",
+          "label": "Setup and time to first result",
+          "weight": 0.15,
+          "score": 3,
+          "evidence": "Self-serve trial without a card; domains bought in lemlist are authenticated automatically, while an existing domain needs manual SPF, DKIM and DMARC records; capped at 3: not tested hands-on.",
+          "sources": [
+            "https://www.lemlist.com/pricing",
+            "https://www.lemlist.com/product/deliverability-setup",
+            "https://help.lemlist.com/en/articles/6628020-how-to-set-up-spf-dkim-and-dmarc-general-setup-guide"
+          ]
+        },
+        {
+          "key": "integrations",
+          "label": "Integrations and data portability",
+          "weight": 0.1,
+          "score": 5,
+          "evidence": "58 integrations across 8 categories, a public API with webhooks, and CSV lead export on all plans.",
+          "sources": [
+            "https://www.lemlist.com/integrations",
+            "https://developer.lemlist.com/",
+            "https://developer.lemlist.com/llms.txt",
+            "https://www.lemlist.com/pricing"
+          ]
+        },
+        {
+          "key": "trust",
+          "label": "Trust, security and support",
+          "weight": 0.1,
+          "score": 4,
+          "evidence": "SOC 2 Type 2 report listed on a trust center, a public status page and in-app live support on all plans; no public SLA, as the terms leave service levels to an addendum in an Order Form.",
+          "sources": [
+            "https://trust.lemlist.com",
+            "https://status.lempire.com/",
+            "https://www.lemlist.com/legal/terms",
+            "https://www.lemlist.com/pricing",
+            "https://www.lemlist.com/"
+          ]
+        }
+      ],
+      "overallScore": 3.9,
+      "overallScoreText": "3.9",
+      "criteriaWithEvidence": 6,
+      "prices": {
+        "sourceUrl": "https://www.lemlist.com/pricing",
+        "read": "2026-10-05",
+        "tiers": [
+          {
+            "name": "Email",
+            "price": "$55 a month, billed yearly",
+            "chargedPer": "Per account",
+            "limit": "50,000 emails /mo",
+            "amount": 55,
+            "currency": "USD"
+          },
+          {
+            "name": "Email",
+            "price": "$69 a month, billed monthly",
+            "chargedPer": "Per account",
+            "limit": "50,000 emails /mo",
+            "amount": 69,
+            "currency": "USD"
+          },
+          {
+            "name": "Multichannel",
+            "price": "$87 a month, billed yearly",
+            "chargedPer": "Per user",
+            "limit": "Unlimited emails & messages",
+            "amount": 87,
+            "currency": "USD"
+          },
+          {
+            "name": "Multichannel",
+            "price": "$109 a month, billed monthly",
+            "chargedPer": "Per user",
+            "limit": "Unlimited emails & messages",
+            "amount": 109,
+            "currency": "USD"
+          },
+          {
+            "name": "Enterprise",
+            "price": "Quote on request",
+            "chargedPer": "Per user",
+            "limit": "Unlimited emails & messages",
+            "amount": null,
+            "currency": "USD"
+          }
+        ],
+        "notes": [
+          "lemlist Email and Multichannel: the yearly price is 20% lower than monthly.",
+          "lemlist Email: one account price covers unlimited users and email senders.",
+          "lemlist Multichannel and Enterprise: the FAQ says pricing is based on the number of users; Multichannel gives each user 5 senders, and Enterprise at least 5."
+        ]
+      },
+      "freePlanOrTrial": "Trial 14 days",
+      "freePlan": "unknown",
+      "selfServeTrial": "yes",
+      "reddit": {
+        "query": "lemlist",
+        "searched": [
+          "all of Reddit",
+          "r/coldemail"
+        ],
+        "from": "2026-01-19",
+        "to": "2026-09-29",
+        "fromToMeans": "dates the threads were started",
+        "repliesRead": "2026-10-05",
+        "threads": 9,
+        "negative": 0,
+        "mixed": 8,
+        "positive": 1,
+        "excerpts": [
+          {
+            "text": "...we bought 3 e-mail addresses for cold outreach and you have to wait up to 6 weeks! for it to warmup, also some lemlist IPS are on ban lists so our e-mails ended up bouncing a lot....",
+            "user": "A…",
+            "subreddit": "AskGTM",
+            "posted": "2026-07-02",
+            "permalink": "https://www.reddit.com/r/AskGTM/comments/1u1mf9u/comment/ov3zsgy/"
+          },
+          {
+            "text": "...overall I think lemlist more-or-less met expectations. The outreach functionality - our main need - was solid with a few minor irritations...",
+            "user": "blackjak77",
+            "subreddit": "EmailProspecting",
+            "posted": "2026-03-19",
+            "permalink": "https://www.reddit.com/r/EmailProspecting/comments/1ret448/comment/obc3ab9/"
+          },
+          {
+            "text": "Lemlist itself isn’t the issue, but pricing gets steep once you add multiple seats....",
+            "user": "Blaze69X",
+            "subreddit": "SaaS",
+            "posted": "2026-01-29",
+            "permalink": "https://www.reddit.com/r/SaaS/comments/1qhi1m2/comment/o2eyy4k/"
+          },
+          {
+            "text": "Been on lemlist about a year and the execution side is legit: warm-up, custom tracking domains, and image/video personalization took my reply rate from ~3% to 7-8% on cold email. Their built-in contact finder is mid though, so keep ZoomInfo and push lists in, don't expect their data to fully replace it....",
+            "user": "Savings_Moment_6129",
+            "subreddit": "sales_intelligence",
+            "posted": "2026-10-04",
+            "permalink": "https://www.reddit.com/r/sales_intelligence/comments/1wt2bki/comment/pdvunkk/"
+          },
+          {
+            "text": "...We also used Lemlist and while emails were good the LinkedIn automation tanked our reps engagement on LinkedIn because their automations are technically against the terms of service.",
+            "user": "Abject_Economics1192",
+            "subreddit": "gtmengineering",
+            "posted": "2026-08-13",
+            "permalink": "https://www.reddit.com/r/gtmengineering/comments/1vn49qt/comment/p3fb89h/"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.lemlist.com/pricing",
+          "title": "lemlist pricing",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.lemlist.com/",
+          "title": "lemlist home page",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.lemlist.com/product/multichannel-prospecting",
+          "title": "lemlist multichannel prospecting",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.lemlist.com/product/deliverability-setup",
+          "title": "lemlist deliverability setup",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.lemlist.com/integrations",
+          "title": "lemlist integrations",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://help.lemlist.com/en/",
+          "title": "lemlist Help Center",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://help.lemlist.com/en/articles/6628020-how-to-set-up-spf-dkim-and-dmarc-general-setup-guide",
+          "title": "lemlist Help Center: How to set up SPF, DKIM, and DMARC",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://developer.lemlist.com/",
+          "title": "lemlist API reference",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://developer.lemlist.com/llms.txt",
+          "title": "lemlist API documentation index",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://trust.lemlist.com",
+          "title": "lemlist Trust Center",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://status.lempire.com/",
+          "title": "lempire status page",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.lemlist.com/legal/terms",
+          "title": "lemlist terms of service",
+          "read": "2026-10-05"
+        }
+      ],
+      "editor": "Peter Chen",
+      "datePublished": "2026-10-05",
+      "dateModified": "2026-10-05",
+      "lastChecked": "2026-10-05",
+      "pageUrl": "https://eaiservice.com/reviews/lemlist/",
+      "markdownUrl": "https://eaiservice.com/reviews/lemlist/index.md"
+    },
+    {
+      "slug": "modash",
+      "name": "Modash",
+      "maker": "Modash OÜ",
+      "vendorUrl": "https://www.modash.io/",
+      "category": "influencer-marketing",
+      "crossList": [],
+      "relationship": null,
+      "relationshipText": null,
+      "criteria": [
+        {
+          "key": "core",
+          "label": "Core job",
+          "weight": 0.25,
+          "score": 3,
+          "evidence": "Creator search with 37 filters, a creator CRM, a Gmail or Outlook inbox, content tracking and creator payments are documented; not confirmed first-hand.",
+          "sources": [
+            "https://www.modash.io/pricing",
+            "https://www.modash.io/"
+          ]
+        },
+        {
+          "key": "fit",
+          "label": "Fit for the category's buyer",
+          "weight": 0.2,
+          "score": 2,
+          "evidence": "Self-serve plans and audience location filters, but the pages name in-house brand teams and Shopify gifting; no restaurant or hosted visit is described.",
+          "sources": [
+            "https://www.modash.io/",
+            "https://www.modash.io/pricing"
+          ]
+        },
+        {
+          "key": "pricing",
+          "label": "Pricing transparency",
+          "weight": 0.2,
+          "score": 4,
+          "evidence": "Essentials and Performance are priced monthly and yearly with limits, payment fees are stated and a trial is offered; Enterprise shows only a starting price.",
+          "sources": [
+            "https://www.modash.io/pricing"
+          ]
+        },
+        {
+          "key": "setup",
+          "label": "Setup and time to first result",
+          "weight": 0.15,
+          "score": 3,
+          "evidence": "Self-serve 14-day trial with no card and interactive product tours; the Shopify gifting features need a Shopify store connected.",
+          "sources": [
+            "https://www.modash.io/pricing"
+          ]
+        },
+        {
+          "key": "integrations",
+          "label": "Integrations and data portability",
+          "weight": 0.1,
+          "score": 4,
+          "evidence": "Gmail, Outlook and Shopify connections, CSV import, profile export to a CRM and a documented data API; no integration directory was found.",
+          "sources": [
+            "https://www.modash.io/pricing",
+            "https://docs.modash.io/"
+          ]
+        },
+        {
+          "key": "trust",
+          "label": "Trust, security and support",
+          "weight": 0.1,
+          "score": 4,
+          "evidence": "ISO 27001 and GDPR named in the site footer, a public API status page, and 24/7 in-platform chat, email and a help center; no attributed support reports found.",
+          "sources": [
+            "https://www.modash.io/",
+            "https://status.modash.io/",
+            "https://www.modash.io/pricing"
+          ]
+        }
+      ],
+      "overallScore": 3.2,
+      "overallScoreText": "3.2",
+      "criteriaWithEvidence": 6,
+      "prices": {
+        "sourceUrl": "https://www.modash.io/pricing",
+        "read": "2026-10-06",
+        "tiers": [
+          {
+            "name": "Essentials (yearly)",
+            "price": "$199 a month, billed yearly",
+            "chargedPer": "Per account",
+            "limit": "2 team members; 300 opened profiles; 150 unlocked creator emails; 100 tracked creators",
+            "amount": 199,
+            "currency": "USD"
+          },
+          {
+            "name": "Essentials (monthly)",
+            "price": "$299 a month, billed monthly",
+            "chargedPer": "Per account",
+            "limit": "2 team members; 300 opened profiles; 150 unlocked creator emails; 100 tracked creators",
+            "amount": 299,
+            "currency": "USD"
+          },
+          {
+            "name": "Performance (yearly)",
+            "price": "$499 a month, billed yearly",
+            "chargedPer": "Per account",
+            "limit": "5 team members; 800 opened profiles; 400 unlocked creator emails; 250 tracked creators",
+            "amount": 499,
+            "currency": "USD"
+          },
+          {
+            "name": "Performance (monthly)",
+            "price": "$599 a month, billed monthly",
+            "chargedPer": "Per account",
+            "limit": "5 team members; 800 opened profiles; 400 unlocked creator emails; 250 tracked creators",
+            "amount": 599,
+            "currency": "USD"
+          },
+          {
+            "name": "Enterprise",
+            "price": "Not published",
+            "chargedPer": "Per account",
+            "limit": "For campaigns above 250 creators; more team members and opened profiles",
+            "amount": null,
+            "currency": "USD"
+          }
+        ],
+        "notes": [
+          "Modash plans: profile, email and tracking limits reset each month, and there are no setup or onboarding fees.",
+          "Modash Payments (on Performance billed yearly): no fee up to $10,000 a year in payouts, creator payments and affiliate payouts combined, then a 5% fee.",
+          "Modash trial: the 14-day free trial needs no card and includes 20 profile views, 6 email unlocks and 10 tracked creators."
+        ]
+      },
+      "freePlanOrTrial": "Trial 14 days",
+      "freePlan": "unknown",
+      "selfServeTrial": "yes",
+      "reddit": {
+        "query": "Modash",
+        "searched": [
+          "all of Reddit",
+          "r/influencermarketing",
+          "r/marketing",
+          "r/restaurantowners",
+          "r/smallbusiness"
+        ],
+        "from": "2025-04-06",
+        "to": "2026-10-06",
+        "fromToMeans": "dates the threads were started",
+        "repliesRead": "2026-10-06",
+        "threads": 10,
+        "negative": 2,
+        "mixed": 7,
+        "positive": 1,
+        "excerpts": [
+          {
+            "text": "Honestly, I haven’t found a tool better than Modash. Their creator database and audience insights are solid, but the pricing is on the higher side.",
+            "user": "DressTrue9361",
+            "subreddit": "influencermarketing",
+            "posted": "2025-11-30",
+            "permalink": "https://www.reddit.com/r/influencermarketing/comments/1p9o5zh/comment/nrhb3ey/"
+          },
+          {
+            "text": "I actually think Modash's database isn't too bad. The real issue is their other features don't go deep enough. It's really just an influencer discovery tool, not much beyond that.",
+            "user": "Current_Reindeer_926",
+            "subreddit": "influencermarketing",
+            "posted": "2025-11-06",
+            "permalink": "https://www.reddit.com/r/influencermarketing/comments/1opumrl/comment/nnehshg/"
+          },
+          {
+            "text": "Tried Modash's free trial but was disappointed with their data quality, especially for EU markets which is crucial since we run campaigns in both US and EU.",
+            "user": "nikz_7",
+            "subreddit": "influencermarketing",
+            "posted": "2025-11-06",
+            "permalink": "https://www.reddit.com/r/influencermarketing/comments/1opumrl/looking_for_modash_competitors_any_recommendations/"
+          },
+          {
+            "text": "I’m looking to purchase Modash again but it’s so expensive. Does anyone want to go halfs on an account?",
+            "user": "Optimal_Rough_1366",
+            "subreddit": "influencermarketing",
+            "posted": "2025-09-04",
+            "permalink": "https://www.reddit.com/r/influencermarketing/comments/1n87cdb/modash_recommendations_2nd_account_holder/"
+          },
+          {
+            "text": "I've used so many of these tools. They promise a lot but when you dig in, a lot of the metrics are guessed (looking at you MODASH) or surface level, and you pay ALOT.",
+            "user": "hereforsimulacra",
+            "subreddit": "AskMarketing",
+            "posted": "2026-06-17",
+            "permalink": "https://www.reddit.com/r/AskMarketing/comments/1q6u5h7/comment/os9kerr/"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.modash.io/pricing",
+          "title": "Modash pricing",
+          "read": "2026-10-06"
+        },
+        {
+          "url": "https://www.modash.io/",
+          "title": "Modash home page",
+          "read": "2026-10-06"
+        },
+        {
+          "url": "https://docs.modash.io/",
+          "title": "Modash API documentation",
+          "read": "2026-10-06"
+        },
+        {
+          "url": "https://status.modash.io/",
+          "title": "Modash API status page",
+          "read": "2026-10-06"
+        }
+      ],
+      "editor": "Peter Chen",
+      "datePublished": "2026-10-06",
+      "dateModified": "2026-10-06",
+      "lastChecked": "2026-10-06",
+      "pageUrl": "https://eaiservice.com/reviews/modash/",
+      "markdownUrl": "https://eaiservice.com/reviews/modash/index.md"
+    },
+    {
+      "slug": "owner-com",
+      "name": "Owner.com",
+      "maker": "Owner.com, Inc.",
+      "vendorUrl": "https://www.owner.com/",
+      "category": "restaurant-marketing",
+      "crossList": [],
+      "relationship": null,
+      "relationshipText": null,
+      "criteria": [
+        {
+          "key": "core",
+          "label": "Core job",
+          "weight": 0.25,
+          "score": 3,
+          "evidence": "Website, SEO pages, listings, reviews engine, automated email/SMS, push and loyalty are all named on vendor pages.",
+          "sources": [
+            "https://www.owner.com/pricing",
+            "https://www.owner.com/automatic-marketing",
+            "https://www.owner.com/email-sms-marketing",
+            "https://www.owner.com/"
+          ]
+        },
+        {
+          "key": "fit",
+          "label": "Fit for the category's buyer",
+          "weight": 0.2,
+          "score": 3,
+          "evidence": "Built for independent restaurants; every feature is on both plans, but buying is through a demo and multi-location rates are not published.",
+          "sources": [
+            "https://www.owner.com/pricing",
+            "https://www.owner.com/"
+          ]
+        },
+        {
+          "key": "pricing",
+          "label": "Pricing transparency",
+          "weight": 0.2,
+          "score": 4,
+          "evidence": "Both plans and the per-order fees are public; no trial, no multi-location rate, no processing rate published.",
+          "sources": [
+            "https://www.owner.com/pricing",
+            "https://help.owner.com/en/articles/16949965-what-is-owner-payments"
+          ]
+        },
+        {
+          "key": "setup",
+          "label": "Setup and time to first result",
+          "weight": 0.15,
+          "score": 2,
+          "evidence": "Demo-led onboarding; Owner says it handles setup with a dedicated specialist and many restaurants launch within a week.",
+          "sources": [
+            "https://www.owner.com/pricing"
+          ]
+        },
+        {
+          "key": "integrations",
+          "label": "Integrations and data portability",
+          "weight": 0.1,
+          "score": 3,
+          "evidence": "Integration pages list POS systems (Clover native; Toast, Square, Lightspeed and more) and delivery apps; guest list and payouts export to CSV; no full directory, count or public API found.",
+          "sources": [
+            "https://www.owner.com/pos-integrations",
+            "https://www.owner.com/marketplace-integrations",
+            "https://help.owner.com/en/collections/14143731-integrations",
+            "https://help.owner.com/en/articles/11833364-how-do-i-export-my-guest-list",
+            "https://help.owner.com/en/articles/13067045-how-do-i-view-and-export-the-payouts-report"
+          ]
+        },
+        {
+          "key": "trust",
+          "label": "Trust, security and support",
+          "weight": 0.1,
+          "score": 2,
+          "evidence": "24/7 phone, chat and email support is published, but no security certification, status page or support SLA was found.",
+          "sources": [
+            "https://www.owner.com/support",
+            "https://help.owner.com/en/articles/11833261-how-do-i-contact-owner-support",
+            "https://www.owner.com/privacy-policy"
+          ]
+        }
+      ],
+      "overallScore": 3,
+      "overallScoreText": "3.0",
+      "criteriaWithEvidence": 6,
+      "prices": {
+        "sourceUrl": "https://www.owner.com/pricing",
+        "read": "2026-10-05",
+        "tiers": [
+          {
+            "name": "Flexible",
+            "price": "$249 a month, billed monthly, plus a 5% restaurant fee per order",
+            "chargedPer": "Per restaurant",
+            "limit": "Pricing page: \"Lower subscription with a small per-order fee. Your costs scale with your sales.\" Guests also pay a 5% order support fee on both plans.",
+            "amount": 249,
+            "currency": "USD"
+          },
+          {
+            "name": "Flat Rate",
+            "price": "$499 a month, billed monthly, with no restaurant fee per order",
+            "chargedPer": "Per restaurant",
+            "limit": "Pricing page: \"Best for restaurants at $5k+/mo in online sales.\" Guests also pay a 5% order support fee on both plans.",
+            "amount": 499,
+            "currency": "USD"
+          }
+        ],
+        "notes": []
+      },
+      "freePlanOrTrial": "No",
+      "freePlan": "no",
+      "selfServeTrial": "no",
+      "reddit": {
+        "query": "Owner.com",
+        "searched": [
+          "r/restaurantowners",
+          "r/restaurateur",
+          "r/ToastPOS"
+        ],
+        "from": "2025-03-15",
+        "to": "2026-09-25",
+        "fromToMeans": "dates the threads were started",
+        "repliesRead": "2026-10-05",
+        "threads": 7,
+        "negative": 4,
+        "mixed": 3,
+        "positive": 0,
+        "excerpts": [
+          {
+            "text": "I used them for about a month and gave them the boot. Got pondering the cost of $500 per month plus the 5% processing fee charged to all the customers. With my current sales, they would have been getting roughly 50k per year. I don't feel the service they provide is worth them making that much off of me.",
+            "user": "Fancy_Pants40",
+            "subreddit": "r/ToastPOS",
+            "posted": "2026-02-22",
+            "permalink": "https://www.reddit.com/r/ToastPOS/comments/1ray0un/comment/o6q56hp/"
+          },
+          {
+            "text": "Owner is NOT all it’s cracked up to be, they are very rigid and lack the essential tools you need to get your customers off of DD and UE and onto your native site. Their rewards program is awful, their discount programming is basic and inflexible, their SEO is overrated....",
+            "user": "distrubinglyfamiliar",
+            "subreddit": "r/restaurantowners",
+            "posted": "2026-09-25",
+            "permalink": "https://www.reddit.com/r/restaurantowners/comments/1wpzpjp/comment/pbzuxmw/"
+          },
+          {
+            "text": "Don’t waste your money. I had it for a month and only got 2 orders. The website is a template designed as a DoorDash or other platform. I threw away $500",
+            "user": "Nineruna",
+            "subreddit": "r/restaurateur",
+            "posted": "2026-01-17",
+            "permalink": "https://www.reddit.com/r/restaurateur/comments/1qdzik7/comment/o04igf7/"
+          },
+          {
+            "text": "Pros: seo, marketing, the mobile app is really cool. Cons: menu builder is not very good, you can’t integrate rewards/gift cards with the POS I think if they had a POS I would have stayed with them.",
+            "user": "devinwp94",
+            "subreddit": "r/restaurantowners",
+            "posted": "2025-03-15",
+            "permalink": "https://www.reddit.com/r/restaurantowners/comments/1jc4zmw/comment/mhzfqb5/"
+          },
+          {
+            "text": "I use them. Yea they pricey, and the 3% fee to the customer kinda sucks, but I haven’t gotten any push back from it. I used to have Toast online ordering and switched to owner and I have minimum doubled my online orders....",
+            "user": "Eyad123",
+            "subreddit": "r/ToastPOS",
+            "posted": "2026-02-21",
+            "permalink": "https://www.reddit.com/r/ToastPOS/comments/1ray0un/comment/o6nxhlj/"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.owner.com/pricing",
+          "title": "Owner.com pricing",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.owner.com/",
+          "title": "Owner.com home page",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.owner.com/automatic-marketing",
+          "title": "Owner.com automatic marketing",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.owner.com/email-sms-marketing",
+          "title": "Owner.com email and SMS marketing",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.owner.com/pos-integrations",
+          "title": "Owner.com POS integrations",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.owner.com/marketplace-integrations",
+          "title": "Owner.com marketplace integrations",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.owner.com/support",
+          "title": "Owner.com support",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.owner.com/privacy-policy",
+          "title": "Owner.com privacy policy",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://help.owner.com/en/articles/11833261-how-do-i-contact-owner-support",
+          "title": "Owner Help Center: How do I contact Owner support",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://help.owner.com/en/collections/14143731-integrations",
+          "title": "Owner Help Center: Integrations",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://help.owner.com/en/articles/11833364-how-do-i-export-my-guest-list",
+          "title": "Owner Help Center: How do I export my guest list",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://help.owner.com/en/articles/13067045-how-do-i-view-and-export-the-payouts-report",
+          "title": "Owner Help Center: How do I view and export the payouts report",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://help.owner.com/en/articles/16949965-what-is-owner-payments",
+          "title": "Owner Help Center: What is Owner Payments",
+          "read": "2026-10-05"
+        }
+      ],
+      "editor": "Peter Chen",
+      "datePublished": "2026-10-05",
+      "dateModified": "2026-10-05",
+      "lastChecked": "2026-10-05",
+      "pageUrl": "https://eaiservice.com/reviews/owner-com/",
+      "markdownUrl": "https://eaiservice.com/reviews/owner-com/index.md"
+    },
+    {
+      "slug": "popmenu",
+      "name": "Popmenu",
+      "maker": "Popmenu, Inc.",
+      "vendorUrl": "https://get.popmenu.com/",
+      "category": "restaurant-marketing",
+      "crossList": [
+        "ai-voice-agents"
+      ],
+      "relationship": null,
+      "relationshipText": null,
+      "criteria": [
+        {
+          "key": "core",
+          "label": "Core job",
+          "weight": 0.25,
+          "score": 3,
+          "evidence": "Website, menu, email, SMS, social, AI marketing, ordering and reviews are named on vendor pages; not confirmed first-hand.",
+          "sources": [
+            "https://get.popmenu.com/pricing",
+            "https://get.popmenu.com/",
+            "https://get.popmenu.com/solutions/online-ordering"
+          ]
+        },
+        {
+          "key": "fit",
+          "label": "Fit for the category's buyer",
+          "weight": 0.2,
+          "score": 3,
+          "evidence": "Single- and multi-location restaurants are named; purchase is via demo and some core needs are included only in the top tier (add-ons, unpriced, on lower plans).",
+          "sources": [
+            "https://get.popmenu.com/location/single-location",
+            "https://get.popmenu.com/",
+            "https://get.popmenu.com/pricing"
+          ]
+        },
+        {
+          "key": "pricing",
+          "label": "Pricing transparency",
+          "weight": 0.2,
+          "score": 4,
+          "evidence": "Three tiers priced monthly and annually plus a $1.00 per-order fee; most add-on and multi-location prices unpublished; no self-serve trial.",
+          "sources": [
+            "https://get.popmenu.com/pricing",
+            "https://get.popmenu.com/solutions/ai-phone-answering"
+          ]
+        },
+        {
+          "key": "setup",
+          "label": "Setup and time to first result",
+          "weight": 0.15,
+          "score": 1,
+          "evidence": "Sales demo required for every plan; no self-serve signup or published setup time.",
+          "sources": [
+            "https://get.popmenu.com/pricing",
+            "https://get.popmenu.com/solutions/ai-phone-answering"
+          ]
+        },
+        {
+          "key": "integrations",
+          "label": "Integrations and data portability",
+          "weight": 0.1,
+          "score": 4,
+          "evidence": "Integrations page with over two dozen partner logos and a data-export statement; no public API docs found.",
+          "sources": [
+            "https://get.popmenu.com/solutions/pos-integrations",
+            "https://get.popmenu.com/trust"
+          ]
+        },
+        {
+          "key": "trust",
+          "label": "Trust, security and support",
+          "weight": 0.1,
+          "score": 4,
+          "evidence": "SOC 2 Type II and PCI DSS named, public status page, published support phone and email; no SLA or user support reports read.",
+          "sources": [
+            "https://get.popmenu.com/trust",
+            "https://status.popmenu.com/",
+            "https://get.popmenu.com/pricing"
+          ]
+        }
+      ],
+      "overallScore": 3.1,
+      "overallScoreText": "3.1",
+      "criteriaWithEvidence": 6,
+      "prices": {
+        "sourceUrl": "https://get.popmenu.com/pricing",
+        "read": "2026-10-05",
+        "tiers": [
+          {
+            "name": "Starter",
+            "price": "$179 a month, billed monthly",
+            "chargedPer": "Per location",
+            "limit": "SEO-driven website, interactive menu, Google Business Profile sync, guest contact collection, automated email marketing",
+            "amount": 179,
+            "currency": "USD"
+          },
+          {
+            "name": "Starter (annual)",
+            "price": "$159 a month, billed yearly",
+            "chargedPer": "Per location",
+            "limit": "Same as the monthly plan",
+            "amount": 159,
+            "currency": "USD"
+          },
+          {
+            "name": "Essentials",
+            "price": "$299 a month, billed monthly",
+            "chargedPer": "Per location",
+            "limit": "Everything in Starter plus mass email campaigns, social posting, SMS text messages (500), AI-crafted emails and social posts (6)",
+            "amount": 299,
+            "currency": "USD"
+          },
+          {
+            "name": "Essentials (annual)",
+            "price": "$269 a month, billed yearly",
+            "chargedPer": "Per location",
+            "limit": "Same as the monthly plan",
+            "amount": 269,
+            "currency": "USD"
+          },
+          {
+            "name": "Premier",
+            "price": "$499 a month, billed monthly",
+            "chargedPer": "Per location",
+            "limit": "Everything in Essentials plus SMS text messages (5,000), audience segmentation, digital waitlist and reservations, guest feedback, reputation management, AI-crafted review replies (marked 'soon' in the plan comparison)",
+            "amount": 499,
+            "currency": "USD"
+          },
+          {
+            "name": "Premier (annual)",
+            "price": "$449 a month, billed yearly",
+            "chargedPer": "Per location",
+            "limit": "Same as the monthly plan",
+            "amount": 449,
+            "currency": "USD"
+          },
+          {
+            "name": "Build your own",
+            "price": "Quote on request",
+            "chargedPer": "—",
+            "limit": "Not stated",
+            "amount": null,
+            "currency": "USD"
+          },
+          {
+            "name": "Online ordering fee",
+            "price": "$1 per online order",
+            "chargedPer": "Per online order",
+            "limit": "Not stated",
+            "amount": 1,
+            "currency": "USD"
+          },
+          {
+            "name": "AI phone answering (add-on)",
+            "price": "By quote; listed from $149 a month",
+            "chargedPer": "—",
+            "limit": "Not stated",
+            "amount": 149,
+            "currency": "USD"
+          }
+        ],
+        "notes": [
+          "All Popmenu plans: the pricing FAQ says Popmenu charges per location, and it does not publish its multi-location savings.",
+          "Popmenu online ordering fee: the pricing FAQ says the restaurant can pass the $1 fee to the guest at checkout or pay it itself.",
+          "Popmenu AI phone answering: the price starts at $149 a month, and the FAQ says to contact Popmenu for a custom quote.",
+          "Popmenu Build your own: a custom package for one or many locations, priced by quote."
+        ]
+      },
+      "freePlanOrTrial": "No",
+      "freePlan": "no",
+      "selfServeTrial": "no",
+      "reddit": {
+        "query": "Popmenu",
+        "searched": [
+          "all of Reddit",
+          "r/restaurantowners",
+          "r/restaurateur"
+        ],
+        "from": "2025-03-08",
+        "to": "2026-03-29",
+        "fromToMeans": "dates the threads were started",
+        "repliesRead": "2026-10-05",
+        "threads": 3,
+        "negative": 2,
+        "mixed": 0,
+        "positive": 1,
+        "excerpts": [
+          {
+            "text": "Liars and thieves. Had to threaten to sue them to get rid of my agreement",
+            "user": "FarAnywhere5596",
+            "subreddit": "restaurant",
+            "posted": "2025-06-18",
+            "permalink": "https://www.reddit.com/r/restaurant/comments/1le3sih/comment/myd6ubb/"
+          },
+          {
+            "text": "I just signed with them, took 8 weeks to get my first view of the website and it looks like doodoo.",
+            "user": "motivateddoug",
+            "subreddit": "restaurant",
+            "posted": "2025-06-18",
+            "permalink": "https://www.reddit.com/r/restaurant/comments/1le3sih/comment/myhdpq8/"
+          },
+          {
+            "text": "product is *okay*. ordering seems to go down every other weekend, which is leading us to look for other solutions but the marketing tools and the site itself are solid. regarding customer support, feels like I have a new account manager every quarter....",
+            "user": "Bitter-Fee8388",
+            "subreddit": "restaurant",
+            "posted": "2025-09-17",
+            "permalink": "https://www.reddit.com/r/restaurant/comments/1le3sih/comment/nerxm8n/"
+          },
+          {
+            "text": "...I've worked at a few places that use them, worked in the backend a lot, and it seemed to work great.",
+            "user": "hazeydaze4833",
+            "subreddit": "PopMenu",
+            "posted": "2025-03-17",
+            "permalink": "https://www.reddit.com/r/PopMenu/comments/1j6gon4/comment/mias46v/"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://get.popmenu.com/pricing",
+          "title": "Popmenu pricing",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://get.popmenu.com/",
+          "title": "Popmenu home page",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://get.popmenu.com/solutions/ai-phone-answering",
+          "title": "Popmenu AI Phone Answering",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://get.popmenu.com/solutions/online-ordering",
+          "title": "Popmenu restaurant online ordering",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://get.popmenu.com/solutions/pos-integrations",
+          "title": "Popmenu integrations",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://get.popmenu.com/location/single-location",
+          "title": "Popmenu for single-location independents",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://get.popmenu.com/trust",
+          "title": "Popmenu Trust Center",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://status.popmenu.com/",
+          "title": "Popmenu Status",
+          "read": "2026-10-05"
+        }
+      ],
+      "editor": "Peter Chen",
+      "datePublished": "2026-10-05",
+      "dateModified": "2026-10-05",
+      "lastChecked": "2026-10-05",
+      "pageUrl": "https://eaiservice.com/reviews/popmenu/",
+      "markdownUrl": "https://eaiservice.com/reviews/popmenu/index.md"
+    },
+    {
+      "slug": "sevenrooms",
+      "name": "SevenRooms",
+      "maker": "SevenRooms, a DoorDash company",
+      "vendorUrl": "https://sevenrooms.com/",
+      "category": "restaurant-marketing",
+      "crossList": [],
+      "relationship": null,
+      "relationshipText": null,
+      "criteria": [
+        {
+          "key": "core",
+          "label": "Core job",
+          "weight": 0.25,
+          "score": 3,
+          "evidence": "Guest CRM, 13 pre-built automated emails, Google and social booking channels and multi-venue tools are documented; email marketing is an add-on.",
+          "sources": [
+            "https://sevenrooms.com/pricing/",
+            "https://sevenrooms.com/platform/marketing-automation/",
+            "https://sevenrooms.com/platform/booking-channels/",
+            "https://sevenrooms.com/restaurant-groups/"
+          ]
+        },
+        {
+          "key": "fit",
+          "label": "Fit for the category's buyer",
+          "weight": 0.2,
+          "score": 2,
+          "evidence": "Built for restaurants and groups, but every plan is quote-only and email marketing is an add-on.",
+          "sources": [
+            "https://sevenrooms.com/pricing/",
+            "https://sevenrooms.com/restaurant-groups/",
+            "https://sevenrooms.com/restaurants/"
+          ]
+        },
+        {
+          "key": "pricing",
+          "label": "Pricing transparency",
+          "weight": 0.2,
+          "score": 1,
+          "evidence": "Three tiers are listed with no prices; a monthly subscription, a one-time setup fee and a pre-sale transaction fee are named without amounts.",
+          "sources": [
+            "https://sevenrooms.com/pricing/"
+          ]
+        },
+        {
+          "key": "setup",
+          "label": "Setup and time to first result",
+          "weight": 0.15,
+          "score": 1,
+          "evidence": "Sales-led 1:1 onboarding; the vendor says go-live takes a few weeks.",
+          "sources": [
+            "https://sevenrooms.com/pricing/"
+          ]
+        },
+        {
+          "key": "integrations",
+          "label": "Integrations and data portability",
+          "weight": 0.1,
+          "score": 3,
+          "evidence": "100+ integrations including Toast, Square and MICROS Simphony; API docs are gated and API & Integrations is an add-on; data export not documented on the pages read.",
+          "sources": [
+            "https://sevenrooms.com/platform/integrations-apis/",
+            "https://api-docs.sevenrooms.com/",
+            "https://sevenrooms.com/pricing/"
+          ]
+        },
+        {
+          "key": "trust",
+          "label": "Trust, security and support",
+          "weight": 0.1,
+          "score": 3,
+          "evidence": "Trust portal lists SOC 2, PCI DSS, GDPR and CCPA; public status page; support terms not found.",
+          "sources": [
+            "https://trust.sevenrooms.com/",
+            "https://status.sevenrooms.com/"
+          ]
+        }
+      ],
+      "overallScore": 2.1,
+      "overallScoreText": "2.1",
+      "criteriaWithEvidence": 6,
+      "prices": {
+        "sourceUrl": "https://sevenrooms.com/pricing/",
+        "read": "2026-10-05",
+        "tiers": [
+          {
+            "name": "Starter",
+            "price": "Quote on request",
+            "chargedPer": "—",
+            "limit": "Includes CRM & Guest Profiles, Branded Reservations & Waitlist Management, Access to DoorDash & Deliveroo Reservation Marketplace Users with No Cover Fees, Table Management, Reputation Management, Basic Marketing Automations",
+            "amount": null,
+            "currency": "USD"
+          },
+          {
+            "name": "Growth",
+            "price": "Quote on request",
+            "chargedPer": "—",
+            "limit": "Includes Starter plus Multi-Venue Reservation Widget, Ticketed Events, Advanced Auto-Tags & Segmentations, Advanced Marketing Automations",
+            "amount": null,
+            "currency": "USD"
+          },
+          {
+            "name": "Premium",
+            "price": "Quote on request",
+            "chargedPer": "—",
+            "limit": "Includes Growth plus Custom Auto-tags and Segmentations, Custom Marketing Automations, In-Service Perks, AI Feedback Summaries & Responses, AI Marketing Assistant, AI Note Polish, AI Client Insights",
+            "amount": null,
+            "currency": "USD"
+          }
+        ],
+        "notes": []
+      },
+      "freePlanOrTrial": "No",
+      "freePlan": "no",
+      "selfServeTrial": "no",
+      "reddit": {
+        "query": "SevenRooms",
+        "searched": [
+          "all of Reddit",
+          "r/restaurantowners",
+          "r/restaurateur"
+        ],
+        "from": "2025-11-01",
+        "to": "2026-04-15",
+        "fromToMeans": "dates the threads were started",
+        "repliesRead": "2026-10-05",
+        "threads": 5,
+        "negative": 0,
+        "mixed": 4,
+        "positive": 1,
+        "excerpts": [
+          {
+            "text": "Been using SevenRooms for 4 years - now 4 locations - with toast and love it. It's true it does not integrate as well as ToastTables but after a 90 day demo of ToastTables I decided to keep SevenRooms....",
+            "user": "nickrac",
+            "subreddit": "ToastPOS",
+            "posted": "2026-03-13",
+            "permalink": "https://www.reddit.com/r/ToastPOS/comments/1rs3p4o/comment/oa8ik6o/"
+          },
+          {
+            "text": "Doesn’t integrate as well as toast tables does. We switched from SevenRooms to toast tables when we changed the POS system to toast and I wouldn’t really ever go back.",
+            "user": "vono360",
+            "subreddit": "ToastPOS",
+            "posted": "2026-03-13",
+            "permalink": "https://www.reddit.com/r/ToastPOS/comments/1rs3p4o/comment/oa5guvc/"
+          },
+          {
+            "text": "...I’d say be careful with your service times and access rules, we’ve run into an issue when we switch from brunch to dinner the tables all appear open because it’s a different shift, and we have to use 2 iPads in the hour or so between shift change.",
+            "user": "Ok_Contribution1181",
+            "subreddit": "Restaurant_Managers",
+            "posted": "2026-04-15",
+            "permalink": "https://www.reddit.com/r/Restaurant_Managers/comments/1s8pwke/comment/og9k393/"
+          },
+          {
+            "text": "...SevenRooms wins on richer guest profiles and advanced segmentation for lifecycle automation, but it requires heavier setup and costs more....",
+            "user": "a…",
+            "subreddit": "restaurant",
+            "posted": "2025-11-05",
+            "permalink": "https://www.reddit.com/r/restaurant/comments/1olvfgw/comment/nn81qwy/"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://sevenrooms.com/pricing/",
+          "title": "SevenRooms pricing",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://sevenrooms.com/",
+          "title": "SevenRooms home page",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://sevenrooms.com/platform/integrations-apis/",
+          "title": "SevenRooms API & integrations",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://sevenrooms.com/platform/marketing-automation/",
+          "title": "SevenRooms marketing automation",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://sevenrooms.com/platform/booking-channels/",
+          "title": "SevenRooms search, social & discovery booking channels",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://sevenrooms.com/restaurant-groups/",
+          "title": "SevenRooms for restaurant groups",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://sevenrooms.com/restaurants/",
+          "title": "SevenRooms for restaurants",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://trust.sevenrooms.com/",
+          "title": "SevenRooms trust portal",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://status.sevenrooms.com/",
+          "title": "SevenRooms status page",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://api-docs.sevenrooms.com/",
+          "title": "SevenRooms API documentation access notice",
+          "read": "2026-10-05"
+        }
+      ],
+      "editor": "Peter Chen",
+      "datePublished": "2026-10-05",
+      "dateModified": "2026-10-05",
+      "lastChecked": "2026-10-05",
+      "pageUrl": "https://eaiservice.com/reviews/sevenrooms/",
+      "markdownUrl": "https://eaiservice.com/reviews/sevenrooms/index.md"
+    },
+    {
+      "slug": "slang-ai",
+      "name": "Slang AI",
+      "maker": "Gablex Inc. (d/b/a Slang.AI)",
+      "vendorUrl": "https://www.slang.ai/",
+      "category": "ai-voice-agents",
+      "crossList": [
+        "restaurant-marketing"
+      ],
+      "relationship": null,
+      "relationshipText": null,
+      "criteria": [
+        {
+          "key": "core",
+          "label": "Core job",
+          "weight": 0.25,
+          "score": 3,
+          "evidence": "Vendor pages describe 24/7 answering, reservation booking and changes, and forwarding to staff; unconfirmed.",
+          "sources": [
+            "https://www.slang.ai/product",
+            "https://www.slang.ai/pricing"
+          ]
+        },
+        {
+          "key": "fit",
+          "label": "Fit for the category's buyer",
+          "weight": 0.2,
+          "score": 4,
+          "evidence": "Restaurant buyer named; Core covers answering, reservations and transfer, but every plan is bought through a quote.",
+          "sources": [
+            "https://www.slang.ai/pricing",
+            "https://www.slang.ai/restaurants",
+            "https://www.slang.ai/terms-of-service"
+          ]
+        },
+        {
+          "key": "pricing",
+          "label": "Pricing transparency",
+          "weight": 0.2,
+          "score": 3,
+          "evidence": "Core and Premium show a \"starting at\" price per location with no billing period stated; Enterprise is quote-only.",
+          "sources": [
+            "https://www.slang.ai/pricing",
+            "https://www.slang.ai/terms-of-service"
+          ]
+        },
+        {
+          "key": "setup",
+          "label": "Setup and time to first result",
+          "weight": 0.15,
+          "score": 2,
+          "evidence": "Vendor claims under 30 minutes of setup and same-day go-live, but purchase goes through a quote and onboarding team.",
+          "sources": [
+            "https://www.slang.ai/pricing",
+            "https://www.slang.ai/restaurants",
+            "https://slang-ai-knowledge-base.help.usepylon.com/collections/6913660670-phone_setup",
+            "https://slang-ai-knowledge-base.help.usepylon.com/articles/6190926819-what-to-do-when-slang-phone-service-is-not-working"
+          ]
+        },
+        {
+          "key": "integrations",
+          "label": "Integrations and data portability",
+          "weight": 0.1,
+          "score": 3,
+          "evidence": "Reservation integrations listed (OpenTable, Resy, SevenRooms, Yelp, Tripleseat, Perfect Venue); no public API found.",
+          "sources": [
+            "https://www.slang.ai/integrations",
+            "https://slang-ai-knowledge-base.help.usepylon.com/articles/1159751309-integration-capabilities-overview",
+            "https://www.slang.ai/",
+            "https://www.slang.ai/terms-of-service"
+          ]
+        },
+        {
+          "key": "trust",
+          "label": "Trust, security and support",
+          "weight": 0.1,
+          "score": 3,
+          "evidence": "SOC 2 claim and a public status page; SLA-backed support only on Enterprise, terms not published.",
+          "sources": [
+            "https://www.slang.ai/pricing",
+            "https://www.slang.ai/",
+            "https://status.slang.ai/",
+            "https://www.slang.ai/terms-of-service"
+          ]
+        }
+      ],
+      "overallScore": 3.1,
+      "overallScoreText": "3.1",
+      "criteriaWithEvidence": 6,
+      "prices": {
+        "sourceUrl": "https://www.slang.ai/pricing",
+        "read": "2026-10-05",
+        "tiers": [
+          {
+            "name": "Core",
+            "price": "By quote; listed from $399 per location; billing period not stated",
+            "chargedPer": "Per location",
+            "limit": "Core includes reservation management, text links and confirmations, full reservation integrations, VIP call handling and bilingual support",
+            "amount": 399,
+            "currency": "USD"
+          },
+          {
+            "name": "Premium",
+            "price": "By quote; listed from $599 per location; billing period not stated",
+            "chargedPer": "Per location",
+            "limit": "Everything in Core plus Superhost, 97 languages, custom branding, private events capture, real time alerts and smart inbox",
+            "amount": 599,
+            "currency": "USD"
+          },
+          {
+            "name": "Enterprise",
+            "price": "Quote on request",
+            "chargedPer": "—",
+            "limit": "Everything in Premium plus custom workflows, custom integrations, reporting and dashboards, enterprise security and access controls, and SLA-backed support",
+            "amount": null,
+            "currency": "USD"
+          }
+        ],
+        "notes": [
+          "Slang AI Core and Premium: the pricing page states no billing period, and every plan button says “Get a quote”."
+        ]
+      },
+      "freePlanOrTrial": "No",
+      "freePlan": "no",
+      "selfServeTrial": "no",
+      "reddit": {
+        "query": "Slang.ai",
+        "searched": [
+          "all of Reddit",
+          "r/restaurantowners",
+          "r/restaurateur",
+          "r/AIReceptionists"
+        ],
+        "from": "2024-10-05",
+        "to": "2026-10-05",
+        "fromToMeans": "dates the threads were started",
+        "repliesRead": "2026-10-05",
+        "threads": 0,
+        "negative": 0,
+        "mixed": 0,
+        "positive": 0,
+        "excerpts": []
+      },
+      "sources": [
+        {
+          "url": "https://www.slang.ai/pricing",
+          "title": "Slang AI pricing",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.slang.ai/",
+          "title": "Slang AI home page",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.slang.ai/product",
+          "title": "Slang AI product page",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.slang.ai/integrations",
+          "title": "Slang AI integrations",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.slang.ai/restaurants",
+          "title": "Slang AI demo request page",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.slang.ai/about",
+          "title": "Slang AI about page",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.slang.ai/terms-of-service",
+          "title": "Slang AI terms of service (Gablex Inc.)",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://status.slang.ai/",
+          "title": "Slang AI status page",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://slang-ai-knowledge-base.help.usepylon.com/",
+          "title": "Slang AI knowledge base",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://slang-ai-knowledge-base.help.usepylon.com/articles/1159751309-integration-capabilities-overview",
+          "title": "Slang AI help: Integration Capabilities Overview",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://slang-ai-knowledge-base.help.usepylon.com/collections/6913660670-phone_setup",
+          "title": "Slang AI help: Initial Phone Setup",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://slang-ai-knowledge-base.help.usepylon.com/articles/6190926819-what-to-do-when-slang-phone-service-is-not-working",
+          "title": "Slang AI help: phone service not working",
+          "read": "2026-10-05"
+        }
+      ],
+      "editor": "Peter Chen",
+      "datePublished": "2026-10-05",
+      "dateModified": "2026-10-05",
+      "lastChecked": "2026-10-05",
+      "pageUrl": "https://eaiservice.com/reviews/slang-ai/",
+      "markdownUrl": "https://eaiservice.com/reviews/slang-ai/index.md"
+    },
+    {
+      "slug": "smartlead",
+      "name": "Smartlead",
+      "maker": "521 Products Pty Ltd (trading as Smartlead.ai)",
+      "vendorUrl": "https://www.smartlead.ai/",
+      "category": "cold-email",
+      "crossList": [],
+      "relationship": null,
+      "relationshipText": null,
+      "criteria": [
+        {
+          "key": "core",
+          "label": "Core job",
+          "weight": 0.25,
+          "score": 3,
+          "evidence": "Unlimited email accounts, automatic warm-up and sequences with mailbox rotation are documented; not confirmed first-hand.",
+          "sources": [
+            "https://www.smartlead.ai/pricing",
+            "https://www.smartlead.ai/pricing.md",
+            "https://www.smartlead.ai/email-warmup",
+            "https://www.smartlead.ai/"
+          ]
+        },
+        {
+          "key": "fit",
+          "label": "Fit for the category's buyer",
+          "weight": 0.2,
+          "score": 5,
+          "evidence": "Pricing page names solo founders, sales teams and agencies; every self-serve plan includes unlimited email accounts and warm-up.",
+          "sources": [
+            "https://www.smartlead.ai/pricing.md",
+            "https://www.smartlead.ai/pricing"
+          ]
+        },
+        {
+          "key": "pricing",
+          "label": "Pricing transparency",
+          "weight": 0.2,
+          "score": 4,
+          "evidence": "All four plans priced monthly and yearly with limits; most add-ons priced; verification and dialer show starting prices only; trial length not stated.",
+          "sources": [
+            "https://www.smartlead.ai/pricing",
+            "https://www.smartlead.ai/pricing.md"
+          ]
+        },
+        {
+          "key": "setup",
+          "label": "Setup and time to first result",
+          "weight": 0.15,
+          "score": 3,
+          "evidence": "Self-serve trial; own domains need DNS (SPF/DKIM/DMARC) setup unless mailboxes are bought in-app.",
+          "sources": [
+            "https://www.smartlead.ai/pricing",
+            "https://www.smartlead.ai/email-warmup",
+            "https://www.smartlead.ai/llms.txt",
+            "https://helpcenter.smartlead.ai/en/"
+          ]
+        },
+        {
+          "key": "integrations",
+          "label": "Integrations and data portability",
+          "weight": 0.1,
+          "score": 4,
+          "evidence": "35 integrations listed and a public API with webhooks (Pro and above); no export feature documented in what was read.",
+          "sources": [
+            "https://www.smartlead.ai/integrations",
+            "https://www.smartlead.ai/llms.txt",
+            "https://api.smartlead.ai/reference/welcome",
+            "https://api.smartlead.ai/core/leads",
+            "https://www.smartlead.ai/pricing.md"
+          ]
+        },
+        {
+          "key": "trust",
+          "label": "Trust, security and support",
+          "weight": 0.1,
+          "score": 2,
+          "evidence": "DPA with stated encryption and a support email; no named certification or public status page found.",
+          "sources": [
+            "https://www.smartlead.ai/dpa",
+            "https://www.smartlead.ai/privacy-policy",
+            "https://www.smartlead.ai/new-terms-and-conditions",
+            "https://www.smartlead.ai/",
+            "https://www.smartlead.ai/pricing"
+          ]
+        }
+      ],
+      "overallScore": 3.6,
+      "overallScoreText": "3.6",
+      "criteriaWithEvidence": 6,
+      "prices": {
+        "sourceUrl": "https://www.smartlead.ai/pricing",
+        "read": "2026-10-05",
+        "tiers": [
+          {
+            "name": "Base",
+            "price": "$39 a month, billed monthly",
+            "chargedPer": "Per account",
+            "limit": "2,000 contacts; 6,000 Email sends; 2,000 Verified Emails",
+            "amount": 39,
+            "currency": "USD"
+          },
+          {
+            "name": "Pro",
+            "price": "$94 a month, billed monthly",
+            "chargedPer": "Per account",
+            "limit": "30,000 contacts; 90,000 Email sends; 30,000 Verified Emails",
+            "amount": 94,
+            "currency": "USD"
+          },
+          {
+            "name": "Unlimited Smart",
+            "price": "$174 a month, billed monthly",
+            "chargedPer": "Per account",
+            "limit": "Unlimited contacts; 150,000 Email sends; 50,000 Verified Emails",
+            "amount": 174,
+            "currency": "USD"
+          },
+          {
+            "name": "Unlimited Prime",
+            "price": "$379 a month, billed monthly",
+            "chargedPer": "Per account",
+            "limit": "Unlimited contacts; 500,000 Email sends; 170,000 Verified Emails; 3 SmartServers included",
+            "amount": 379,
+            "currency": "USD"
+          },
+          {
+            "name": "Base (Yearly)",
+            "price": "$32.50 a month, billed yearly",
+            "chargedPer": "Per account",
+            "limit": "2,000 contacts; 6,000 Email sends; 2,000 Verified Emails",
+            "amount": 32.5,
+            "currency": "USD"
+          },
+          {
+            "name": "Pro (Yearly)",
+            "price": "$78.30 a month, billed yearly",
+            "chargedPer": "Per account",
+            "limit": "30,000 contacts; 90,000 Email sends; 30,000 Verified Emails",
+            "amount": 78.3,
+            "currency": "USD"
+          },
+          {
+            "name": "Unlimited Smart (Yearly)",
+            "price": "$144.50 a month, billed yearly",
+            "chargedPer": "Per account",
+            "limit": "Unlimited contacts; 150,000 Email sends; 50,000 Verified Emails",
+            "amount": 144.5,
+            "currency": "USD"
+          },
+          {
+            "name": "Unlimited Prime (Yearly)",
+            "price": "$314.60 a month, billed yearly",
+            "chargedPer": "Per account",
+            "limit": "Unlimited contacts; 500,000 Email sends; 170,000 Verified Emails; 3 SmartServers included",
+            "amount": 314.6,
+            "currency": "USD"
+          }
+        ],
+        "notes": [
+          "Smartlead yearly plans: paying yearly lowers the price by 17%.",
+          "All Smartlead plans: there is no charge per seat or per mailbox."
+        ]
+      },
+      "freePlanOrTrial": "Free trial (length not stated)",
+      "freePlan": "unknown",
+      "selfServeTrial": "yes",
+      "reddit": {
+        "query": "Smartlead",
+        "searched": [
+          "all of Reddit",
+          "r/Coldemailing"
+        ],
+        "from": "2026-02-02",
+        "to": "2026-08-24",
+        "fromToMeans": "dates the threads were started",
+        "repliesRead": "2026-10-05",
+        "threads": 7,
+        "negative": 3,
+        "mixed": 4,
+        "positive": 0,
+        "excerpts": [
+          {
+            "text": "I'm pretty happy with smartlead tbh. Pricing seems pretty fair to me....",
+            "user": "MistrLemon",
+            "subreddit": "r/SaaSMarketing",
+            "posted": "2026-06-07",
+            "permalink": "https://www.reddit.com/r/SaaSMarketing/comments/1tydo7d/comment/oqc0qgq/"
+          },
+          {
+            "text": "I have worked with Smart Lead, but in my experience, as I was integrating Smart Lead's APIs with Google Sheets to directly import the leads into the system, their backend APIs were not so clean. I would say it was not reliable from the integration perspective....",
+            "user": "sidmish",
+            "subreddit": "r/Coldemailing",
+            "posted": "2026-08-19",
+            "permalink": "https://www.reddit.com/r/Coldemailing/comments/1vocl5m/comment/p4kespw/"
+          },
+          {
+            "text": "Smartlead's answer is honestly ridiculous. Gmail doesn't care those came from a pool. a hard bounce is a hard bounce. That's your 100 to 67 right there....",
+            "user": "yousuf190",
+            "subreddit": "r/Coldemailing",
+            "posted": "2026-07-05",
+            "permalink": "https://www.reddit.com/r/Coldemailing/comments/1ucez0o/comment/ovqy1vz/"
+          },
+          {
+            "text": "It's the pre-warmed mailboxes that really got me, felt like I was just burning domains for no reason. I switched everything over to using my own domains with a slow manual warmup and it's been way more consistent. Something about their infrastructure just seems off lately, like they're overpromising and underdelivering on the automation side....",
+            "user": "Silly_Comfortable740",
+            "subreddit": "r/micro_saas",
+            "posted": "2026-08-24",
+            "permalink": "https://www.reddit.com/r/micro_saas/comments/1vxddvp/comment/p5o06ni/"
+          },
+          {
+            "text": "...smartlead's good when you like keeping the control over all things and narrow settings ... I use mostly smartlead for projects because of their auto labels for replies (warm, OOO, interested, information request etc)...",
+            "user": "cojirokatana",
+            "subreddit": "r/coldoutreach",
+            "posted": "2026-02-26",
+            "permalink": "https://www.reddit.com/r/coldoutreach/comments/1qu4tej/comment/o7iflb3/"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.smartlead.ai/pricing",
+          "title": "Smartlead pricing",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.smartlead.ai/pricing.md",
+          "title": "Smartlead pricing fact sheet (markdown, generated 2026-07-28)",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.smartlead.ai/",
+          "title": "Smartlead home page",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.smartlead.ai/llms.txt",
+          "title": "Smartlead llms.txt",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.smartlead.ai/integrations",
+          "title": "Smartlead integrations",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.smartlead.ai/email-warmup",
+          "title": "Smartlead email warmup",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://helpcenter.smartlead.ai/en/",
+          "title": "Smartlead help center",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://api.smartlead.ai/reference/welcome",
+          "title": "Smartlead API reference",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://api.smartlead.ai/core/leads",
+          "title": "Smartlead API: leads",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.smartlead.ai/dpa",
+          "title": "Smartlead Data Processing Addendum",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.smartlead.ai/privacy-policy",
+          "title": "Smartlead privacy policy",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.smartlead.ai/new-terms-and-conditions",
+          "title": "Smartlead terms and conditions",
+          "read": "2026-10-05"
+        }
+      ],
+      "editor": "Peter Chen",
+      "datePublished": "2026-10-05",
+      "dateModified": "2026-10-05",
+      "lastChecked": "2026-10-05",
+      "pageUrl": "https://eaiservice.com/reviews/smartlead/",
+      "markdownUrl": "https://eaiservice.com/reviews/smartlead/index.md"
+    },
+    {
+      "slug": "smith-ai",
+      "name": "Smith.ai AI Receptionist",
+      "maker": "Smith.ai, Inc.",
+      "vendorUrl": "https://smith.ai/",
+      "category": "ai-voice-agents",
+      "crossList": [],
+      "relationship": null,
+      "relationshipText": null,
+      "criteria": [
+        {
+          "key": "core",
+          "label": "Core job",
+          "weight": 0.25,
+          "score": 3,
+          "evidence": "Answering, qualification, scheduling, warm transfers and live-agent escalation are all described on vendor pages; not confirmed first-hand.",
+          "sources": [
+            "https://smith.ai/ai-receptionist",
+            "https://smith.ai/pricing/ai-receptionist",
+            "https://www.trustpilot.com/review/smith.ai"
+          ]
+        },
+        {
+          "key": "fit",
+          "label": "Fit for the category's buyer",
+          "weight": 0.2,
+          "score": 4,
+          "evidence": "Self-serve Free and Pro plans include answering, scheduling and call routing; customer stories are mostly law firms; restaurants are not among listed industries.",
+          "sources": [
+            "https://smith.ai/pricing/ai-receptionist",
+            "https://smith.ai/ai-receptionist"
+          ]
+        },
+        {
+          "key": "pricing",
+          "label": "Pricing transparency",
+          "weight": 0.2,
+          "score": 4,
+          "evidence": "All AI Receptionist tiers and overage rates are public with a free plan; the live-agent add-on price is not published.",
+          "sources": [
+            "https://smith.ai/pricing/ai-receptionist",
+            "https://smith.ai/ai-receptionist"
+          ]
+        },
+        {
+          "key": "setup",
+          "label": "Setup and time to first result",
+          "weight": 0.15,
+          "score": 3,
+          "evidence": "Self-serve signup with a guided test step; vendor says setup takes about 15 minutes (unconfirmed); capped at 3: not tested hands-on.",
+          "sources": [
+            "https://smith.ai/ai-receptionist",
+            "https://smith.ai/pricing/ai-receptionist"
+          ]
+        },
+        {
+          "key": "integrations",
+          "label": "Integrations and data portability",
+          "weight": 0.1,
+          "score": 4,
+          "evidence": "Integration directory and native CRM integrations; API and CSV export are documented for the live-receptionist product.",
+          "sources": [
+            "https://smith.ai/integrations",
+            "https://smith.ai/ai-receptionist",
+            "https://docs.smith.ai/category/ydtshfm8im-api",
+            "https://docs.smith.ai/article/hgokiaaksk-how-to-export-your-smith-ai-call-data-via-csv"
+          ]
+        },
+        {
+          "key": "trust",
+          "label": "Trust, security and support",
+          "weight": 0.1,
+          "score": 2,
+          "evidence": "Support channels are published and Trustpilot reviews discuss support, but no named security certification or status page was found.",
+          "sources": [
+            "https://smith.ai/ai-receptionist",
+            "https://smith.ai/pricing/ai-receptionist",
+            "https://docs.smith.ai/",
+            "https://www.trustpilot.com/review/smith.ai"
+          ]
+        }
+      ],
+      "overallScore": 3.4,
+      "overallScoreText": "3.4",
+      "criteriaWithEvidence": 6,
+      "prices": {
+        "sourceUrl": "https://smith.ai/pricing/ai-receptionist",
+        "read": "2026-10-05",
+        "tiers": [
+          {
+            "name": "Free",
+            "price": "Free",
+            "chargedPer": "Per account",
+            "limit": "25 calls a month, then $3.00 a call; 50 practice calls a month",
+            "amount": 0,
+            "currency": "USD"
+          },
+          {
+            "name": "Pro (75 calls)",
+            "price": "$150 a month, billed monthly",
+            "chargedPer": "Per account",
+            "limit": "75 calls a month included ($2.00 a call); extra calls $2.50 each",
+            "amount": 150,
+            "currency": "USD"
+          },
+          {
+            "name": "Pro (150 calls)",
+            "price": "$270 a month, billed monthly",
+            "chargedPer": "Per account",
+            "limit": "150 calls a month included ($1.80 a call); extra calls $2.30 each",
+            "amount": 270,
+            "currency": "USD"
+          },
+          {
+            "name": "Pro (300 calls)",
+            "price": "$500 a month, billed monthly",
+            "chargedPer": "Per account",
+            "limit": "300 calls a month included ($1.67 a call); extra calls $2.17 each",
+            "amount": 500,
+            "currency": "USD"
+          },
+          {
+            "name": "Enterprise (300 calls)",
+            "price": "$500 a month",
+            "chargedPer": "Per account",
+            "limit": "Same 300 calls and call rates as Pro (300 calls), bought through sales with a longer-term plan on offer",
+            "amount": 500,
+            "currency": "USD"
+          },
+          {
+            "name": "Enterprise (500 calls)",
+            "price": "$800 a month",
+            "chargedPer": "Per account",
+            "limit": "500 calls a month included ($1.60 a call); extra calls $2.10 each; bought through sales",
+            "amount": 800,
+            "currency": "USD"
+          },
+          {
+            "name": "Enterprise (1000+ calls)",
+            "price": "Quote on request",
+            "chargedPer": "Per account",
+            "limit": "More than 1,000 calls a month; bought through sales",
+            "amount": null,
+            "currency": "USD"
+          }
+        ],
+        "notes": [
+          "Smith.ai Free and Pro: billing is month to month, with 30 days’ notice to cancel.",
+          "Smith.ai Enterprise: these plans are bought through sales, and the pricing page also offers a longer-term plan."
+        ]
+      },
+      "freePlanOrTrial": "Free plan",
+      "freePlan": "yes",
+      "selfServeTrial": "yes",
+      "reddit": {
+        "query": "Smith.ai",
+        "searched": [
+          "all of Reddit",
+          "r/smallbusiness",
+          "r/LawFirm",
+          "r/Lawyertalk"
+        ],
+        "from": "2025-07-12",
+        "to": "2026-08-14",
+        "fromToMeans": "dates the threads were started",
+        "repliesRead": "2026-10-05",
+        "threads": 2,
+        "negative": 0,
+        "mixed": 1,
+        "positive": 1,
+        "excerpts": [
+          {
+            "text": "I was an early adopter of smith and still use them. excellent all the way.",
+            "user": "Observant_Neighbor",
+            "subreddit": "r/Lawyertalk",
+            "posted": "2026-08-15",
+            "permalink": "https://www.reddit.com/r/Lawyertalk/comments/1vog787/comment/p3uxuxl/"
+          },
+          {
+            "text": "Smith.ai is good for me. They follow my basic instructions well. Ask about cheaper plans, a \"starter\" plan, etc. You might save a few bucks.",
+            "user": "jmeesonly",
+            "subreddit": "r/Lawyertalk",
+            "posted": "2026-08-18",
+            "permalink": "https://www.reddit.com/r/Lawyertalk/comments/1vog787/comment/p4fn6rf/"
+          },
+          {
+            "text": "All of those services are mediocre at best. ... The receptionists at smithai are answering calls for many different businesses by reading a script as it pops up on their screen. It's often awkward and off putting. ... After hours just send to voicemail or use smithai for low volume times",
+            "user": "calipali12",
+            "subreddit": "r/LawFirm",
+            "posted": "2025-07-12",
+            "permalink": "https://www.reddit.com/r/LawFirm/comments/1ly4nu2/comment/n2r39j3/"
+          },
+          {
+            "text": "You get more bang for buck lighting cash on fire than using smith.ai. Hire a VA for calls",
+            "user": "Few_Requirement6657",
+            "subreddit": "r/LawFirm",
+            "posted": "2025-07-12",
+            "permalink": "https://www.reddit.com/r/LawFirm/comments/1ly4nu2/comment/n2r5j9y/"
+          },
+          {
+            "text": "I don't use smith.ai because they wouldn't send retainers if asked and did not integrate the way I wanted with my CMS....",
+            "user": "amlbreader",
+            "subreddit": "r/LawFirm",
+            "posted": "2025-07-13",
+            "permalink": "https://www.reddit.com/r/LawFirm/comments/1ly4nu2/comment/n2xkuo9/"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://smith.ai/",
+          "title": "Smith.ai home page",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://smith.ai/ai-receptionist",
+          "title": "Smith.ai AI Receptionist product page and FAQ",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://smith.ai/pricing/ai-receptionist",
+          "title": "Smith.ai AI Receptionist plans and pricing",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://smith.ai/pricing/receptionists",
+          "title": "Smith.ai Virtual Receptionists (human-first) plans and pricing",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://smith.ai/integrations",
+          "title": "Smith.ai integrations directory",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://smith.ai/ai-receptionist-for-enterprise",
+          "title": "Smith.ai AI Receptionist for enterprise",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://docs.smith.ai/",
+          "title": "Smith.ai help center",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://docs.smith.ai/category/ydtshfm8im-api",
+          "title": "Smith.ai help center: API articles",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://docs.smith.ai/article/hgokiaaksk-how-to-export-your-smith-ai-call-data-via-csv",
+          "title": "Smith.ai help: export call data via CSV",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://www.trustpilot.com/review/smith.ai",
+          "title": "Smith.ai reviews on Trustpilot (third party)",
+          "read": "2026-10-05"
+        }
+      ],
+      "editor": "Peter Chen",
+      "datePublished": "2026-10-05",
+      "dateModified": "2026-10-05",
+      "lastChecked": "2026-10-05",
+      "pageUrl": "https://eaiservice.com/reviews/smith-ai/",
+      "markdownUrl": "https://eaiservice.com/reviews/smith-ai/index.md"
+    },
+    {
+      "slug": "toast-marketing",
+      "name": "Toast Email Marketing",
+      "maker": "Toast, Inc.",
+      "vendorUrl": "https://pos.toasttab.com/",
+      "category": "restaurant-marketing",
+      "crossList": [],
+      "relationship": null,
+      "relationshipText": null,
+      "criteria": [
+        {
+          "key": "core",
+          "label": "Core job",
+          "weight": 0.25,
+          "score": 3,
+          "evidence": "Email, SMS and social campaigns, automated guest campaigns, an AI writing assistant and restaurant templates are described on Toast's pages.",
+          "sources": [
+            "https://pos.toasttab.com/products/toast-marketing",
+            "https://pos.toasttab.com/products/toast-iq-grow"
+          ]
+        },
+        {
+          "key": "fit",
+          "label": "Fit for the category's buyer",
+          "weight": 0.2,
+          "score": 3,
+          "evidence": "Built for restaurant operators in the United States, but sold as an add-on to the Toast platform through a demo.",
+          "sources": [
+            "https://pos.toasttab.com/products/toast-marketing",
+            "https://pos.toasttab.com/pricing"
+          ]
+        },
+        {
+          "key": "pricing",
+          "label": "Pricing transparency",
+          "weight": 0.2,
+          "score": 1,
+          "evidence": "Email Marketing, the Marketing Suite and Toast IQ Grow are named but none is priced; the pricing page offers Contact Sales.",
+          "sources": [
+            "https://pos.toasttab.com/pricing",
+            "https://pos.toasttab.com/products/toast-iq-grow"
+          ]
+        },
+        {
+          "key": "setup",
+          "label": "Setup and time to first result",
+          "weight": 0.15,
+          "score": 2,
+          "evidence": "New buyers start with a sales demo and Toast hardware; existing Toast customers add it from a login-gated shop.",
+          "sources": [
+            "https://pos.toasttab.com/products/toast-marketing",
+            "https://pos.toasttab.com/pricing"
+          ]
+        },
+        {
+          "key": "integrations",
+          "label": "Integrations and data portability",
+          "weight": 0.1,
+          "score": 3,
+          "evidence": "Public API documentation exists; the integrations directory could not be read and guest-list export was not confirmed.",
+          "sources": [
+            "https://doc.toasttab.com/",
+            "https://pos.toasttab.com/products/toast-marketing"
+          ]
+        },
+        {
+          "key": "trust",
+          "label": "Trust, security and support",
+          "weight": 0.1,
+          "score": 3,
+          "evidence": "Public status page, 24/7/365 support by phone or web messaging, and a vulnerability disclosure program; no named certification found.",
+          "sources": [
+            "https://status.toasttab.com/",
+            "https://pos.toasttab.com/pricing",
+            "https://pos.toasttab.com/security"
+          ]
+        }
+      ],
+      "overallScore": 2.5,
+      "overallScoreText": "2.5",
+      "criteriaWithEvidence": 6,
+      "prices": {
+        "sourceUrl": "https://pos.toasttab.com/pricing",
+        "read": "2026-10-05",
+        "tiers": [],
+        "notes": []
+      },
+      "freePlanOrTrial": "None found",
+      "freePlan": "unknown",
+      "selfServeTrial": "unknown",
+      "reddit": {
+        "query": "Toast Marketing",
+        "searched": [
+          "r/ToastPOS",
+          "r/restaurantowners"
+        ],
+        "from": "2025-01-07",
+        "to": "2026-05-14",
+        "fromToMeans": "dates the threads were started",
+        "repliesRead": "2026-10-05",
+        "threads": 7,
+        "negative": 2,
+        "mixed": 4,
+        "positive": 1,
+        "excerpts": [
+          {
+            "text": "...the marketing specific options generate sales. Weeks I run emails tend to lead towards $6,000 additional in online sales for my pizza place. I email customers every other week, and have 9,000 emails on the list. Around 51% open rate to the emails....",
+            "user": "not-feeling-so-well",
+            "subreddit": "r/ToastPOS",
+            "posted": "2025-03-06",
+            "permalink": "https://www.reddit.com/r/ToastPOS/comments/1j51lds/comment/mge2as4/"
+          },
+          {
+            "text": "...Toast marketing is cheaper but really lacks any features. If your goal is to have a quick and easy way to bulk email then toast is fine....",
+            "user": "Suspicious-Sock-4553",
+            "subreddit": "r/restaurantowners",
+            "posted": "2025-05-09",
+            "permalink": "https://www.reddit.com/r/restaurantowners/comments/1kiqzij/comment/mrhd5q5/"
+          },
+          {
+            "text": "If you're multi unit it's pretty bad. It's dirt cheap though so that's nice but it's really hard to quantify anything because they only give you 3 metrics....",
+            "user": "spoondoggle",
+            "subreddit": "r/ToastPOS",
+            "posted": "2025-01-07",
+            "permalink": "https://www.reddit.com/r/ToastPOS/comments/1hvma98/comment/m5uh06w/"
+          },
+          {
+            "text": "We really like many things about toast but their marketing suite was not one of them…we switched to Klaviyo really quickly, But then you quickly discover how completely disconnected all the customer data is in toast....",
+            "user": "cake_it_",
+            "subreddit": "r/ToastPOS",
+            "posted": "2026-05-16",
+            "permalink": "https://www.reddit.com/r/ToastPOS/comments/1td2rcl/comment/om2451q/"
+          },
+          {
+            "text": "Depends on how many locations you have and what your goal is. Toast marketing is fine for brands that have <5 locations.",
+            "user": "Efficient-Bank8318",
+            "subreddit": "r/ToastPOS",
+            "posted": "2026-03-08",
+            "permalink": "https://www.reddit.com/r/ToastPOS/comments/1rl90o8/comment/o98zt9b/"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://pos.toasttab.com/products/toast-marketing",
+          "title": "Toast: Restaurant and Retail Email & SMS Marketing",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://pos.toasttab.com/pricing",
+          "title": "Toast: Official Toast Restaurant POS Pricing & Plans (2026)",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://pos.toasttab.com/products/toast-iq-grow",
+          "title": "Toast IQ Grow",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://pos.toasttab.com/security",
+          "title": "Toast: Report a vulnerability",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://status.toasttab.com/",
+          "title": "Toast System Status",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://doc.toasttab.com/",
+          "title": "Toast platform docs",
+          "read": "2026-10-05"
+        }
+      ],
+      "editor": "Peter Chen",
+      "datePublished": "2026-10-05",
+      "dateModified": "2026-10-05",
+      "lastChecked": "2026-10-05",
+      "pageUrl": "https://eaiservice.com/reviews/toast-marketing/",
+      "markdownUrl": "https://eaiservice.com/reviews/toast-marketing/index.md"
+    },
+    {
+      "slug": "upfluence",
+      "name": "Upfluence",
+      "maker": "Upfluence",
+      "vendorUrl": "https://www.upfluence.com/",
+      "category": "influencer-marketing",
+      "crossList": [],
+      "relationship": null,
+      "relationshipText": null,
+      "criteria": [
+        {
+          "key": "core",
+          "label": "Core job",
+          "weight": 0.25,
+          "score": 3,
+          "evidence": "Creator search across a 14M+ database, mass outreach, campaign management, sales tracking and creator payments are documented; not confirmed first-hand.",
+          "sources": [
+            "https://www.upfluence.com/pricing",
+            "https://www.upfluence.com/"
+          ]
+        },
+        {
+          "key": "fit",
+          "label": "Fit for the category's buyer",
+          "weight": 0.2,
+          "score": 1,
+          "evidence": "Pages name ecommerce, affiliate, agency and UGC programs; no restaurant use and no self-serve plan.",
+          "sources": [
+            "https://www.upfluence.com/pricing",
+            "https://www.upfluence.com/"
+          ]
+        },
+        {
+          "key": "pricing",
+          "label": "Pricing transparency",
+          "weight": 0.2,
+          "score": 1,
+          "evidence": "Three modules are listed with features, but none is priced; the page asks buyers to book a demo for a quote.",
+          "sources": [
+            "https://www.upfluence.com/pricing"
+          ]
+        },
+        {
+          "key": "setup",
+          "label": "Setup and time to first result",
+          "weight": 0.15,
+          "score": 1,
+          "evidence": "A sales call comes first: the free trial is set up after an initial call, and the minimum contract is 12 months.",
+          "sources": [
+            "https://www.upfluence.com/pricing"
+          ]
+        },
+        {
+          "key": "integrations",
+          "label": "Integrations and data portability",
+          "weight": 0.1,
+          "score": 4,
+          "evidence": "Integrations page lists Shopify, Amazon Attribution, WooCommerce, BigCommerce, Klaviyo, Zapier and Hootsuite, with a documented REST API and MCP; no export documented.",
+          "sources": [
+            "https://www.upfluence.com/integrations",
+            "https://www.upfluence.com/influencer-marketing-api"
+          ]
+        },
+        {
+          "key": "trust",
+          "label": "Trust, security and support",
+          "weight": 0.1,
+          "score": 2,
+          "evidence": "2FA, role-based permissions and a dedicated account manager are listed; no certification or public status page was found.",
+          "sources": [
+            "https://www.upfluence.com/pricing",
+            "https://status.upfluence.com/"
+          ]
+        }
+      ],
+      "overallScore": 1.9,
+      "overallScoreText": "1.9",
+      "criteriaWithEvidence": 6,
+      "prices": {
+        "sourceUrl": "https://www.upfluence.com/pricing",
+        "read": "2026-10-06",
+        "tiers": [
+          {
+            "name": "Find Creators",
+            "price": "Quote on request",
+            "chargedPer": "—",
+            "limit": "Creator search, recruitment pages, mass outreach and the Gmail or Outlook integration",
+            "amount": null,
+            "currency": "USD"
+          },
+          {
+            "name": "Scale Creator Programs",
+            "price": "Quote on request",
+            "chargedPer": "—",
+            "limit": "Adds the creator marketplace, drip sequences, ecommerce integrations, affiliate codes and product shipping",
+            "amount": null,
+            "currency": "USD"
+          },
+          {
+            "name": "Autopilot",
+            "price": "Quote on request",
+            "chargedPer": "—",
+            "limit": "Adds creator payments in several currencies and automatic 1099 and W9 forms",
+            "amount": null,
+            "currency": "USD"
+          }
+        ],
+        "notes": [
+          "Upfluence plans: each quote is a fixed platform fee set by module, team size and program volume, with no percentage of sales.",
+          "Upfluence contract: the minimum contract is 12 months, and the free trial is set up after an initial call."
+        ]
+      },
+      "freePlanOrTrial": "No (trial set up after an initial call)",
+      "freePlan": "no",
+      "selfServeTrial": "no",
+      "reddit": {
+        "query": "Upfluence",
+        "searched": [
+          "all of Reddit",
+          "r/influencermarketing",
+          "r/marketing",
+          "r/restaurantowners",
+          "r/smallbusiness"
+        ],
+        "from": "2025-04-06",
+        "to": "2026-10-06",
+        "fromToMeans": "dates the threads were started",
+        "repliesRead": "2026-10-06",
+        "threads": 10,
+        "negative": 3,
+        "mixed": 4,
+        "positive": 3,
+        "excerpts": [
+          {
+            "text": "We originally signed up with a clear 6-month Order Form/contract. But after the term ended, Upfluence kept charging our account based on an auto-renewal clause we never agreed to.",
+            "user": "w…",
+            "subreddit": "influencermarketing",
+            "posted": "2025-09-19",
+            "permalink": "https://www.reddit.com/r/influencermarketing/comments/1nkt21m/has_anyone_else_had_issues_canceling_upfluence/"
+          },
+          {
+            "text": "Upfluence pricing is brutal once you scale past their entry tier.",
+            "user": "erickrealz",
+            "subreddit": "AskMarketing",
+            "posted": "2026-01-09",
+            "permalink": "https://www.reddit.com/r/AskMarketing/comments/1q6u5h7/comment/nyi1lr0/"
+          },
+          {
+            "text": "Upfluence is powerful, but the UX can feel like you're fighting the software just to send a simple brief.",
+            "user": "whitelabelpundit",
+            "subreddit": "ecommerce",
+            "posted": "2026-01-20",
+            "permalink": "https://www.reddit.com/r/ecommerce/comments/1qbpm9z/comment/o0pho4k/"
+          },
+          {
+            "text": "Upfluence discovery is comprehensive and campaign management flexible. Affiliate tracking solved a pain point for us. Not perfect but covers the important stuff.",
+            "user": "Signal_Way_2559",
+            "subreddit": "MarketingHelp",
+            "posted": "2025-12-24",
+            "permalink": "https://www.reddit.com/r/MarketingHelp/comments/1puiomi/tested_3_influencer_platforms_over_6_months_heres/"
+          },
+          {
+            "text": "We like Upfluence, we've been using for 2 years now I think - been really good. Especially for affiliation",
+            "user": "Unfair_Variation4733",
+            "subreddit": "SaaS",
+            "posted": "2025-07-04",
+            "permalink": "https://www.reddit.com/r/SaaS/comments/1lcxbpg/comment/n19umnv/"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.upfluence.com/pricing",
+          "title": "Upfluence pricing",
+          "read": "2026-10-06"
+        },
+        {
+          "url": "https://www.upfluence.com/",
+          "title": "Upfluence home page",
+          "read": "2026-10-06"
+        },
+        {
+          "url": "https://www.upfluence.com/integrations",
+          "title": "Upfluence integrations",
+          "read": "2026-10-06"
+        },
+        {
+          "url": "https://www.upfluence.com/influencer-marketing-api",
+          "title": "Upfluence influencer marketing API and MCP",
+          "read": "2026-10-06"
+        },
+        {
+          "url": "https://status.upfluence.com/",
+          "title": "Upfluence status address (redirects to the home page)",
+          "read": "2026-10-06"
+        }
+      ],
+      "editor": "Peter Chen",
+      "datePublished": "2026-10-06",
+      "dateModified": "2026-10-06",
+      "lastChecked": "2026-10-06",
+      "pageUrl": "https://eaiservice.com/reviews/upfluence/",
+      "markdownUrl": "https://eaiservice.com/reviews/upfluence/index.md"
+    },
+    {
+      "slug": "zapier",
+      "name": "Zapier",
+      "maker": "Zapier",
+      "vendorUrl": "https://zapier.com/",
+      "category": "workflow-automation",
+      "crossList": [],
+      "relationship": null,
+      "relationshipText": null,
+      "criteria": [
+        {
+          "key": "core",
+          "label": "Core job",
+          "weight": 0.25,
+          "score": 3,
+          "evidence": "Triggers, multi-step Zaps, filters, paths and app connectors are documented; not yet confirmed first-hand or by user reports.",
+          "sources": [
+            "https://zapier.com/pricing",
+            "https://zapier.com/"
+          ]
+        },
+        {
+          "key": "fit",
+          "label": "Fit for the category's buyer",
+          "weight": 0.2,
+          "score": 4,
+          "evidence": "No coding required per the vendor FAQ; the self-serve Professional plan includes multi-step Zaps and Premium apps, and Team adds 25 users.",
+          "sources": [
+            "https://zapier.com/pricing"
+          ]
+        },
+        {
+          "key": "pricing",
+          "label": "Pricing transparency",
+          "weight": 0.2,
+          "score": 4,
+          "evidence": "Starting prices, task tiers, add-on prices, a free plan and a 14-day trial are public; the overage rate is not given as a number.",
+          "sources": [
+            "https://zapier.com/pricing"
+          ]
+        },
+        {
+          "key": "setup",
+          "label": "Setup and time to first result",
+          "weight": 0.15,
+          "score": 3,
+          "evidence": "Self-serve signup, a 14-day trial without a credit card, and no coding needed per the vendor FAQ; capped at 3: not tested hands-on.",
+          "sources": [
+            "https://zapier.com/pricing"
+          ]
+        },
+        {
+          "key": "integrations",
+          "label": "Integrations and data portability",
+          "weight": 0.1,
+          "score": 5,
+          "evidence": "App directory of 9,000+ apps per the vendor pages, a developer platform, SDK and MCP, and JSON export of Zap workflows from account settings per the help center.",
+          "sources": [
+            "https://zapier.com/apps",
+            "https://help.zapier.com/hc/en-us/articles/8496308481933-Import-and-export-Zap-workflows-in-your-Team-or-Enterprise-account",
+            "https://docs.zapier.com/",
+            "https://docs.zapier.com/platform/home",
+            "https://docs.zapier.com/powered-by-zapier/introduction",
+            "https://zapier.com/tables"
+          ]
+        },
+        {
+          "key": "trust",
+          "label": "Trust, security and support",
+          "weight": 0.1,
+          "score": 4,
+          "evidence": "SOC 2 Type II, SOC 3, GDPR and CCPA on the trust center; a public status page; support channels listed by plan.",
+          "sources": [
+            "https://trust.zapier.com/",
+            "https://status.zapier.com/",
+            "https://zapier.com/pricing",
+            "https://help.zapier.com/hc/en-us"
+          ]
+        }
+      ],
+      "overallScore": 3.7,
+      "overallScoreText": "3.7",
+      "criteriaWithEvidence": 6,
+      "prices": {
+        "sourceUrl": "https://zapier.com/pricing",
+        "read": "2026-10-05",
+        "tiers": [
+          {
+            "name": "Free",
+            "price": "Free",
+            "chargedPer": "Per account",
+            "limit": "Zaps, Tables, and Forms included (100 tasks per month); Two-step Zaps",
+            "amount": 0,
+            "currency": "USD"
+          },
+          {
+            "name": "Professional",
+            "price": "From $19.99 a month, billed yearly",
+            "chargedPer": "Per account",
+            "limit": "Multi-step Zaps; Unlimited Premium apps; Webhooks; task tier chosen on the page selector",
+            "amount": 19.99,
+            "currency": "USD"
+          },
+          {
+            "name": "Professional (monthly)",
+            "price": "From $29.99 a month, billed monthly",
+            "chargedPer": "Per account",
+            "limit": "The Professional plan above, paid month to month",
+            "amount": 29.99,
+            "currency": "USD"
+          },
+          {
+            "name": "Team",
+            "price": "From $69 a month, billed yearly",
+            "chargedPer": "Per account",
+            "limit": "25 users; Shared Zaps and folders; Shared app connections; SAML SSO",
+            "amount": 69,
+            "currency": "USD"
+          },
+          {
+            "name": "Enterprise",
+            "price": "Quote on request",
+            "chargedPer": "Per organization",
+            "limit": "Unlimited users; Annual task limits",
+            "amount": null,
+            "currency": "USD"
+          },
+          {
+            "name": "Agents Pro (add-on)",
+            "price": "$33.33 a month, billed yearly",
+            "chargedPer": "Per account",
+            "limit": "1,500 activities per month (Agents Free: 400 activities per month)",
+            "amount": 33.33,
+            "currency": "USD"
+          },
+          {
+            "name": "Chatbots Pro (add-on)",
+            "price": "$13.33 a month, billed yearly",
+            "chargedPer": "Per account",
+            "limit": "Build up to 5 chatbots (Chatbots Free: up to 2 chatbots)",
+            "amount": 13.33,
+            "currency": "USD"
+          },
+          {
+            "name": "Chatbots Advanced (add-on)",
+            "price": "$66.67 a month, billed yearly",
+            "chargedPer": "Per account",
+            "limit": "Build up to 20 chatbots; Remove Zapier logo",
+            "amount": 66.67,
+            "currency": "USD"
+          }
+        ],
+        "notes": [
+          "Zapier Professional and Team: the prices shown are for yearly billing, which the page says saves 33%, and they rise with the number of tasks you choose."
+        ]
+      },
+      "freePlanOrTrial": "Free plan",
+      "freePlan": "yes",
+      "selfServeTrial": "yes",
+      "reddit": {
+        "query": "Zapier",
+        "searched": [
+          "all of Reddit",
+          "r/zapier"
+        ],
+        "from": "2025-11-24",
+        "to": "2026-09-24",
+        "fromToMeans": "dates the threads were started",
+        "repliesRead": "2026-10-05",
+        "threads": 9,
+        "negative": 4,
+        "mixed": 5,
+        "positive": 0,
+        "excerpts": [
+          {
+            "text": "Coming from Workato, this is an unfair comparison. I’ve found Zapier to be limited and frustrating. Then again, cost is a fraction of what Workato is....",
+            "user": "traveller1856",
+            "subreddit": "CustomerSuccess",
+            "posted": "2025-11-25",
+            "permalink": "https://www.reddit.com/r/CustomerSuccess/comments/1p5mhm6/comment/nqmwyko/"
+          },
+          {
+            "text": "I'm about to give up on Zapier. It fails more often than it works, and I am trying to fix one zap right now and it won't publish the zap and doesn't tell me why not....",
+            "user": "LordPhantom74",
+            "subreddit": "zapier",
+            "posted": "2026-09-02",
+            "permalink": "https://www.reddit.com/r/zapier/comments/1rcgpeu/comment/p7bhdsa/"
+          },
+          {
+            "text": "Zapier's solid for simple linear stuff - a form submission triggers a ticket, a Slack message creates a row in Sheets. Where it falls apart is anything with branching logic, apps that don't have APIs, or workflows that need proof they completed....",
+            "user": "v…",
+            "subreddit": "sysadmin",
+            "posted": "2026-03-19",
+            "permalink": "https://www.reddit.com/r/sysadmin/comments/1rwykx2/comment/ob9f1ju/"
+          },
+          {
+            "text": "Their policies are crap and is a constant sore spot. Pro-rated refunds should be a thing especially if your account doesn’t show any abusive patterns....",
+            "user": "micasa_es_miproblema",
+            "subreddit": "zapier",
+            "posted": "2026-09-24",
+            "permalink": "https://www.reddit.com/r/zapier/comments/1wp1qea/comment/pbtbacv/"
+          },
+          {
+            "text": "Zapier has always been the easiest money I’ve spent. So much capability for the money.",
+            "user": "YourPromoPilot",
+            "subreddit": "zapier",
+            "posted": "2026-05-10",
+            "permalink": "https://www.reddit.com/r/zapier/comments/1t99166/comment/ol0iei3/"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://zapier.com/pricing",
+          "title": "Zapier pricing",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://zapier.com/",
+          "title": "Zapier home page",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://zapier.com/apps",
+          "title": "Zapier app directory",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://trust.zapier.com/",
+          "title": "Zapier Trust Center",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://status.zapier.com/",
+          "title": "Zapier status",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://help.zapier.com/hc/en-us",
+          "title": "Zapier Help Center",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://docs.zapier.com/",
+          "title": "Zapier developer docs",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://docs.zapier.com/platform/home",
+          "title": "Zapier Developer Platform docs",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://docs.zapier.com/powered-by-zapier/introduction",
+          "title": "Powered by Zapier docs",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://zapier.com/tables",
+          "title": "Zapier Tables",
+          "read": "2026-10-05"
+        },
+        {
+          "url": "https://help.zapier.com/hc/en-us/articles/8496308481933-Import-and-export-Zap-workflows-in-your-Team-or-Enterprise-account",
+          "title": "Zapier Help Center: import and export Zap workflows",
+          "read": "2026-10-05"
+        }
+      ],
+      "editor": "Peter Chen",
+      "datePublished": "2026-10-05",
+      "dateModified": "2026-10-07",
+      "lastChecked": "2026-10-05",
+      "pageUrl": "https://eaiservice.com/reviews/zapier/",
+      "markdownUrl": "https://eaiservice.com/reviews/zapier/index.md"
+    }
+  ]
+}
