@@ -9,6 +9,8 @@ publisher:
 license: CC-BY-4.0
 url: "https://eaiservice.com/data/"
 repository-code: "https://github.com/creatorainco/eaiservice-data"
-date-released: 2026-10-07
+version: "2026-10-17"
+date-released: 2026-10-17
+doi: "10.5281/zenodo.23210349"
 keywords: [AI software, pricing, restaurant marketing, influencer marketing, cold email, AI voice agents]
 abstract: "Review records and plan prices for AI software used by restaurants and small businesses. Published by Midwest AI Solution Inc., which also makes CreatoRain; CreatoRain is listed but never scored."

@@ -13,7 +13,7 @@
     "method": "https://eaiservice.com/methodology/",
     "note": "Evidence scores from published sources, not hands-on tests. CreatoRain is not scored."
   },
-  "dateModified": "2026-10-07",
+  "dateModified": "2026-10-17",
   "count": 18,
   "reviews": [
     {
@@ -268,13 +268,13 @@
         },
         {
           "url": "https://techcrunch.com/2024/01/24/fantuan-acquires-chowbus-food-delivery/",
-          "title": "TechCrunch: Fantuan acquires Chowbus’ food delivery business (2024-01-24); Chowbus kept its restaurant software and POS business",
+          "title": "TechCrunch: Fantuan acquires Chowbus’ food delivery business (January 24, 2024); Chowbus kept its restaurant software and POS business",
           "read": "2026-10-05"
         }
       ],
-      "editor": "Peter Chen",
+      "editor": "The Evaluate AI Service editors",
       "datePublished": "2026-10-05",
-      "dateModified": "2026-10-05",
+      "dateModified": "2026-10-08",
       "lastChecked": "2026-10-05",
       "pageUrl": "https://eaiservice.com/reviews/chowbus/",
       "markdownUrl": "https://eaiservice.com/reviews/chowbus/index.md"
@@ -490,9 +490,9 @@
           "read": "2026-10-06"
         }
       ],
-      "editor": "Peter Chen",
+      "editor": "The Evaluate AI Service editors",
       "datePublished": "2026-10-06",
-      "dateModified": "2026-10-06",
+      "dateModified": "2026-10-07",
       "lastChecked": "2026-10-06",
       "pageUrl": "https://eaiservice.com/reviews/creator-co/",
       "markdownUrl": "https://eaiservice.com/reviews/creator-co/index.md"
@@ -507,32 +507,34 @@
         "restaurant-marketing"
       ],
       "relationship": "owner",
-      "relationshipText": "We make CreatoRain. Midwest AI Solution Inc. owns both CreatoRain and this site, and our editor, Peter Chen, is its CEO.",
+      "relationshipText": "We make CreatoRain. Midwest AI Solution Inc. owns CreatoRain and publishes this site.",
       "criteria": [
         {
           "key": "core",
           "label": "Core job",
           "weight": 0.25,
-          "evidence": "Finds food creators where your locations are, sends invitations and follow-ups, and lets creators book a visit. A person reviews each drafted reply unless auto-send is on.",
+          "evidence": "Its in-house team invites food creators from its network, sends the follow-ups and pays creators. Creators book a visit; bookings and videos are tracked per location.",
           "sources": [
-            "https://www.creatorain.com/platform"
+            "https://www.creatorain.com/platform",
+            "https://www.creatorain.com/solutions/restaurant-chains"
           ]
         },
         {
           "key": "fit",
           "label": "Fit for the category's buyer",
           "weight": 0.2,
-          "evidence": "Built for restaurants: restaurant brands, multi-location chains and the agencies that serve them, with separate pages for QSR and fast casual brands and for Asian restaurant brands.",
+          "evidence": "Built for restaurant chains, franchises and multi-location food brands. The same price applies at any size; the free pilot is only for chains and agencies with 3 or more locations.",
           "sources": [
             "https://www.creatorain.com/about",
-            "https://www.creatorain.com/solutions/restaurant-chains"
+            "https://www.creatorain.com/solutions/restaurant-chains",
+            "https://www.creatorain.com/pricing"
           ]
         },
         {
           "key": "pricing",
           "label": "Pricing transparency",
           "weight": 0.2,
-          "evidence": "Free plan and platform fees are published; done-with-you per-video prices include creator pay. On self-serve, creator pay and meals are extra; monthly billing has a 4-month minimum.",
+          "evidence": "One published price: $300 a video, creator pay included, no monthly fee and no minimum. The creator’s meal is yours. ACH, wire and invoice billing need a custom agreement.",
           "sources": [
             "https://www.creatorain.com/pricing"
           ]
@@ -541,8 +543,9 @@
           "key": "setup",
           "label": "Setup and time to first result",
           "weight": 0.15,
-          "evidence": "Reads your website and drafts the campaign name and description; you review, correct it and add your locations.",
+          "evidence": "Signup is reached from the Book a demo page, or start with a call. You send your locations, and the team drafts the campaign from your website and runs it.",
           "sources": [
+            "https://www.creatorain.com/pricing",
             "https://www.creatorain.com/platform"
           ]
         },
@@ -550,9 +553,10 @@
           "key": "integrations",
           "label": "Integrations and data portability",
           "weight": 0.1,
-          "evidence": "Imports a creator list by CSV. The pricing page links a Partner API page, which was not read; the platform page names no other integration.",
+          "evidence": "A Partner API for ordering, POS and reservation platforms is documented and in early access, by request. Creator lists can be imported; no other integration is named.",
           "sources": [
-            "https://www.creatorain.com/pricing",
+            "https://www.creatorain.com/api",
+            "https://www.creatorain.com/api/docs",
             "https://www.creatorain.com/platform"
           ]
         },
@@ -560,7 +564,7 @@
           "key": "trust",
           "label": "Trust, security and support",
           "weight": 0.1,
-          "evidence": "Run from Atlanta, with a support email, legal documents and a security policy. The policy cites only its host's security audits, none of CreatoRain's own, and the site links no status page.",
+          "evidence": "Run from Atlanta, with support and security emails and a security policy with a 72-hour breach notice. It cites only AWS’s audits, none of CreatoRain’s own; no status page is linked.",
           "sources": [
             "https://www.creatorain.com/about",
             "https://www.creatorain.com/security"
@@ -570,50 +574,27 @@
       "scoreNote": "Not scored: we make CreatoRain.",
       "prices": {
         "sourceUrl": "https://www.creatorain.com/pricing",
-        "read": "2026-10-07",
+        "read": "2026-10-09",
         "tiers": [
           {
-            "name": "Free",
-            "price": "Free",
-            "chargedPer": "—",
-            "limit": "1 restaurant location and 1 team login. You bring your own creators (CSV import or added by hand). Outreach, AI discovery and the creator database are on the paid plans.",
-            "amount": 0,
-            "currency": "USD"
-          },
-          {
-            "name": "Starter",
-            "price": "$200 a month, billed monthly",
-            "chargedPer": "—",
-            "limit": "Up to 3 restaurant locations, 1 team login and 2,000 customized emails a month. Self-serve: platform fee only, up to 16 finished videos a month; creator commission and food comp are paid on top. Done-with-you: $300 per finished video, 3 to 16 a month, so at least $1,100 a month, creator commission included. Paying annually adds 2 bonus videos for the year.",
-            "amount": 200,
-            "currency": "USD"
-          },
-          {
-            "name": "Growth",
-            "price": "$500 a month, billed monthly",
-            "chargedPer": "—",
-            "limit": "Up to 10 restaurant locations, 3 team logins, 5,000 customized emails a month and priority support. Self-serve: platform fee only, up to 48 finished videos a month. Done-with-you: $275 per finished video, 6 to 48 a month, so at least $2,150 a month, creator commission included. Paying annually adds 4 bonus videos for the year.",
-            "amount": 500,
-            "currency": "USD"
-          },
-          {
-            "name": "Scale",
-            "price": "$1,000 a month, billed monthly",
-            "chargedPer": "—",
-            "limit": "Up to 100 restaurant locations, 10 team logins, 15,000 customized emails a month, priority support and a dedicated account manager. Self-serve: platform fee only, up to 120 finished videos a month. Done-with-you: $250 per finished video, 10 to 120 a month, so at least $3,500 a month, creator commission included. Paying annually adds 6 bonus videos for the year.",
-            "amount": 1000,
+            "name": "Done-for-you",
+            "price": "$300 per video, no monthly fee",
+            "chargedPer": "Per video",
+            "limit": "The creator’s pay is included, and CreatoRain pays the creator. No cap on locations; order more videos in any month at the same price. The meal the creator eats on the visit comes from your own kitchen.",
+            "amount": 300,
             "currency": "USD"
           }
         ],
         "notes": [
-          "CreatoRain Free: the plan is free with no time limit, and no card is needed to sign up.",
-          "CreatoRain Starter, Growth and Scale: each is one flat platform fee for up to 3, 10 or 100 restaurant locations, billed monthly with a 4-month minimum or annually at the same rate.",
-          "CreatoRain done-with-you: a CreatoRain specialist runs the campaign for $300, $275 or $250 per finished video on Starter, Growth or Scale, the creator’s commission included, with a monthly minimum of 3, 6 or 10 videos."
+          "CreatoRain done-for-you: every client pays $300 per video, the creator’s pay included, with no monthly fee, no minimum and no charge per creator or per campaign.",
+          "CreatoRain order totals: the pricing page shows 1 location with 2 videos at $600, 5 locations with 2 videos each at $3,000 and 20 locations with 1 video each at $6,000.",
+          "CreatoRain free pilot: chains with 3 or more locations, and agencies running 3 or more restaurant locations, can have one full campaign run free, up to one published video.",
+          "CreatoRain plans: the pricing page lists no plans, only the price per video. Some other pages on creatorain.com still describe plans by location count; this review uses the pricing page."
         ]
       },
-      "freePlanOrTrial": "Free plan",
-      "freePlan": "yes",
-      "selfServeTrial": "yes",
+      "freePlanOrTrial": "No; a free pilot for chains and agencies with 3+ locations",
+      "freePlan": "no",
+      "selfServeTrial": "no",
       "reddit": {
         "query": "creatorain",
         "searched": [
@@ -622,7 +603,7 @@
         "from": "2024-10-05",
         "to": "2026-10-05",
         "fromToMeans": "dates the threads were started",
-        "repliesRead": "2026-10-07",
+        "repliesRead": "2026-10-09",
         "threads": 0,
         "negative": 0,
         "mixed": 0,
@@ -631,13 +612,13 @@
       },
       "sources": [
         {
-          "url": "https://www.creatorain.com/platform",
-          "title": "CreatoRain platform and how it works",
-          "read": "2026-10-07"
-        },
-        {
           "url": "https://www.creatorain.com/pricing",
           "title": "CreatoRain pricing",
+          "read": "2026-10-09"
+        },
+        {
+          "url": "https://www.creatorain.com/platform",
+          "title": "CreatoRain platform and how it works",
           "read": "2026-10-07"
         },
         {
@@ -656,15 +637,25 @@
           "read": "2026-10-07"
         },
         {
+          "url": "https://www.creatorain.com/api",
+          "title": "CreatoRain Partner API",
+          "read": "2026-10-07"
+        },
+        {
+          "url": "https://www.creatorain.com/api/docs",
+          "title": "CreatoRain Partner API documentation",
+          "read": "2026-10-07"
+        },
+        {
           "url": "https://www.reddit.com/search/?q=%22creatorain%22&type=posts&t=all",
           "title": "Reddit search for “creatorain”",
           "read": "2026-10-05"
         }
       ],
-      "editor": "Peter Chen",
+      "editor": "The Evaluate AI Service editors",
       "datePublished": "2026-10-05",
-      "dateModified": "2026-10-07",
-      "lastChecked": "2026-10-07",
+      "dateModified": "2026-10-17",
+      "lastChecked": "2026-10-09",
       "pageUrl": "https://eaiservice.com/reviews/creatorain/",
       "markdownUrl": "https://eaiservice.com/reviews/creatorain/index.md"
     },
@@ -709,7 +700,7 @@
           "label": "Pricing transparency",
           "weight": 0.2,
           "score": 4,
-          "evidence": "Three self-serve tiers priced per agent with a stated overage; Enterprise unpriced; 14-day free trial advertised.",
+          "evidence": "Three self-serve tiers are priced monthly with a stated per-customer overage on each; Enterprise is unpriced; a free demo agent is offered in place of a trial.",
           "sources": [
             "https://www.goodcall.com/pricing"
           ]
@@ -759,70 +750,47 @@
       "criteriaWithEvidence": 6,
       "prices": {
         "sourceUrl": "https://www.goodcall.com/pricing",
-        "read": "2026-10-05",
+        "read": "2026-10-17",
         "tiers": [
           {
             "name": "Starter",
             "price": "$79 a month, billed monthly",
-            "chargedPer": "Per agent",
-            "limit": "100 unique customers a month, then $0.50 per extra customer; unlimited minutes and tokens; 1 logic flow; 3 team members; 3 directory contacts; 7 days of call & customer details",
+            "chargedPer": "Per account",
+            "limit": "100 unique customers a month, then 79 cents each (about 150 calls); no minute or token charges; 5 workers; 1 external tool; 1 team member; 30-day call history",
             "amount": 79,
             "currency": "USD"
           },
           {
             "name": "Growth",
             "price": "$129 a month, billed monthly",
-            "chargedPer": "Per agent",
-            "limit": "250 unique customers a month, then $0.50 per extra customer; unlimited minutes and tokens; 3 logic flows; 9 team members; 25 directory contacts; 30 days of call & customer details",
+            "chargedPer": "Per account",
+            "limit": "500 unique customers a month, then 26 cents each (about 750 calls); 10 workers; 5 external tools; 5 team members; 90-day call history",
             "amount": 129,
             "currency": "USD"
           },
           {
             "name": "Scale",
-            "price": "$249 a month, billed monthly",
-            "chargedPer": "Per agent",
-            "limit": "500 unique customers a month, then $0.50 per extra customer; unlimited minutes and tokens; 25 logic flows; 50 team members; 500 directory contacts; unlimited call & customer details",
-            "amount": 249,
-            "currency": "USD"
-          },
-          {
-            "name": "Starter (annual)",
-            "price": "$66 a month, billed yearly",
-            "chargedPer": "Per agent",
-            "limit": "100 unique customers a month, then $0.50 per extra customer",
-            "amount": 66,
-            "currency": "USD"
-          },
-          {
-            "name": "Growth (annual)",
-            "price": "$108 a month, billed yearly",
-            "chargedPer": "Per agent",
-            "limit": "250 unique customers a month, then $0.50 per extra customer",
-            "amount": 108,
-            "currency": "USD"
-          },
-          {
-            "name": "Scale (annual)",
-            "price": "$208 a month, billed yearly",
-            "chargedPer": "Per agent",
-            "limit": "500 unique customers a month, then $0.50 per extra customer",
-            "amount": 208,
+            "price": "$299 a month, billed monthly",
+            "chargedPer": "Per account",
+            "limit": "2,000 unique customers a month, then 15 cents each (about 3,000 calls); 20 workers; 15 external tools; 10 team members; unlimited call history",
+            "amount": 299,
             "currency": "USD"
           },
           {
             "name": "Enterprise",
             "price": "Quote on request",
             "chargedPer": "—",
-            "limit": "Custom minutes and tokens; Custom API integrations; SLA & priority support",
+            "limit": "More than 2,000 customers a month; volume pricing, onboarding and an SLA",
             "amount": null,
             "currency": "USD"
           }
         ],
         "notes": [
-          "Goodcall Starter, Growth and Scale: paying yearly lowers the monthly price, for example Starter from $79 to $66 per agent."
+          "Goodcall overage: extra unique customers bill at the plan's own rate, and a caller who rings back in the same month counts once.",
+          "Goodcall AI usage: test runs beyond the plan's allowance top up $5 at a time; every plan includes a local number."
         ]
       },
-      "freePlanOrTrial": "Trial 14 days",
+      "freePlanOrTrial": "Free trial: a demo agent, paid once you connect a number",
       "freePlan": "unknown",
       "selfServeTrial": "yes",
       "reddit": {
@@ -834,7 +802,7 @@
         "from": "2024-10-05",
         "to": "2026-10-05",
         "fromToMeans": "dates the threads were started",
-        "repliesRead": "2026-10-05",
+        "repliesRead": "2026-10-17",
         "threads": 0,
         "negative": 0,
         "mixed": 0,
@@ -845,7 +813,7 @@
         {
           "url": "https://www.goodcall.com/pricing",
           "title": "Goodcall pricing",
-          "read": "2026-10-05"
+          "read": "2026-10-17"
         },
         {
           "url": "https://www.goodcall.com/",
@@ -913,10 +881,10 @@
           "read": "2026-10-05"
         }
       ],
-      "editor": "Peter Chen",
+      "editor": "The Evaluate AI Service editors",
       "datePublished": "2026-10-05",
-      "dateModified": "2026-10-05",
-      "lastChecked": "2026-10-05",
+      "dateModified": "2026-10-17",
+      "lastChecked": "2026-10-17",
       "pageUrl": "https://eaiservice.com/reviews/goodcall/",
       "markdownUrl": "https://eaiservice.com/reviews/goodcall/index.md"
     },
@@ -959,7 +927,7 @@
           "label": "Pricing transparency",
           "weight": 0.2,
           "score": 4,
-          "evidence": "All four plans are priced with their monthly credits, plus a free plan and a 30-day Starter trial; extra credits can be bought but are not priced.",
+          "evidence": "All four self-serve plans are priced with their wallet fee and monthly limits, plus a free plan and a 30-day Starter trial; Enterprise is custom-priced and card deposit fees are not priced.",
           "sources": [
             "https://grin.co/pricing/"
           ]
@@ -1005,13 +973,13 @@
       "criteriaWithEvidence": 6,
       "prices": {
         "sourceUrl": "https://grin.co/pricing/",
-        "read": "2026-10-06",
+        "read": "2026-10-17",
         "tiers": [
           {
             "name": "Free",
             "price": "Free",
             "chargedPer": "Per account",
-            "limit": "50 usage credits; extra credits cannot be bought",
+            "limit": "20% management fee on wallet deposits; 2 live campaigns, 10 gifts in total, 1,200 creator searches a month",
             "amount": 0,
             "currency": "USD"
           },
@@ -1019,7 +987,7 @@
             "name": "Starter",
             "price": "$200 a month, billed monthly",
             "chargedPer": "Per account",
-            "limit": "2,000 monthly credits; Gia's Desk and customizable dashboards",
+            "limit": "10% management fee on wallet deposits; 100 gifts and 12,000 creator searches a month; 30-day free trial",
             "amount": 200,
             "currency": "USD"
           },
@@ -1027,26 +995,27 @@
             "name": "Growth",
             "price": "$500 a month, billed monthly",
             "chargedPer": "Per account",
-            "limit": "7,500 monthly credits; multiple brands, multiple currencies and paid boosting",
+            "limit": "7% management fee on wallet deposits; 300 gifts and 36,000 creator searches a month; multiple brands",
             "amount": 500,
             "currency": "USD"
           },
           {
             "name": "Scale",
-            "price": "$1,000 a month, billed monthly",
+            "price": "$1,500 a month, billed monthly",
             "chargedPer": "Per account",
-            "limit": "20,000 monthly credits",
-            "amount": 1000,
+            "limit": "5% management fee on wallet deposits; 1,000 gifts and 120,000 creator searches a month",
+            "amount": 1500,
             "currency": "USD"
           }
         ],
         "notes": [
           "GRIN Starter: every new account gets a free 30-day trial of the Starter plan.",
-          "GRIN paid plans: more credits can be bought, but the pricing page gives no price for them.",
+          "GRIN wallet fee: the plan's management fee is added on top of each wallet deposit, so $1,000 funded on Starter costs $100 more.",
+          "GRIN paid campaigns: paid and affiliate campaigns need at least $250 in the wallet; gifting-only campaigns need no deposit.",
           "All GRIN plans: billing is month-to-month, with no annual contract and no charge per seat."
         ]
       },
-      "freePlanOrTrial": "Free plan (50 usage credits)",
+      "freePlanOrTrial": "Free plan (20% fee on wallet deposits)",
       "freePlan": "yes",
       "selfServeTrial": "yes",
       "reddit": {
@@ -1108,7 +1077,7 @@
         {
           "url": "https://grin.co/pricing/",
           "title": "GRIN pricing",
-          "read": "2026-10-06"
+          "read": "2026-10-17"
         },
         {
           "url": "https://grin.co/",
@@ -1151,10 +1120,10 @@
           "read": "2026-10-06"
         }
       ],
-      "editor": "Peter Chen",
+      "editor": "The Evaluate AI Service editors",
       "datePublished": "2026-10-06",
-      "dateModified": "2026-10-06",
-      "lastChecked": "2026-10-06",
+      "dateModified": "2026-10-17",
+      "lastChecked": "2026-10-17",
       "pageUrl": "https://eaiservice.com/reviews/grin/",
       "markdownUrl": "https://eaiservice.com/reviews/grin/index.md"
     },
@@ -1500,9 +1469,9 @@
           "read": "2026-10-05"
         }
       ],
-      "editor": "Peter Chen",
+      "editor": "The Evaluate AI Service editors",
       "datePublished": "2026-10-05",
-      "dateModified": "2026-10-05",
+      "dateModified": "2026-10-08",
       "lastChecked": "2026-10-05",
       "pageUrl": "https://eaiservice.com/reviews/instantly/",
       "markdownUrl": "https://eaiservice.com/reviews/instantly/index.md"
@@ -1670,7 +1639,7 @@
           "read": "2026-10-06"
         }
       ],
-      "editor": "Peter Chen",
+      "editor": "The Evaluate AI Service editors",
       "datePublished": "2026-10-06",
       "dateModified": "2026-10-06",
       "lastChecked": "2026-10-06",
@@ -1932,7 +1901,7 @@
           "read": "2026-10-05"
         }
       ],
-      "editor": "Peter Chen",
+      "editor": "The Evaluate AI Service editors",
       "datePublished": "2026-10-05",
       "dateModified": "2026-10-05",
       "lastChecked": "2026-10-05",
@@ -2149,9 +2118,9 @@
           "read": "2026-10-06"
         }
       ],
-      "editor": "Peter Chen",
+      "editor": "The Evaluate AI Service editors",
       "datePublished": "2026-10-06",
-      "dateModified": "2026-10-06",
+      "dateModified": "2026-10-07",
       "lastChecked": "2026-10-06",
       "pageUrl": "https://eaiservice.com/reviews/modash/",
       "markdownUrl": "https://eaiservice.com/reviews/modash/index.md"
@@ -2387,9 +2356,9 @@
           "read": "2026-10-05"
         }
       ],
-      "editor": "Peter Chen",
+      "editor": "The Evaluate AI Service editors",
       "datePublished": "2026-10-05",
-      "dateModified": "2026-10-05",
+      "dateModified": "2026-10-08",
       "lastChecked": "2026-10-05",
       "pageUrl": "https://eaiservice.com/reviews/owner-com/",
       "markdownUrl": "https://eaiservice.com/reviews/owner-com/index.md"
@@ -2654,7 +2623,7 @@
           "read": "2026-10-05"
         }
       ],
-      "editor": "Peter Chen",
+      "editor": "The Evaluate AI Service editors",
       "datePublished": "2026-10-05",
       "dateModified": "2026-10-05",
       "lastChecked": "2026-10-05",
@@ -2875,7 +2844,7 @@
           "read": "2026-10-05"
         }
       ],
-      "editor": "Peter Chen",
+      "editor": "The Evaluate AI Service editors",
       "datePublished": "2026-10-05",
       "dateModified": "2026-10-05",
       "lastChecked": "2026-10-05",
@@ -3087,7 +3056,7 @@
           "read": "2026-10-05"
         }
       ],
-      "editor": "Peter Chen",
+      "editor": "The Evaluate AI Service editors",
       "datePublished": "2026-10-05",
       "dateModified": "2026-10-05",
       "lastChecked": "2026-10-05",
@@ -3375,7 +3344,7 @@
           "read": "2026-10-05"
         }
       ],
-      "editor": "Peter Chen",
+      "editor": "The Evaluate AI Service editors",
       "datePublished": "2026-10-05",
       "dateModified": "2026-10-05",
       "lastChecked": "2026-10-05",
@@ -3642,7 +3611,7 @@
           "read": "2026-10-05"
         }
       ],
-      "editor": "Peter Chen",
+      "editor": "The Evaluate AI Service editors",
       "datePublished": "2026-10-05",
       "dateModified": "2026-10-05",
       "lastChecked": "2026-10-05",
@@ -3823,7 +3792,7 @@
           "read": "2026-10-05"
         }
       ],
-      "editor": "Peter Chen",
+      "editor": "The Evaluate AI Service editors",
       "datePublished": "2026-10-05",
       "dateModified": "2026-10-05",
       "lastChecked": "2026-10-05",
@@ -3942,7 +3911,7 @@
           "Upfluence contract: the minimum contract is 12 months, and the free trial is set up after an initial call."
         ]
       },
-      "freePlanOrTrial": "No (trial set up after an initial call)",
+      "freePlanOrTrial": "No self-serve trial; a free trial is set up after a sales call",
       "freePlan": "no",
       "selfServeTrial": "no",
       "reddit": {
@@ -4027,9 +3996,9 @@
           "read": "2026-10-06"
         }
       ],
-      "editor": "Peter Chen",
+      "editor": "The Evaluate AI Service editors",
       "datePublished": "2026-10-06",
-      "dateModified": "2026-10-06",
+      "dateModified": "2026-10-08",
       "lastChecked": "2026-10-06",
       "pageUrl": "https://eaiservice.com/reviews/upfluence/",
       "markdownUrl": "https://eaiservice.com/reviews/upfluence/index.md"
@@ -4302,7 +4271,7 @@
           "read": "2026-10-05"
         }
       ],
-      "editor": "Peter Chen",
+      "editor": "The Evaluate AI Service editors",
       "datePublished": "2026-10-05",
       "dateModified": "2026-10-07",
       "lastChecked": "2026-10-05",
