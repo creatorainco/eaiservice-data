@@ -2,7 +2,7 @@
   "publisher": "Evaluate AI Service",
   "owner": "Midwest AI Solution Inc.",
   "corrections": "corrections@eaiservice.com",
-  "disclosure": "Disclosure: Evaluate AI Service is owned by Midwest AI Solution Inc., which also makes CreatoRain (https://www.creatorain.com/). CreatoRain is listed but never scored.",
+  "disclosure": "Disclosure: Evaluate AI Service is owned by Midwest AI Solution Inc., which also makes CreatoRain (https://www.creatorain.com/). CreatoRain is scored and ranked with the same rubric as every other product, and carries no review or rating markup.",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "licenseName": "CC BY 4.0",
   "attribution": "Evaluate AI Service (eaiservice.com), published by Midwest AI Solution Inc.",
@@ -11,10 +11,10 @@
   "scoring": {
     "scale": "1-5",
     "method": "https://eaiservice.com/methodology/",
-    "note": "Evidence scores from published sources, not hands-on tests. CreatoRain is not scored."
+    "note": "Evidence scores from published sources and, where a review says so, an in-person demo; not hands-on tests. CreatoRain, which we make, is scored and ranked with the same rubric."
   },
-  "dateModified": "2026-10-17",
-  "count": 18,
+  "dateModified": "2026-10-26",
+  "count": 24,
   "reviews": [
     {
       "slug": "chowbus",
@@ -272,7 +272,7 @@
           "read": "2026-10-05"
         }
       ],
-      "editor": "The Evaluate AI Service editors",
+      "editor": "Peter Chen",
       "datePublished": "2026-10-05",
       "dateModified": "2026-10-08",
       "lastChecked": "2026-10-05",
@@ -490,7 +490,7 @@
           "read": "2026-10-06"
         }
       ],
-      "editor": "The Evaluate AI Service editors",
+      "editor": "Peter Chen",
       "datePublished": "2026-10-06",
       "dateModified": "2026-10-07",
       "lastChecked": "2026-10-06",
@@ -513,6 +513,7 @@
           "key": "core",
           "label": "Core job",
           "weight": 0.25,
+          "score": 3,
           "evidence": "Its in-house team invites food creators from its network, sends the follow-ups and pays creators. Creators book a visit; bookings and videos are tracked per location.",
           "sources": [
             "https://www.creatorain.com/platform",
@@ -523,27 +524,31 @@
           "key": "fit",
           "label": "Fit for the category's buyer",
           "weight": 0.2,
-          "evidence": "Built for restaurant chains, franchises and multi-location food brands. The same price applies at any size; the free pilot is only for chains and agencies with 3 or more locations.",
+          "score": 3,
+          "evidence": "For restaurant chains, at a published $300 a video: each location joins one running campaign covering discovery, visit invitations and tracking. Every start is a demo, the 3 anchor's sales call.",
           "sources": [
-            "https://www.creatorain.com/about",
             "https://www.creatorain.com/solutions/restaurant-chains",
-            "https://www.creatorain.com/pricing"
+            "https://www.creatorain.com/pricing",
+            "https://www.creatorain.com/about"
           ]
         },
         {
           "key": "pricing",
           "label": "Pricing transparency",
           "weight": 0.2,
-          "evidence": "One published price: $300 a video, creator pay included, no monthly fee and no minimum. The creator’s meal is yours. ACH, wire and invoice billing need a custom agreement.",
+          "score": 4,
+          "evidence": "One published price: $300 a video, creator pay included, which it says one master campaign across its network makes possible by lowering creator quotes. No fee or minimum; no free trial.",
           "sources": [
-            "https://www.creatorain.com/pricing"
+            "https://www.creatorain.com/pricing",
+            "https://www.creatorain.com/platform"
           ]
         },
         {
           "key": "setup",
           "label": "Setup and time to first result",
           "weight": 0.15,
-          "evidence": "Signup is reached from the Book a demo page, or start with a call. You send your locations, and the team drafts the campaign from your website and runs it.",
+          "score": 2,
+          "evidence": "Every start is a demo call. The team drafts the campaign from your website, and it starts once you check the draft and name the locations.",
           "sources": [
             "https://www.creatorain.com/pricing",
             "https://www.creatorain.com/platform"
@@ -553,28 +558,32 @@
           "key": "integrations",
           "label": "Integrations and data portability",
           "weight": 0.1,
-          "evidence": "A Partner API for ordering, POS and reservation platforms is documented and in early access, by request. Creator lists can be imported; no other integration is named.",
+          "score": 3,
+          "evidence": "Partner API documentation for ordering, POS and reservation platforms is public; access is in early access, by request. No integration list was found.",
           "sources": [
             "https://www.creatorain.com/api",
-            "https://www.creatorain.com/api/docs",
-            "https://www.creatorain.com/platform"
+            "https://www.creatorain.com/api/docs"
           ]
         },
         {
           "key": "trust",
           "label": "Trust, security and support",
           "weight": 0.1,
-          "evidence": "Run from Atlanta, with support and security emails and a security policy with a 72-hour breach notice. It cites only AWS’s audits, none of CreatoRain’s own; no status page is linked.",
+          "score": 2,
+          "evidence": "Support and security emails and a security policy with a 72-hour breach notice. It cites only AWS’s audits, none of its own; no status page is linked.",
           "sources": [
-            "https://www.creatorain.com/about",
+            "https://www.creatorain.com/platform",
             "https://www.creatorain.com/security"
           ]
         }
       ],
-      "scoreNote": "Not scored: we make CreatoRain.",
+      "overallScore": 3,
+      "overallScoreText": "3.0",
+      "criteriaWithEvidence": 6,
+      "scoreNote": "We make CreatoRain; it is scored and ranked with the same rubric as every other product.",
       "prices": {
         "sourceUrl": "https://www.creatorain.com/pricing",
-        "read": "2026-10-09",
+        "read": "2026-10-24",
         "tiers": [
           {
             "name": "Done-for-you",
@@ -588,11 +597,10 @@
         "notes": [
           "CreatoRain done-for-you: every client pays $300 per video, the creator’s pay included, with no monthly fee, no minimum and no charge per creator or per campaign.",
           "CreatoRain order totals: the pricing page shows 1 location with 2 videos at $600, 5 locations with 2 videos each at $3,000 and 20 locations with 1 video each at $6,000.",
-          "CreatoRain free pilot: chains with 3 or more locations, and agencies running 3 or more restaurant locations, can have one full campaign run free, up to one published video.",
-          "CreatoRain plans: the pricing page lists no plans, only the price per video. Some other pages on creatorain.com still describe plans by location count; this review uses the pricing page."
+          "CreatoRain no-shows: you pay only for videos that are posted; if a creator doesn’t show up or doesn’t post, the team invites another creator at no extra cost."
         ]
       },
-      "freePlanOrTrial": "No; a free pilot for chains and agencies with 3+ locations",
+      "freePlanOrTrial": "No",
       "freePlan": "no",
       "selfServeTrial": "no",
       "reddit": {
@@ -603,7 +611,7 @@
         "from": "2024-10-05",
         "to": "2026-10-05",
         "fromToMeans": "dates the threads were started",
-        "repliesRead": "2026-10-09",
+        "repliesRead": "2026-10-24",
         "threads": 0,
         "negative": 0,
         "mixed": 0,
@@ -614,37 +622,37 @@
         {
           "url": "https://www.creatorain.com/pricing",
           "title": "CreatoRain pricing",
-          "read": "2026-10-09"
+          "read": "2026-10-24"
         },
         {
           "url": "https://www.creatorain.com/platform",
           "title": "CreatoRain platform and how it works",
-          "read": "2026-10-07"
+          "read": "2026-10-24"
         },
         {
           "url": "https://www.creatorain.com/about",
           "title": "About CreatoRain",
-          "read": "2026-10-07"
+          "read": "2026-10-24"
         },
         {
           "url": "https://www.creatorain.com/solutions/restaurant-chains",
           "title": "CreatoRain for restaurant chains",
-          "read": "2026-10-07"
+          "read": "2026-10-22"
         },
         {
           "url": "https://www.creatorain.com/security",
           "title": "CreatoRain security policy",
-          "read": "2026-10-07"
+          "read": "2026-10-22"
         },
         {
           "url": "https://www.creatorain.com/api",
           "title": "CreatoRain Partner API",
-          "read": "2026-10-07"
+          "read": "2026-10-22"
         },
         {
           "url": "https://www.creatorain.com/api/docs",
           "title": "CreatoRain Partner API documentation",
-          "read": "2026-10-07"
+          "read": "2026-10-22"
         },
         {
           "url": "https://www.reddit.com/search/?q=%22creatorain%22&type=posts&t=all",
@@ -652,12 +660,183 @@
           "read": "2026-10-05"
         }
       ],
-      "editor": "The Evaluate AI Service editors",
+      "editor": "Peter Chen",
       "datePublished": "2026-10-05",
-      "dateModified": "2026-10-17",
-      "lastChecked": "2026-10-09",
+      "dateModified": "2026-10-24",
+      "lastChecked": "2026-10-24",
       "pageUrl": "https://eaiservice.com/reviews/creatorain/",
       "markdownUrl": "https://eaiservice.com/reviews/creatorain/index.md"
+    },
+    {
+      "slug": "ez-texting",
+      "name": "EZ Texting",
+      "maker": "CallFire Inc.",
+      "vendorUrl": "https://www.eztexting.com/",
+      "category": "sms-marketing",
+      "crossList": [],
+      "relationship": null,
+      "relationshipText": null,
+      "criteria": [
+        {
+          "key": "core",
+          "label": "Core job",
+          "weight": 0.25,
+          "score": 3,
+          "evidence": "Sign-up forms, QR codes and keywords for opt-in, plus mass and two-way texts, SMS and MMS, workflows, templates and a team inbox are named; no first-hand check.",
+          "sources": [
+            "https://www.eztexting.com/pricing",
+            "https://www.eztexting.com/industries/restaurants"
+          ]
+        },
+        {
+          "key": "fit",
+          "label": "Fit for the category's buyer",
+          "weight": 0.2,
+          "score": 2,
+          "evidence": "A restaurants page and self-serve plans, but no tier offers done-for-you campaigns; you write, send and track each one, and in-store sign-up is a keyword or QR code.",
+          "sources": [
+            "https://www.eztexting.com/industries/restaurants",
+            "https://www.eztexting.com/pricing"
+          ]
+        },
+        {
+          "key": "pricing",
+          "label": "Pricing transparency",
+          "weight": 0.2,
+          "score": 4,
+          "evidence": "Each plan shows a starting price, monthly and yearly, with credits, overage per credit and the Launch telecom fee, plus a 14-day trial; Enterprise is quote-led and carrier fees are extra.",
+          "sources": [
+            "https://www.eztexting.com/pricing",
+            "https://www.eztexting.com/"
+          ]
+        },
+        {
+          "key": "setup",
+          "label": "Setup and time to first result",
+          "weight": 0.15,
+          "score": 3,
+          "evidence": "Self-serve plans state a set-up time within 1 business day; Enterprise takes 4 to 12 weeks. Not tested hands-on.",
+          "sources": [
+            "https://www.eztexting.com/pricing"
+          ]
+        },
+        {
+          "key": "integrations",
+          "label": "Integrations and data portability",
+          "weight": 0.1,
+          "score": 4,
+          "evidence": "An integrations directory including Salesforce, HubSpot, Squarespace, Zapier and Zendesk, with an SMS API and API docs; no export documentation found.",
+          "sources": [
+            "https://www.eztexting.com/integrations",
+            "https://www.eztexting.com/pricing"
+          ]
+        },
+        {
+          "key": "trust",
+          "label": "Trust, security and support",
+          "weight": 0.1,
+          "score": 2,
+          "evidence": "A platform security page and TrustRadius reviews linked from the home page; it cites its cloud hosts' audits, not its own, and no status page was found.",
+          "sources": [
+            "https://www.eztexting.com/platform-security",
+            "https://www.eztexting.com/"
+          ]
+        }
+      ],
+      "overallScore": 3,
+      "overallScoreText": "3.0",
+      "criteriaWithEvidence": 6,
+      "prices": {
+        "sourceUrl": "https://www.eztexting.com/pricing",
+        "read": "2026-10-22",
+        "tiers": [
+          {
+            "name": "Launch",
+            "price": "$25 a month, billed monthly",
+            "chargedPer": "Per account",
+            "limit": "For up to 500 contacts; 500 credits a month, then 4 cents a credit; 1 user; $5 monthly telecom fee; set-up within 1 business day",
+            "amount": 25,
+            "currency": "USD"
+          },
+          {
+            "name": "Boost",
+            "price": "$75 a month, billed monthly",
+            "chargedPer": "Per account",
+            "limit": "For 500 to 2,000 contacts; 500 credits a month, then 3.5 cents a credit; 1 user; telecom fee waived",
+            "amount": 75,
+            "currency": "USD"
+          },
+          {
+            "name": "Scale",
+            "price": "$125 a month, billed monthly",
+            "chargedPer": "Per account",
+            "limit": "For 2,000 to 50,000 contacts; 500 credits a month, then 3 cents a credit; 1 user; an onboarding specialist; telecom fee waived",
+            "amount": 125,
+            "currency": "USD"
+          },
+          {
+            "name": "Enterprise",
+            "price": "From $3,000 a month",
+            "chargedPer": "Per account",
+            "limit": "For 50,000+ contacts; a dedicated short code with 200k credits a month, then 1 cent a credit; a dedicated success manager; set-up in 4 to 12 weeks",
+            "amount": 3000,
+            "currency": "USD"
+          }
+        ],
+        "notes": [
+          "EZ Texting credits: an SMS uses 1 credit per contact and an MMS uses 3.",
+          "EZ Texting telecom fee: the $5 monthly fee on Launch covers carrier fees and is waived on Boost, Scale and Enterprise."
+        ]
+      },
+      "freePlanOrTrial": "Trial 14 days",
+      "freePlan": "unknown",
+      "selfServeTrial": "yes",
+      "reddit": {
+        "query": "EZ Texting",
+        "searched": [],
+        "from": "2024-10-22",
+        "to": "2026-10-22",
+        "fromToMeans": "dates the threads were started",
+        "repliesRead": "2026-10-22",
+        "threads": 0,
+        "negative": 0,
+        "mixed": 0,
+        "positive": 0,
+        "excerpts": []
+      },
+      "sources": [
+        {
+          "url": "https://www.eztexting.com/pricing",
+          "title": "EZ Texting pricing",
+          "read": "2026-10-22"
+        },
+        {
+          "url": "https://www.eztexting.com/",
+          "title": "EZ Texting home page",
+          "read": "2026-10-22"
+        },
+        {
+          "url": "https://www.eztexting.com/industries/restaurants",
+          "title": "EZ Texting for restaurants",
+          "read": "2026-10-22"
+        },
+        {
+          "url": "https://www.eztexting.com/integrations",
+          "title": "EZ Texting integrations",
+          "read": "2026-10-22"
+        },
+        {
+          "url": "https://www.eztexting.com/platform-security",
+          "title": "EZ Texting platform security",
+          "read": "2026-10-22"
+        }
+      ],
+      "editor": "Peter Chen",
+      "datePublished": "2026-10-22",
+      "dateModified": "2026-10-24",
+      "lastChecked": "2026-10-22",
+      "pageUrl": "https://eaiservice.com/reviews/ez-texting/",
+      "markdownUrl": "https://eaiservice.com/reviews/ez-texting/index.md"
     },
     {
       "slug": "goodcall",
@@ -881,7 +1060,7 @@
           "read": "2026-10-05"
         }
       ],
-      "editor": "The Evaluate AI Service editors",
+      "editor": "Peter Chen",
       "datePublished": "2026-10-05",
       "dateModified": "2026-10-17",
       "lastChecked": "2026-10-17",
@@ -1120,7 +1299,7 @@
           "read": "2026-10-06"
         }
       ],
-      "editor": "The Evaluate AI Service editors",
+      "editor": "Peter Chen",
       "datePublished": "2026-10-06",
       "dateModified": "2026-10-17",
       "lastChecked": "2026-10-17",
@@ -1469,12 +1648,164 @@
           "read": "2026-10-05"
         }
       ],
-      "editor": "The Evaluate AI Service editors",
+      "editor": "Peter Chen",
       "datePublished": "2026-10-05",
       "dateModified": "2026-10-08",
       "lastChecked": "2026-10-05",
       "pageUrl": "https://eaiservice.com/reviews/instantly/",
       "markdownUrl": "https://eaiservice.com/reviews/instantly/index.md"
+    },
+    {
+      "slug": "jenna",
+      "name": "Jenna",
+      "maker": "Jenna",
+      "vendorUrl": "https://www.meetjenna.ai/",
+      "category": "ai-voice-agents",
+      "crossList": [],
+      "relationship": null,
+      "relationshipText": null,
+      "criteria": [
+        {
+          "key": "core",
+          "label": "Core job",
+          "weight": 0.25,
+          "score": 5,
+          "evidence": "Vendor pages describe 24/7 answering, orders sent to the POS and reservations, seen in Peter Chen's in-person demo in October 2026; staff transfer rules are on Enterprise only.",
+          "sources": [
+            "https://www.meetjenna.ai/"
+          ]
+        },
+        {
+          "key": "fit",
+          "label": "Fit for the category's buyer",
+          "weight": 0.2,
+          "score": 3,
+          "evidence": "Built for restaurants, but both plans start with a demo and staff transfer rules sit in Enterprise.",
+          "sources": [
+            "https://www.meetjenna.ai/",
+            "https://www.meetjenna.ai/contact"
+          ]
+        },
+        {
+          "key": "pricing",
+          "label": "Pricing transparency",
+          "weight": 0.2,
+          "score": 4,
+          "evidence": "Both plans are priced per location a month with 750 minutes included and $0.65 a minute after; no free trial is offered.",
+          "sources": [
+            "https://www.meetjenna.ai/"
+          ]
+        },
+        {
+          "key": "setup",
+          "label": "Setup and time to first result",
+          "weight": 0.15,
+          "score": 3,
+          "evidence": "Every start is a demo; the team connects the POS and customizes Jenna. Scored after Peter Chen's in-person demo in October 2026; above 3 needs a signup of our own.",
+          "sources": [
+            "https://www.meetjenna.ai/"
+          ]
+        },
+        {
+          "key": "integrations",
+          "label": "Integrations and data portability",
+          "weight": 0.1,
+          "score": 3,
+          "evidence": "Names ten POS systems, including Toast, Square, Clover and Oracle MICROS; API access is listed on Enterprise only, and no public API docs were found.",
+          "sources": [
+            "https://www.meetjenna.ai/integrations",
+            "https://www.meetjenna.ai/"
+          ]
+        },
+        {
+          "key": "trust",
+          "label": "Trust, security and support",
+          "weight": 0.1,
+          "score": 1,
+          "evidence": "Only a sales and general email address and a privacy policy are published; no certification, status page or support terms were found.",
+          "sources": [
+            "https://www.meetjenna.ai/contact",
+            "https://www.meetjenna.ai/privacy"
+          ]
+        }
+      ],
+      "overallScore": 3.5,
+      "overallScoreText": "3.5",
+      "criteriaWithEvidence": 6,
+      "prices": {
+        "sourceUrl": "https://www.meetjenna.ai/",
+        "read": "2026-10-22",
+        "tiers": [
+          {
+            "name": "Starter",
+            "price": "$500 a month",
+            "chargedPer": "Per location",
+            "limit": "750 minutes a month, then $0.65 a minute; 24/7 answering, unlimited calls at once, orders to the POS, reservations, transcripts and recordings",
+            "amount": 500,
+            "currency": "USD"
+          },
+          {
+            "name": "Enterprise",
+            "price": "$999 a month",
+            "chargedPer": "Per location",
+            "limit": "750 minutes per location, then $0.65 a minute; adds a multi-location dashboard, location routing, custom voice and upsells, dedicated onboarding and support, staff transfer rules, custom POS integrations and API access",
+            "amount": 999,
+            "currency": "USD"
+          }
+        ],
+        "notes": [
+          "Jenna minutes: both plans include 750 minutes per location a month and charge $0.65 a minute after."
+        ]
+      },
+      "freePlanOrTrial": "No",
+      "freePlan": "no",
+      "selfServeTrial": "no",
+      "reddit": {
+        "query": "Jenna AI restaurant",
+        "searched": [],
+        "from": "2024-10-22",
+        "to": "2026-10-22",
+        "fromToMeans": "dates the threads were started",
+        "repliesRead": "2026-10-22",
+        "threads": 0,
+        "negative": 0,
+        "mixed": 0,
+        "positive": 0,
+        "excerpts": []
+      },
+      "sources": [
+        {
+          "url": "https://www.meetjenna.ai/",
+          "title": "Jenna home page, with plans and pricing",
+          "read": "2026-10-22"
+        },
+        {
+          "url": "https://www.meetjenna.ai/integrations",
+          "title": "Jenna POS integrations",
+          "read": "2026-10-22"
+        },
+        {
+          "url": "https://www.meetjenna.ai/contact",
+          "title": "Contact Jenna",
+          "read": "2026-10-22"
+        },
+        {
+          "url": "https://www.meetjenna.ai/privacy",
+          "title": "Jenna privacy policy",
+          "read": "2026-10-22"
+        },
+        {
+          "url": "https://www.meetjenna.ai/about",
+          "title": "About Jenna",
+          "read": "2026-10-22"
+        }
+      ],
+      "editor": "Peter Chen",
+      "datePublished": "2026-10-22",
+      "dateModified": "2026-10-26",
+      "lastChecked": "2026-10-22",
+      "pageUrl": "https://eaiservice.com/reviews/jenna/",
+      "markdownUrl": "https://eaiservice.com/reviews/jenna/index.md"
     },
     {
       "slug": "later-influence",
@@ -1639,7 +1970,7 @@
           "read": "2026-10-06"
         }
       ],
-      "editor": "The Evaluate AI Service editors",
+      "editor": "Peter Chen",
       "datePublished": "2026-10-06",
       "dateModified": "2026-10-06",
       "lastChecked": "2026-10-06",
@@ -1901,7 +2232,7 @@
           "read": "2026-10-05"
         }
       ],
-      "editor": "The Evaluate AI Service editors",
+      "editor": "Peter Chen",
       "datePublished": "2026-10-05",
       "dateModified": "2026-10-05",
       "lastChecked": "2026-10-05",
@@ -2118,7 +2449,7 @@
           "read": "2026-10-06"
         }
       ],
-      "editor": "The Evaluate AI Service editors",
+      "editor": "Peter Chen",
       "datePublished": "2026-10-06",
       "dateModified": "2026-10-07",
       "lastChecked": "2026-10-06",
@@ -2356,12 +2687,185 @@
           "read": "2026-10-05"
         }
       ],
-      "editor": "The Evaluate AI Service editors",
+      "editor": "Peter Chen",
       "datePublished": "2026-10-05",
       "dateModified": "2026-10-08",
       "lastChecked": "2026-10-05",
       "pageUrl": "https://eaiservice.com/reviews/owner-com/",
       "markdownUrl": "https://eaiservice.com/reviews/owner-com/index.md"
+    },
+    {
+      "slug": "patch-retention",
+      "name": "Patch Retention",
+      "maker": "Patch Retention, Inc.",
+      "vendorUrl": "https://patchretention.com/",
+      "category": "sms-marketing",
+      "crossList": [],
+      "relationship": null,
+      "relationshipText": null,
+      "criteria": [
+        {
+          "key": "core",
+          "label": "Core job",
+          "weight": 0.25,
+          "score": 3,
+          "evidence": "SMS campaigns, two-way texting, automated journeys and kiosk check-in are described; no first-hand check.",
+          "sources": [
+            "https://patchretention.com/sms-campaigns",
+            "https://patchretention.com/kiosk-checkins",
+            "https://patchretention.com/agency-services"
+          ]
+        },
+        {
+          "key": "fit",
+          "label": "Fit for the category's buyer",
+          "weight": 0.2,
+          "score": 3,
+          "evidence": "Names local venues, not restaurants; done-for-you is a separate Agency Services offer bought through a demo, and the kiosk is its app on an iPad, with no supplied device named.",
+          "sources": [
+            "https://patchretention.com/",
+            "https://patchretention.com/agency-services",
+            "https://patchretention.com/kiosk-checkins",
+            "https://patchretention.com/terms-and-conditions"
+          ]
+        },
+        {
+          "key": "pricing",
+          "label": "Pricing transparency",
+          "weight": 0.2,
+          "score": 2,
+          "evidence": "No pricing page on the vendor site; only its Shopify app lists a price, $395 a month plus $0.02 per SMS.",
+          "sources": [
+            "https://apps.shopify.com/patch-customer-retention",
+            "https://patchretention.com/"
+          ]
+        },
+        {
+          "key": "setup",
+          "label": "Setup and time to first result",
+          "weight": 0.15,
+          "score": 2,
+          "evidence": "The venue product is sold through a demo; a self-serve install exists only for Shopify stores.",
+          "sources": [
+            "https://patchretention.com/",
+            "https://apps.shopify.com/patch-customer-retention",
+            "https://help.patchretention.com/"
+          ]
+        },
+        {
+          "key": "integrations",
+          "label": "Integrations and data portability",
+          "weight": 0.1,
+          "score": 3,
+          "evidence": "The help centre documents Square and Smartwaiver integrations; REST APIs and webhooks are claimed, with no public API reference found.",
+          "sources": [
+            "https://help.patchretention.com/",
+            "https://patchretention.com/data-integration"
+          ]
+        },
+        {
+          "key": "trust",
+          "label": "Trust, security and support",
+          "weight": 0.1,
+          "score": 2,
+          "evidence": "SOC 2 is claimed, but there is no trust page or report; support is a ticket form and email, and a DPA is listed.",
+          "sources": [
+            "https://patchretention.com/data-integration",
+            "https://help.patchretention.com/",
+            "https://patchretention.com/terms-and-conditions"
+          ]
+        }
+      ],
+      "overallScore": 2.6,
+      "overallScoreText": "2.6",
+      "criteriaWithEvidence": 6,
+      "prices": {
+        "sourceUrl": "https://apps.shopify.com/patch-customer-retention",
+        "read": "2026-10-22",
+        "tiers": [
+          {
+            "name": "Shopify app",
+            "price": "$395 a month",
+            "chargedPer": "—",
+            "limit": "$0.02 per SMS on top. This is the price for the Shopify online-store install; the venue product is sold through a demo.",
+            "amount": 395,
+            "currency": "USD"
+          }
+        ],
+        "notes": [
+          "Patch Retention Shopify app: the Shopify App Store listing shows $395 a month plus $0.02 per SMS, billed every 30 days, with no free trial listed.",
+          "Patch Retention venues: patchretention.com has no pricing page; the venue product and Agency Services are sold through a demo, with no published price."
+        ]
+      },
+      "freePlanOrTrial": "No",
+      "freePlan": "no",
+      "selfServeTrial": "no",
+      "reddit": {
+        "query": "citygro; patch retention",
+        "searched": [],
+        "from": "2024-10-22",
+        "to": "2026-10-22",
+        "fromToMeans": "dates the threads were started",
+        "repliesRead": "2026-10-22",
+        "threads": 0,
+        "negative": 0,
+        "mixed": 0,
+        "positive": 0,
+        "excerpts": []
+      },
+      "sources": [
+        {
+          "url": "https://patchretention.com/",
+          "title": "Patch Retention home page (citygro.com redirects here)",
+          "read": "2026-10-22"
+        },
+        {
+          "url": "https://patchretention.com/kiosk-checkins",
+          "title": "Patch Retention kiosk check-ins",
+          "read": "2026-10-22"
+        },
+        {
+          "url": "https://patchretention.com/agency-services",
+          "title": "Patch Retention Agency Services",
+          "read": "2026-10-22"
+        },
+        {
+          "url": "https://patchretention.com/sms-campaigns",
+          "title": "Patch Retention SMS campaigns",
+          "read": "2026-10-22"
+        },
+        {
+          "url": "https://patchretention.com/data-integration",
+          "title": "Patch Retention data integration",
+          "read": "2026-10-22"
+        },
+        {
+          "url": "https://patchretention.com/terms-and-conditions",
+          "title": "Patch Retention terms of service",
+          "read": "2026-10-22"
+        },
+        {
+          "url": "https://help.patchretention.com/",
+          "title": "Patch Retention help centre",
+          "read": "2026-10-22"
+        },
+        {
+          "url": "https://apps.shopify.com/patch-customer-retention",
+          "title": "Patch Retention on the Shopify App Store",
+          "read": "2026-10-22"
+        },
+        {
+          "url": "https://web.archive.org/web/20250114132928/https://citygro.com/citygro-by-patch/",
+          "title": "CityGro is now Patch (archived CityGro post)",
+          "read": "2026-10-22"
+        }
+      ],
+      "editor": "Peter Chen",
+      "datePublished": "2026-10-24",
+      "dateModified": "2026-10-24",
+      "lastChecked": "2026-10-22",
+      "pageUrl": "https://eaiservice.com/reviews/patch-retention/",
+      "markdownUrl": "https://eaiservice.com/reviews/patch-retention/index.md"
     },
     {
       "slug": "popmenu",
@@ -2623,12 +3127,188 @@
           "read": "2026-10-05"
         }
       ],
-      "editor": "The Evaluate AI Service editors",
+      "editor": "Peter Chen",
       "datePublished": "2026-10-05",
       "dateModified": "2026-10-05",
       "lastChecked": "2026-10-05",
       "pageUrl": "https://eaiservice.com/reviews/popmenu/",
       "markdownUrl": "https://eaiservice.com/reviews/popmenu/index.md"
+    },
+    {
+      "slug": "sendsational",
+      "name": "Sendsational",
+      "maker": "Sendsational",
+      "vendorUrl": "https://www.sendsationaltext.com/",
+      "category": "sms-marketing",
+      "crossList": [],
+      "relationship": "partner",
+      "relationshipText": "Sendsational is a business partner of CreatoRain, which we make.",
+      "criteria": [
+        {
+          "key": "core",
+          "label": "Core job",
+          "weight": 0.25,
+          "score": 5,
+          "evidence": "Vendor pages describe list building, offer copy, coupon artwork, sending, STOP handling and tablet-tracked redemptions; Peter Chen saw the full service in an in-person demo in October 2026.",
+          "sources": [
+            "https://www.sendsationaltext.com/how-it-works",
+            "https://www.sendsationaltext.com/pricing",
+            "https://www.sendsationaltext.com/sms-marketing-services"
+          ]
+        },
+        {
+          "key": "fit",
+          "label": "Fit for the category's buyer",
+          "weight": 0.2,
+          "score": 4,
+          "evidence": "Names restaurants; writing, sending and tracking every campaign is the base service, not an add-on, so above the 3 anchor; the sign-up kiosk is an optional add-on, so not 5.",
+          "sources": [
+            "https://www.sendsationaltext.com/",
+            "https://www.sendsationaltext.com/industries/restaurants",
+            "https://www.sendsationaltext.com/in-location-signup",
+            "https://www.sendsationaltext.com/pricing"
+          ]
+        },
+        {
+          "key": "pricing",
+          "label": "Pricing transparency",
+          "weight": 0.2,
+          "score": 1,
+          "evidence": "No price is published. Every client gets a flat quote set by list size, sending frequency and creative; only the free start of 5,000 texts is stated.",
+          "sources": [
+            "https://www.sendsationaltext.com/pricing"
+          ]
+        },
+        {
+          "key": "setup",
+          "label": "Setup and time to first result",
+          "weight": 0.15,
+          "score": 3,
+          "evidence": "Starts with a form or a call; the team builds each campaign for your approval. Scored after Peter Chen's in-person demo in October 2026; above 3 needs a signup of our own.",
+          "sources": [
+            "https://www.sendsationaltext.com/",
+            "https://www.sendsationaltext.com/how-it-works"
+          ]
+        },
+        {
+          "key": "integrations",
+          "label": "Integrations and data portability",
+          "weight": 0.1,
+          "score": 3,
+          "evidence": "Names the POS, ordering, reservation, store and CRM tools it builds your list from, including Toast, Square and Clover; no public API or export documentation found.",
+          "sources": [
+            "https://www.sendsationaltext.com/integrations"
+          ]
+        },
+        {
+          "key": "trust",
+          "label": "Trust, security and support",
+          "weight": 0.1,
+          "score": 2,
+          "evidence": "Phone, text and email support are published, with privacy and SMS compliance pages; no certification, status page or user reports found.",
+          "sources": [
+            "https://www.sendsationaltext.com/about",
+            "https://www.sendsationaltext.com/sms-compliance",
+            "https://www.sendsationaltext.com/privacy-policy"
+          ]
+        }
+      ],
+      "overallScore": 3.2,
+      "overallScoreText": "3.2",
+      "criteriaWithEvidence": 6,
+      "prices": {
+        "sourceUrl": "https://www.sendsationaltext.com/pricing",
+        "read": "2026-10-22",
+        "tiers": [
+          {
+            "name": "Managed program",
+            "price": "Quote on request",
+            "chargedPer": "Per business",
+            "limit": "Includes copy, picture-coupon artwork, list setup, sending, opt-out handling, unique redemption codes, tracking and support. The price depends on list size, how often you send and how much creative you need.",
+            "amount": null,
+            "currency": "USD"
+          }
+        ],
+        "notes": [
+          "Sendsational managed program: the pricing page publishes no price and says it does not charge per message; each business gets one flat quote.",
+          "Sendsational free start: every new client starts with 5,000 free text messages, artwork, campaign support and redemption tracking, with no commitment.",
+          "Sendsational kiosk: the in-location sign-up kiosk is an optional add-on, and its price is not stated."
+        ]
+      },
+      "freePlanOrTrial": "No self-serve trial; the first 5,000 texts are free after a form or call",
+      "freePlan": "no",
+      "selfServeTrial": "no",
+      "reddit": {
+        "query": "Sendsational",
+        "searched": [],
+        "from": "2024-10-22",
+        "to": "2026-10-22",
+        "fromToMeans": "dates the threads were started",
+        "repliesRead": "2026-10-22",
+        "threads": 0,
+        "negative": 0,
+        "mixed": 0,
+        "positive": 0,
+        "excerpts": []
+      },
+      "sources": [
+        {
+          "url": "https://www.sendsationaltext.com/",
+          "title": "Sendsational home page",
+          "read": "2026-10-22"
+        },
+        {
+          "url": "https://www.sendsationaltext.com/pricing",
+          "title": "Sendsational pricing",
+          "read": "2026-10-22"
+        },
+        {
+          "url": "https://www.sendsationaltext.com/how-it-works",
+          "title": "Sendsational: How it works",
+          "read": "2026-10-22"
+        },
+        {
+          "url": "https://www.sendsationaltext.com/in-location-signup",
+          "title": "Sendsational in-location sign-up kiosks",
+          "read": "2026-10-22"
+        },
+        {
+          "url": "https://www.sendsationaltext.com/sms-marketing-services",
+          "title": "Sendsational managed SMS marketing",
+          "read": "2026-10-22"
+        },
+        {
+          "url": "https://www.sendsationaltext.com/integrations",
+          "title": "Sendsational integrations",
+          "read": "2026-10-22"
+        },
+        {
+          "url": "https://www.sendsationaltext.com/industries/restaurants",
+          "title": "Sendsational for restaurants",
+          "read": "2026-10-22"
+        },
+        {
+          "url": "https://www.sendsationaltext.com/about",
+          "title": "About Sendsational's founder",
+          "read": "2026-10-22"
+        },
+        {
+          "url": "https://www.sendsationaltext.com/sms-compliance",
+          "title": "Sendsational SMS compliance",
+          "read": "2026-10-22"
+        },
+        {
+          "url": "https://www.sendsationaltext.com/privacy-policy",
+          "title": "Sendsational privacy policy",
+          "read": "2026-10-22"
+        }
+      ],
+      "editor": "Peter Chen",
+      "datePublished": "2026-10-22",
+      "dateModified": "2026-10-26",
+      "lastChecked": "2026-10-22",
+      "pageUrl": "https://eaiservice.com/reviews/sendsational/",
+      "markdownUrl": "https://eaiservice.com/reviews/sendsational/index.md"
     },
     {
       "slug": "sevenrooms",
@@ -2844,7 +3524,7 @@
           "read": "2026-10-05"
         }
       ],
-      "editor": "The Evaluate AI Service editors",
+      "editor": "Peter Chen",
       "datePublished": "2026-10-05",
       "dateModified": "2026-10-05",
       "lastChecked": "2026-10-05",
@@ -3056,12 +3736,222 @@
           "read": "2026-10-05"
         }
       ],
-      "editor": "The Evaluate AI Service editors",
+      "editor": "Peter Chen",
       "datePublished": "2026-10-05",
       "dateModified": "2026-10-05",
       "lastChecked": "2026-10-05",
       "pageUrl": "https://eaiservice.com/reviews/slang-ai/",
       "markdownUrl": "https://eaiservice.com/reviews/slang-ai/index.md"
+    },
+    {
+      "slug": "slicktext",
+      "name": "SlickText",
+      "maker": "Slick Innovations, LLC",
+      "vendorUrl": "https://www.slicktext.com/",
+      "category": "sms-marketing",
+      "crossList": [],
+      "relationship": null,
+      "relationshipText": null,
+      "criteria": [
+        {
+          "key": "core",
+          "label": "Core job",
+          "weight": 0.25,
+          "score": 3,
+          "evidence": "Keywords, QR codes, web forms and popups for sign-up, plus campaigns, workflows, segments, a two-way inbox and analytics are named; no first-hand check.",
+          "sources": [
+            "https://www.slicktext.com/",
+            "https://www.slicktext.com/features/"
+          ]
+        },
+        {
+          "key": "fit",
+          "label": "Fit for the category's buyer",
+          "weight": 0.2,
+          "score": 2,
+          "evidence": "A restaurants page and self-serve plans, but no tier offers done-for-you campaigns; you write, send and track each one, and in-store sign-up is a keyword or QR code.",
+          "sources": [
+            "https://www.slicktext.com/use-cases/restaurants",
+            "https://www.slicktext.com/pricing"
+          ]
+        },
+        {
+          "key": "pricing",
+          "label": "Pricing transparency",
+          "weight": 0.2,
+          "score": 4,
+          "evidence": "Eight plans are priced by monthly credits, from $29 for 500, with a 14-day trial; carrier fees are passed through and not listed per message.",
+          "sources": [
+            "https://www.slicktext.com/pricing"
+          ]
+        },
+        {
+          "key": "setup",
+          "label": "Setup and time to first result",
+          "weight": 0.15,
+          "score": 3,
+          "evidence": "Self-serve signup with no credit card; a sending number must be registered with carriers, often within a few hours. Not tested hands-on.",
+          "sources": [
+            "https://www.slicktext.com/pricing"
+          ]
+        },
+        {
+          "key": "integrations",
+          "label": "Integrations and data portability",
+          "weight": 0.1,
+          "score": 4,
+          "evidence": "Integrations page names HubSpot, Salesforce, Mailchimp, Shopify and Zapier, with a REST API and webhooks; no export documentation or count found.",
+          "sources": [
+            "https://www.slicktext.com/integrations/"
+          ]
+        },
+        {
+          "key": "trust",
+          "label": "Trust, security and support",
+          "weight": 0.1,
+          "score": 2,
+          "evidence": "Live phone, chat and email support from an in-house U.S. team, and G2 and Capterra badges citing 1,900+ and 250+ reviews; no certification or status page found.",
+          "sources": [
+            "https://www.slicktext.com/",
+            "https://www.slicktext.com/pricing"
+          ]
+        }
+      ],
+      "overallScore": 3,
+      "overallScoreText": "3.0",
+      "criteriaWithEvidence": 6,
+      "prices": {
+        "sourceUrl": "https://www.slicktext.com/pricing",
+        "read": "2026-10-22",
+        "tiers": [
+          {
+            "name": "500 credits",
+            "price": "$29 a month, billed monthly",
+            "chargedPer": "Per account",
+            "limit": "500 credits a month; 1 SMS is 1 credit and 1 MMS is 3 credits",
+            "amount": 29,
+            "currency": "USD"
+          },
+          {
+            "name": "1,000 credits",
+            "price": "$49 a month, billed monthly",
+            "chargedPer": "Per account",
+            "limit": "1,000 credits a month",
+            "amount": 49,
+            "currency": "USD"
+          },
+          {
+            "name": "2,000 credits",
+            "price": "$79 a month, billed monthly",
+            "chargedPer": "Per account",
+            "limit": "2,000 credits a month",
+            "amount": 79,
+            "currency": "USD"
+          },
+          {
+            "name": "3,500 credits",
+            "price": "$129 a month, billed monthly",
+            "chargedPer": "Per account",
+            "limit": "3,500 credits a month; includes a one-on-one onboarding session",
+            "amount": 129,
+            "currency": "USD"
+          },
+          {
+            "name": "5,000 credits",
+            "price": "$169 a month, billed monthly",
+            "chargedPer": "Per account",
+            "limit": "5,000 credits a month",
+            "amount": 169,
+            "currency": "USD"
+          },
+          {
+            "name": "10,000 credits",
+            "price": "$319 a month, billed monthly",
+            "chargedPer": "Per account",
+            "limit": "10,000 credits a month",
+            "amount": 319,
+            "currency": "USD"
+          },
+          {
+            "name": "25,000 credits",
+            "price": "$579 a month, billed monthly",
+            "chargedPer": "Per account",
+            "limit": "25,000 credits a month",
+            "amount": 579,
+            "currency": "USD"
+          },
+          {
+            "name": "50,000 credits",
+            "price": "$939 a month, billed monthly",
+            "chargedPer": "Per account",
+            "limit": "50,000 credits a month; includes a dedicated Customer Success Manager",
+            "amount": 939,
+            "currency": "USD"
+          },
+          {
+            "name": "Enterprise",
+            "price": "Quote on request",
+            "chargedPer": "—",
+            "limit": "Custom quote",
+            "amount": null,
+            "currency": "USD"
+          }
+        ],
+        "notes": [
+          "SlickText yearly billing: paying yearly gives 2 months of credits free.",
+          "SlickText carrier fees: carriers' per-message fees are passed through at no markup and vary by number type, country and message type.",
+          "SlickText RCS: RCS messaging costs a $500 one-time setup fee and a $200 yearly maintenance fee."
+        ]
+      },
+      "freePlanOrTrial": "Trial 14 days",
+      "freePlan": "unknown",
+      "selfServeTrial": "yes",
+      "reddit": {
+        "query": "SlickText",
+        "searched": [],
+        "from": "2024-10-22",
+        "to": "2026-10-22",
+        "fromToMeans": "dates the threads were started",
+        "repliesRead": "2026-10-22",
+        "threads": 0,
+        "negative": 0,
+        "mixed": 0,
+        "positive": 0,
+        "excerpts": []
+      },
+      "sources": [
+        {
+          "url": "https://www.slicktext.com/pricing",
+          "title": "SlickText pricing",
+          "read": "2026-10-22"
+        },
+        {
+          "url": "https://www.slicktext.com/",
+          "title": "SlickText home page",
+          "read": "2026-10-22"
+        },
+        {
+          "url": "https://www.slicktext.com/features/",
+          "title": "SlickText features",
+          "read": "2026-10-22"
+        },
+        {
+          "url": "https://www.slicktext.com/integrations/",
+          "title": "SlickText integrations",
+          "read": "2026-10-22"
+        },
+        {
+          "url": "https://www.slicktext.com/use-cases/restaurants",
+          "title": "SlickText for restaurants and franchises",
+          "read": "2026-10-22"
+        }
+      ],
+      "editor": "Peter Chen",
+      "datePublished": "2026-10-22",
+      "dateModified": "2026-10-24",
+      "lastChecked": "2026-10-22",
+      "pageUrl": "https://eaiservice.com/reviews/slicktext/",
+      "markdownUrl": "https://eaiservice.com/reviews/slicktext/index.md"
     },
     {
       "slug": "smartlead",
@@ -3344,7 +4234,7 @@
           "read": "2026-10-05"
         }
       ],
-      "editor": "The Evaluate AI Service editors",
+      "editor": "Peter Chen",
       "datePublished": "2026-10-05",
       "dateModified": "2026-10-05",
       "lastChecked": "2026-10-05",
@@ -3611,12 +4501,220 @@
           "read": "2026-10-05"
         }
       ],
-      "editor": "The Evaluate AI Service editors",
+      "editor": "Peter Chen",
       "datePublished": "2026-10-05",
       "dateModified": "2026-10-05",
       "lastChecked": "2026-10-05",
       "pageUrl": "https://eaiservice.com/reviews/smith-ai/",
       "markdownUrl": "https://eaiservice.com/reviews/smith-ai/index.md"
+    },
+    {
+      "slug": "textmunication",
+      "name": "Textmunication",
+      "maker": "Textmunication, Inc.",
+      "vendorUrl": "https://www.textmunication.com/",
+      "category": "sms-marketing",
+      "crossList": [],
+      "relationship": null,
+      "relationshipText": null,
+      "criteria": [
+        {
+          "key": "core",
+          "label": "Core job",
+          "weight": 0.25,
+          "score": 3,
+          "evidence": "Unlimited keywords, SAM Gamification, SAM AI automation, a loyalty app and delivery reports are named, with reservation and POS sync for restaurants; no first-hand check.",
+          "sources": [
+            "https://www.textmunication.com/",
+            "https://www.textmunication.com/industries/restaurants",
+            "https://www.textmunication.com/pricing",
+            "https://www.textmunication.com/service-organization-controls-compliance"
+          ]
+        },
+        {
+          "key": "fit",
+          "label": "Fit for the category's buyer",
+          "weight": 0.2,
+          "score": 2,
+          "evidence": "A restaurants page, but onboarding only connects the POS and sets up flows; you or its AI write and send, no managed tier is sold, and keypad sign-up is run by the guest.",
+          "sources": [
+            "https://www.textmunication.com/industries/restaurants",
+            "https://www.textmunication.com/pricing"
+          ]
+        },
+        {
+          "key": "pricing",
+          "label": "Pricing transparency",
+          "weight": 0.2,
+          "score": 4,
+          "evidence": "Seven plans priced monthly or yearly with message allowances, overage per message and 10DLC fees, plus a 30-day trial; MMS rates and carrier surcharges are not priced.",
+          "sources": [
+            "https://www.textmunication.com/pricing"
+          ]
+        },
+        {
+          "key": "setup",
+          "label": "Setup and time to first result",
+          "weight": 0.15,
+          "score": 3,
+          "evidence": "Self-serve signup; its team guides 10DLC carrier registration during onboarding at no extra charge. Not tested hands-on.",
+          "sources": [
+            "https://www.textmunication.com/pricing",
+            "https://www.textmunication.com/"
+          ]
+        },
+        {
+          "key": "integrations",
+          "label": "Integrations and data portability",
+          "weight": 0.1,
+          "score": 4,
+          "evidence": "Names Shopify, WooCommerce, Salesforce, OpenTable, Resy, Toast and Square, with an SMS API and CSV report export; no integration directory or count found.",
+          "sources": [
+            "https://www.textmunication.com/",
+            "https://www.textmunication.com/industries/restaurants",
+            "https://www.textmunication.com/service-organization-controls-compliance"
+          ]
+        },
+        {
+          "key": "trust",
+          "label": "Trust, security and support",
+          "weight": 0.1,
+          "score": 3,
+          "evidence": "A published API SLA of 99.95% monthly uptime with service credits, and a compliance and controls page; no certification or status page found.",
+          "sources": [
+            "https://www.textmunication.com/api-service-level-agreement",
+            "https://www.textmunication.com/service-organization-controls-compliance"
+          ]
+        }
+      ],
+      "overallScore": 3.1,
+      "overallScoreText": "3.1",
+      "criteriaWithEvidence": 6,
+      "prices": {
+        "sourceUrl": "https://www.textmunication.com/pricing",
+        "read": "2026-10-24",
+        "tiers": [
+          {
+            "name": "Start",
+            "price": "$29 a month, billed monthly",
+            "chargedPer": "Per account",
+            "limit": "750 messages a month, then 5 cents a message; plus $25 a month 10DLC campaign management and $125 one-time brand registration",
+            "amount": 29,
+            "currency": "USD"
+          },
+          {
+            "name": "Walk",
+            "price": "$69 a month, billed monthly",
+            "chargedPer": "Per account",
+            "limit": "2,000 messages a month, then 4.5 cents a message; plus $25 a month 10DLC campaign management",
+            "amount": 69,
+            "currency": "USD"
+          },
+          {
+            "name": "Jog",
+            "price": "$149 a month, billed monthly",
+            "chargedPer": "Per account",
+            "limit": "4,500 messages a month, then 4 cents a message; plus $25 a month 10DLC campaign management",
+            "amount": 149,
+            "currency": "USD"
+          },
+          {
+            "name": "Run",
+            "price": "$249 a month, billed monthly",
+            "chargedPer": "Per account",
+            "limit": "8,000 messages a month, then 3.5 cents a message",
+            "amount": 249,
+            "currency": "USD"
+          },
+          {
+            "name": "Sprint",
+            "price": "$349 a month, billed monthly",
+            "chargedPer": "Per account",
+            "limit": "12,000 messages a month, then 2.9 cents a message",
+            "amount": 349,
+            "currency": "USD"
+          },
+          {
+            "name": "Fly",
+            "price": "$485 a month, billed monthly",
+            "chargedPer": "Per account",
+            "limit": "25,000 messages a month, then 2.5 cents a message",
+            "amount": 485,
+            "currency": "USD"
+          },
+          {
+            "name": "To the Moon",
+            "price": "$899 a month, billed monthly",
+            "chargedPer": "Per account",
+            "limit": "50,000 messages a month, then 2 cents a message",
+            "amount": 899,
+            "currency": "USD"
+          },
+          {
+            "name": "Enterprise",
+            "price": "Quote on request",
+            "chargedPer": "—",
+            "limit": "Unlimited messages, custom integrations and priority onboarding, by quote",
+            "amount": null,
+            "currency": "USD"
+          }
+        ],
+        "notes": [
+          "Textmunication MMS: MMS messages are priced differently from SMS, and the pricing page gives no MMS rate.",
+          "Textmunication carrier fees: carriers' surcharges are charged on top of the message price and vary by message, number type and carrier.",
+          "Textmunication 10DLC fees: campaign management costs $25 a month on plans up to $149 a month and is waived above that, brand registration is $125 one-time per brand, and each additional 10DLC is $2 a month.",
+          "Textmunication short code and toll-free: a short code costs $1,800 one-time per brand plus $750 a month, and an additional toll-free number is $10 a month."
+        ]
+      },
+      "freePlanOrTrial": "Trial 30 days",
+      "freePlan": "unknown",
+      "selfServeTrial": "yes",
+      "reddit": {
+        "query": "Textmunication",
+        "searched": [],
+        "from": "2024-10-22",
+        "to": "2026-10-22",
+        "fromToMeans": "dates the threads were started",
+        "repliesRead": "2026-10-22",
+        "threads": 0,
+        "negative": 0,
+        "mixed": 0,
+        "positive": 0,
+        "excerpts": []
+      },
+      "sources": [
+        {
+          "url": "https://www.textmunication.com/pricing",
+          "title": "Textmunication pricing",
+          "read": "2026-10-24"
+        },
+        {
+          "url": "https://www.textmunication.com/",
+          "title": "Textmunication home page",
+          "read": "2026-10-22"
+        },
+        {
+          "url": "https://www.textmunication.com/industries/restaurants",
+          "title": "Textmunication for restaurants",
+          "read": "2026-10-22"
+        },
+        {
+          "url": "https://www.textmunication.com/api-service-level-agreement",
+          "title": "Textmunication SMS API service level agreement",
+          "read": "2026-10-22"
+        },
+        {
+          "url": "https://www.textmunication.com/service-organization-controls-compliance",
+          "title": "Textmunication compliance and controls",
+          "read": "2026-10-22"
+        }
+      ],
+      "editor": "Peter Chen",
+      "datePublished": "2026-10-22",
+      "dateModified": "2026-10-24",
+      "lastChecked": "2026-10-22",
+      "pageUrl": "https://eaiservice.com/reviews/textmunication/",
+      "markdownUrl": "https://eaiservice.com/reviews/textmunication/index.md"
     },
     {
       "slug": "toast-marketing",
@@ -3792,7 +4890,7 @@
           "read": "2026-10-05"
         }
       ],
-      "editor": "The Evaluate AI Service editors",
+      "editor": "Peter Chen",
       "datePublished": "2026-10-05",
       "dateModified": "2026-10-05",
       "lastChecked": "2026-10-05",
@@ -3996,7 +5094,7 @@
           "read": "2026-10-06"
         }
       ],
-      "editor": "The Evaluate AI Service editors",
+      "editor": "Peter Chen",
       "datePublished": "2026-10-06",
       "dateModified": "2026-10-08",
       "lastChecked": "2026-10-06",
@@ -4271,7 +5369,7 @@
           "read": "2026-10-05"
         }
       ],
-      "editor": "The Evaluate AI Service editors",
+      "editor": "Peter Chen",
       "datePublished": "2026-10-05",
       "dateModified": "2026-10-07",
       "lastChecked": "2026-10-05",
